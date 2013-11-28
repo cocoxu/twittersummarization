@@ -1,0 +1,126 @@
+#tweets in the cluster:  301
+
+== PageRank SubEvent Flex ==
+GDA is tomorrow in Malaysia right ?
+GDA tomorrow . Please do watch my performance , G-Dragon 's and Epik High 's performances . ^^
+RT @SuneyABO : The 27th GDA will be held on Jan 15 &amp; 16 . f(x ) will attend this award on Jan 16 ( with T-ARA , Secret , SISTAR , miss A , T ...
+
+== PageRank SubEvent Fixed ==
+GDA is tomorrow in Malaysia right ?
+GDA tomorrow . Please do watch my performance , G-Dragon 's and Epik High 's performances . ^^
+RT @SuneyABO : The 27th GDA will be held on Jan 15 &amp; 16 . f(x ) will attend this award on Jan 16 ( with T-ARA , Secret , SISTAR , miss A , T ...
+
+== SumBasic ==
+GDA will be held in Sepang F1 Circuit,MALAYSIA  on 15 and 16 January 2013.
+Is EXO going to perform once again tomorrow for GDA??
+okay, sleep time! tomorrow I will more excited to see SJ at GDA
+
+== PageRank IE ==
+GDA is tomorrow in Malaysia right?
+GDA will be held at F1 Sepang on 15 &amp; 16 Jan.Tix price will be RM688 &amp; RM999.
+GDA tomorrow. Please do watch my performance, G-Dragon's and Epik High's performances. ^^
+
+== SumBasic Reference of 20 ==
+GDA will be held in Sepang F1 Circuit,MALAYSIA  on 15 and 16 January 2013.
+Is EXO going to perform once again tomorrow for GDA??
+okay, sleep time! tomorrow I will more excited to see SJ at GDA
+who go to GDA 15 n 16 jan 2013 ?
+we can't stream GDA today or tomorrow but on the 19th ;-;
+[INFO] f(x) will fly to Malaysia on Jan 15th for the second day of GDA on Jan 16th
+RT if you are attending tomorrow GDA just for T-ara
+The 27th GDA will be held on 15 and 16 jan, T-ARA will attend this awards on Jan 16 (with, Secret, SISTAR, miss A, Teentop, Ailee,f(x) etc.)
+So according to SinChew Daily, GDA will be held at F1 Sepang, Msia on 15 &amp; 16 January. Tickets price will be 688 &amp; 999 (for two days entry)
+And yeah, GDA part 2 tomorrow with YG fam? Does it mean except from BB, EH and LH other ygartist will be there also? Please enlighten me lol
+i bet my pretty shoes that is gonna GD play instagram tomorrow during GDA .
+should go to sleep now cause i have school for tomorrow. I can't watch my babe at GDA tonight or do the live report :(
+[INFO] The \"27th GDA\" will be divided into 2 parts: Disk / Physical Awards (January 15) &amp; Digital Awards (January 16) (cr: B2STFINITEngSub)
+RT @MY_TEENTOP: TEEN TOP will be performing Crazy, To You and Be Ma Girl tomorrow at GDA. #GoodluckTEENTOP
+RT @VIPsthebest: [INFO] Today's GDA will not have Epik High, G-Dragon, Lee Hi attendance. They will all go together tomorrow.
+I hope she can go to GDA tomorrow. Please Aida!
+\"Gda will take place at F1 Sepang,Malaysia on 15 &amp; 16 Jan 2013. Ticket prize RM688 &amp; RM999. Entitled for 2 days entry. V:Sinchew Daily\"
+Today is the 2nd of GDA in KL :D Don't miss secret performance (only 3 members T^T) and also BAP perf! ^^
+@KrazeOvaU yeah maybe. maybe he was tired too. GD's a one busy man. are u going to GDA tomorrow night to watch him live?
+I gonna stop talking about GDA right now I'll be continue tomorrow bye
+
+
+#tweets in the cluster:  301
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.43167659746 Arguments:f1 sepang,t-ara,sinchew daily Predicates:malaysia,hold
+0.303941278394 GDA is tomorrow in Malaysia right ?
+Event #2 - Proportion:0.211455050116 Arguments:g-dragon,epik high Predicates:performance,top
+0.283256029937 GDA tomorrow . Please do watch my performance , G-Dragon 's and Epik High 's performances . ^^
+Event #3 - Proportion:0.198894020642 Arguments:sistar,jan,incheon airport,miss a Predicates:head,attend
+0.275408438907 RT @SuneyABO : The 27th GDA will be held on Jan 15 &amp; 16 . f(x ) will attend this award on Jan 16 ( with T-ARA , Secret , SISTAR , miss A , T ...
+(Additional) Event #4 - Proportion:0.0300212282652 Arguments:teen
+0.0296653316268 RT @MY_TEENTOP : TEEN TOP will be performing Crazy , To You and Be Ma Girl tomorrow at GDA . #GoodluckTEENTOP
+(Additional) Event #5 - Proportion:0.03002122745 Arguments:bap
+0.0275004363869 Today is the 2nd of GDA in KL :D Don't miss secret performance ( only 3 members T^T ) and also BAP perf ! ^^
+(Additional) Event #6 - Proportion:0.0281818562996 Predicates:entitle
+0.0100685821159 will GD perform in GDA tonight or tomorrow ?
+(Additional) Event #7 - Proportion:0.024631430944 Predicates:info
+0.0393012315033 [ INFO ] Awards categories for GDA tonight n tomorrow ! cr : baki http://t.co/SdLJwdNJ
+(Additional) Event #8 - Proportion:0.022813674143 Predicates:watch
+0.0662390725095 @LizzyKwonGD are you going to watch GDA tomorrow ?
+(Additional) Event #9 - Proportion:0.0223049146807 Predicates:accord
+0.0100685821159 will GD perform in GDA tonight or tomorrow ?
+
+== SumBasic ==
+Word #1 - will 0.0356284153005
+GDA will be held in Sepang F1 Circuit,MALAYSIA  on 15 and 16 January 2013.
+Word #2 - tomorrow 0.0347540983607
+Is EXO going to perform once again tomorrow for GDA??
+Word #3 - at 0.0207650273224
+okay, sleep time! tomorrow I will more excited to see SJ at GDA
+
+== PageRank IE ==
+IE #1 - malaysia 7.57636678672
+GDA is tomorrow in Malaysia right?
+IE #2 - hold 6.05418601806
+GDA will be held at F1 Sepang on 15 &amp; 16 Jan.Tix price will be RM688 &amp; RM999.
+IE #3 - performance 4.32949030982
+GDA tomorrow. Please do watch my performance, G-Dragon's and Epik High's performances. ^^
+
+== SumBasic Reference of 20 ==
+Word #1 - will 0.0356284153005
+GDA will be held in Sepang F1 Circuit,MALAYSIA  on 15 and 16 January 2013.
+Word #2 - tomorrow 0.0347540983607
+Is EXO going to perform once again tomorrow for GDA??
+Word #3 - at 0.0207650273224
+okay, sleep time! tomorrow I will more excited to see SJ at GDA
+Word #4 - jan 0.0187978142077
+who go to GDA 15 n 16 jan 2013 ?
+Word #5 - the 0.015737704918
+we can't stream GDA today or tomorrow but on the 19th ;-;
+Word #6 - info 0.00808743169399
+[INFO] f(x) will fly to Malaysia on Jan 15th for the second day of GDA on Jan 16th
+Word #7 - you 0.0072131147541
+RT if you are attending tomorrow GDA just for T-ara
+Word #8 - awards 0.00633879781421
+The 27th GDA will be held on 15 and 16 jan, T-ARA will attend this awards on Jan 16 (with, Secret, SISTAR, miss A, Teentop, Ailee,f(x) etc.)
+Word #9 - so 0.00612021857923
+So according to SinChew Daily, GDA will be held at F1 Sepang, Msia on 15 &amp; 16 January. Tickets price will be 688 &amp; 999 (for two days entry)
+Word #10 - 2 0.00612021857923
+And yeah, GDA part 2 tomorrow with YG fam? Does it mean except from BB, EH and LH other ygartist will be there also? Please enlighten me lol
+Word #11 - that 0.00546448087432
+i bet my pretty shoes that is gonna GD play instagram tomorrow during GDA .
+Word #12 - tonight 0.00437158469945
+should go to sleep now cause i have school for tomorrow. I can't watch my babe at GDA tonight or do the live report :(
+Word #13 - cr 0.00371584699454
+[INFO] The \"27th GDA\" will be divided into 2 parts: Disk / Physical Awards (January 15) &amp; Digital Awards (January 16) (cr: B2STFINITEngSub)
+Word #14 - teen 0.00349726775956
+RT @MY_TEENTOP: TEEN TOP will be performing Crazy, To You and Be Ma Girl tomorrow at GDA. #GoodluckTEENTOP
+Word #15 - all 0.00306010928962
+RT @VIPsthebest: [INFO] Today's GDA will not have Epik High, G-Dragon, Lee Hi attendance. They will all go together tomorrow.
+Word #16 - can 0.00306010928962
+I hope she can go to GDA tomorrow. Please Aida!
+Word #17 - rm999 0.00284153005464
+\"Gda will take place at F1 Sepang,Malaysia on 15 &amp; 16 Jan 2013. Ticket prize RM688 &amp; RM999. Entitled for 2 days entry. V:Sinchew Daily\"
+Word #18 - performance 0.0024043715847
+Today is the 2nd of GDA in KL :D Don't miss secret performance (only 3 members T^T) and also BAP perf! ^^
+Word #19 - u 0.0024043715847
+@KrazeOvaU yeah maybe. maybe he was tired too. GD's a one busy man. are u going to GDA tomorrow night to watch him live?
+Word #20 - about 0.00218579234973
+I gonna stop talking about GDA right now I'll be continue tomorrow bye
+
+

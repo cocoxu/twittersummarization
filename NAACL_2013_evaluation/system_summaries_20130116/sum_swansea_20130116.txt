@@ -1,0 +1,127 @@
+#tweets in the cluster:  315
+
+== PageRank SubEvent Flex ==
+Arsenal v Swansea tonight in the FA Cup 3rd round replay at the Emirates
+Swansea match so important tomorrow . Must win .
+
+== PageRank SubEvent Fixed ==
+Arsenal v Swansea tonight in the FA Cup 3rd round replay at the Emirates
+Swansea match so important tomorrow . Must win .
+Ba rested for Wednesday ( Swansea ) game .
+
+== SumBasic ==
+Arsenal - Swansea will be played on the 16th of January.
+Yeah I am going to Arsenal v Swansea tomorrow
+Ba rested for Wednesday (Swansea) game.
+
+== PageRank IE ==
+Arsenal v Swansea, Jan 16th. FA Cup. Interested?
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+@tm765 man u on ITV and Swansea on ESPN - both tomorrow
+
+== SumBasic Reference of 20 ==
+Arsenal - Swansea will be played on the 16th of January.
+Yeah I am going to Arsenal v Swansea tomorrow
+Ba rested for Wednesday (Swansea) game.
+#afc Team News for tomorrow nights game against Swansea in FA Cup replay!
+We are prepared to kick Swansea out of the F.A.Cup at the Emirates tomorrow
+@tm765 man u on ITV and Swansea on ESPN - both tomorrow
+Jack says: \"It was on Wednesday night against Swansea. It was easily the best goal I've ever scored\"
+@Joey7Barton  How do you think Swansea will get off tomorrow mate? Im hoping for a Win!
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+who wants to go to Arsenal vs Swansea tomorrow
+C'mon #ArsenaI we have to beat Swansea tonight!!!
+Swansea match so important tomorrow. Must win.
+Man of the Match v Swansea - Wilshere: Who did you think was our best performer on Wednesday? http://t.co/BZPEf0Oi From http://t.co/aBQmlqtg
+Is our game with Swansea on telly tomorrow anyone?
+Watch Swansea turn us over again next Wednesday and knock us out the cup #AFC
+Tomorrow soon to come, we will play Swansea. Let them know where come from, our wrath they shall see! #Arsenal #AFC
+Got my tickets for #BHAFC's 4th round FA Cup tie at the Amex!! Find out tonight if its Arsenal or Swansea we're up against!
+Koscielny will now miss the FA Cup 3rd round replay against Swansea on Wednesday.
+Erm, BBC Sport; Swansea are playing Chelsea NOT Arsenal. That was last Wednesday.
+\"Arsenal's FA Cup third-round replay against Swansea will take place at Emirates Stadium on Wednesday, January 16\" yes, but WHY
+
+
+#tweets in the cluster:  315
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.580673224707 Arguments:fa cup,espn,emirates stadium Predicates:arsenal,replay
+0.49862114811 Arsenal v Swansea tonight in the FA Cup 3rd round replay at the Emirates
+Event #2 - Proportion:0.114446355749 Predicates:win,show
+0.114124605497 Swansea match so important tomorrow . Must win .
+(Additional) Event #3 - Proportion:0.0656348752589 Predicates:game
+0.116885643486 Ba rested for Wednesday ( Swansea ) game .
+(Additional) Event #4 - Proportion:0.0385767232004 Arguments:koscielny
+0.0415045511743 @CodyEdrington Koscielny 's back . He had his suspension on Wednesday against Swansea .
+(Additional) Event #5 - Proportion:0.0365189575996 Predicates:announce
+0.00583117051654 We are pleased to announce that the third round F.A cup replay between Arsenal and Swansea will be live on ESPN on January 16th #afc #scfc
+(Additional) Event #6 - Proportion:0.0355533772191 Predicates:watch
+0.0440543805277 Watch Swansea turn us over again next Wednesday and knock us out the cup #AFC
+(Additional) Event #7 - Proportion:0.0339917737448 Predicates:chelsea
+0.0380427779533 Anyone got or know of a spare pair of tickets for Swansea v Chelsea on wednesday night ?
+(Additional) Event #8 - Proportion:0.0323471295502 Predicates:beat
+0.0662520946789 C'mon #ArsenaI we have to beat Swansea tonight !!!
+(Additional) Event #9 - Proportion:0.0318103478431 Arguments:itv
+0.0428866601426 @tm765 man u on ITV and Swansea on ESPN - both tomorrow
+(Additional) Event #10 - Proportion:0.0304472351276 Predicates:score
+0.039943060582 Can't wait for Swansea to score tomorrow and everybody tweeting " Shit Happens "
+
+== SumBasic ==
+Word #1 - on 0.0370044052863
+Arsenal - Swansea will be played on the 16th of January.
+Word #2 - tomorrow 0.0301762114537
+Yeah I am going to Arsenal v Swansea tomorrow
+Word #3 - wednesday 0.0290748898678
+Ba rested for Wednesday (Swansea) game.
+
+== PageRank IE ==
+IE #1 - arsenal 7.28458228139
+Arsenal v Swansea, Jan 16th. FA Cup. Interested?
+IE #2 - replay 3.31418112299
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+IE #3 - espn 2.47341749138
+@tm765 man u on ITV and Swansea on ESPN - both tomorrow
+
+== SumBasic Reference of 20 ==
+Word #1 - on 0.0370044052863
+Arsenal - Swansea will be played on the 16th of January.
+Word #2 - tomorrow 0.0301762114537
+Yeah I am going to Arsenal v Swansea tomorrow
+Word #3 - wednesday 0.0290748898678
+Ba rested for Wednesday (Swansea) game.
+Word #4 - against 0.0162995594714
+#afc Team News for tomorrow nights game against Swansea in FA Cup replay!
+Word #5 - a 0.0138766519824
+We are prepared to kick Swansea out of the F.A.Cup at the Emirates tomorrow
+Word #6 - and 0.0116740088106
+@tm765 man u on ITV and Swansea on ESPN - both tomorrow
+Word #7 - was 0.0116740088106
+Jack says: \"It was on Wednesday night against Swansea. It was easily the best goal I've ever scored\"
+Word #8 - you 0.00837004405286
+@Joey7Barton  How do you think Swansea will get off tomorrow mate? Im hoping for a Win!
+Word #9 - that 0.0079295154185
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+Word #10 - vs 0.0068281938326
+who wants to go to Arsenal vs Swansea tomorrow
+Word #11 - beat 0.00528634361233
+C'mon #ArsenaI we have to beat Swansea tonight!!!
+Word #12 - match 0.00528634361233
+Swansea match so important tomorrow. Must win.
+Word #13 - wilshere 0.00506607929515
+Man of the Match v Swansea - Wilshere: Who did you think was our best performer on Wednesday? http://t.co/BZPEf0Oi From http://t.co/aBQmlqtg
+Word #14 - is 0.00484581497797
+Is our game with Swansea on telly tomorrow anyone?
+Word #15 - next 0.00418502202643
+Watch Swansea turn us over again next Wednesday and knock us out the cup #AFC
+Word #16 - see 0.00374449339207
+Tomorrow soon to come, we will play Swansea. Let them know where come from, our wrath they shall see! #Arsenal #AFC
+Word #17 - if 0.00374449339207
+Got my tickets for #BHAFC's 4th round FA Cup tie at the Amex!! Find out tonight if its Arsenal or Swansea we're up against!
+Word #18 - 3rd 0.00352422907489
+Koscielny will now miss the FA Cup 3rd round replay against Swansea on Wednesday.
+Word #19 - chelsea 0.00330396475771
+Erm, BBC Sport; Swansea are playing Chelsea NOT Arsenal. That was last Wednesday.
+Word #20 - take 0.00308370044053
+\"Arsenal's FA Cup third-round replay against Swansea will take place at Emirates Stadium on Wednesday, January 16\" yes, but WHY
+
+

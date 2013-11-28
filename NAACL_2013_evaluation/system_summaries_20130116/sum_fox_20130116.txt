@@ -1,0 +1,109 @@
+#tweets in the cluster:  273
+
+== PageRank SubEvent Flex ==
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX .
+
+== PageRank SubEvent Fixed ==
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX .
+Moxies on Fox 8 tomorrow in the morning ! Everybody better watch !!
+
+== SumBasic ==
+American Idol Premieres January 16 At 8/7c On FOX.
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX.
+Excited for Arte to be on Fox 6 Wake Up tomorrow with many of my friends! Tune in 7am to 9am. :)
+
+== PageRank IE ==
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX.
+American Idol with @MariahCarey starts on January 16, at 8/7c on FOX!
+Watch @NICKIMINAJ on @AmericanIdol Premiering Tomorrow + Thursday on Fox!!! http://t.co/2nvkh8Ku
+
+== SumBasic Reference of 20 ==
+American Idol Premieres January 16 At 8/7c On FOX.
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX.
+Excited for Arte to be on Fox 6 Wake Up tomorrow with many of my friends! Tune in 7am to 9am. :)
+Fox 23 news at Hoosac Wednesday, should be fun.
+NEW #AmericanIdol Interview w/ @NICKIMINAJ  http://t.co/2nvkh8Ku -- SEASON 12 STARTS JAN 16TH on FOX
+Fox says #AmericanIdol to return January 16 and 17
+Watch @NICKIMINAJ on @AmericanIdol Premiering Tomorrow + Thursday on Fox!!! http://t.co/2nvkh8Ku
+I can't wait to see it! :D RT @MinajSoldier Tune into the season premiere of #AMERICANIDOL January 16th on FOX! http://t.co/FQc0acAP
+And Don't Miss Nicki Minaj judge on the NEW Season of American Idol, Premiering Wednesday, January 16th @ 8PM ET/PT on FOX
+Tomorrow Morning from 6 to 7:30, Fox 26 KNPN will be giving away free coffee at Apple Market on North 36th. Come help us celebrate the...
+After the show tomorrow night we are heading to the Fox if anyone's in!
+Get Ready My Favorite Show Is Coming Back January 16 and 17th On Fox!!!!! http://t.co/y15GcxVJ
+There are two of the older drivers sat together in the canteen tonight so I said to them its like waiting for fox on this table  #onthebuses
+Dreams Come True.... Here - January 16 - on FOX *-* A.I
+The season premiere of \"American Idol\" is Wed &amp; Thu Jan 16 &amp; 17 at 8/7c on FOX 2.
+2 days till American Idol kicks off. January 16th at 8/7c on FOX.
+So proud of @GPreetSingh90 for making it to the top 40 on American Idol. Make sure you tune in to FOX tomorrow at 8 PM EST to watch him!!
+That was awkwardly beautiful, can't wait for next Wednesday on FOX &amp;amp; CTV
+My good friend Glen Bucy sat down for an interview with Fox 4 yesterday to discuss President Obama's gun control... http://t.co/whq1fhRN
+Look @ Mariah tryna be the star RT @MisszSharii \"Everyone dreams. Idol delivers.\" AI premieres January 16th on FOX. http://t.co/0QbyFpic
+
+
+#tweets in the cluster:  273
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.928043474342 Arguments:american idol Predicates:premiere,season,start
+0.487459587606 Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX .
+(Additional) Event #2 - Proportion:0.0719565256578 Predicates:watch
+0.0548974619053 Moxies on Fox 8 tomorrow in the morning ! Everybody better watch !!
+
+== SumBasic ==
+Word #1 - on 0.100182704019
+American Idol Premieres January 16 At 8/7c On FOX.
+Word #2 - the 0.0261875761267
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX.
+Word #3 - tomorrow 0.0197929354446
+Excited for Arte to be on Fox 6 Wake Up tomorrow with many of my friends! Tune in 7am to 9am. :)
+
+== PageRank IE ==
+IE #1 - american idol 6.68550355883
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX.
+IE #2 - start 1.95931525707
+American Idol with @MariahCarey starts on January 16, at 8/7c on FOX!
+IE #3 - watch 1.42575911259
+Watch @NICKIMINAJ on @AmericanIdol Premiering Tomorrow + Thursday on Fox!!! http://t.co/2nvkh8Ku
+
+== SumBasic Reference of 20 ==
+Word #1 - on 0.100182704019
+American Idol Premieres January 16 At 8/7c On FOX.
+Word #2 - the 0.0261875761267
+Catch The Season Premiere of American Idol On January 16th at 8/7c on FOX.
+Word #3 - tomorrow 0.0197929354446
+Excited for Arte to be on Fox 6 Wake Up tomorrow with many of my friends! Tune in 7am to 9am. :)
+Word #4 - wednesday 0.0188794153471
+Fox 23 news at Hoosac Wednesday, should be fun.
+Word #5 - 12 0.00943970767357
+NEW #AmericanIdol Interview w/ @NICKIMINAJ  http://t.co/2nvkh8Ku -- SEASON 12 STARTS JAN 16TH on FOX
+Word #6 - 17 0.00943970767357
+Fox says #AmericanIdol to return January 16 and 17
+Word #7 - thursday 0.00852618757613
+Watch @NICKIMINAJ on @AmericanIdol Premiering Tomorrow + Thursday on Fox!!! http://t.co/2nvkh8Ku
+Word #8 - into 0.0063946406821
+I can't wait to see it! :D RT @MinajSoldier Tune into the season premiere of #AMERICANIDOL January 16th on FOX! http://t.co/FQc0acAP
+Word #9 - miss 0.00609013398295
+And Don't Miss Nicki Minaj judge on the NEW Season of American Idol, Premiering Wednesday, January 16th @ 8PM ET/PT on FOX
+Word #10 - will 0.00456760048721
+Tomorrow Morning from 6 to 7:30, Fox 26 KNPN will be giving away free coffee at Apple Market on North 36th. Come help us celebrate the...
+Word #11 - night 0.00456760048721
+After the show tomorrow night we are heading to the Fox if anyone's in!
+Word #12 - is 0.00426309378806
+Get Ready My Favorite Show Is Coming Back January 16 and 17th On Fox!!!!! http://t.co/y15GcxVJ
+Word #13 - this 0.00365408038977
+There are two of the older drivers sat together in the canteen tonight so I said to them its like waiting for fox on this table  #onthebuses
+Word #14 - a 0.00304506699147
+Dreams Come True.... Here - January 16 - on FOX *-* A.I
+Word #15 - wed 0.00304506699147
+The season premiere of \"American Idol\" is Wed &amp; Thu Jan 16 &amp; 17 at 8/7c on FOX 2.
+Word #16 - days 0.00274056029233
+2 days till American Idol kicks off. January 16th at 8/7c on FOX.
+Word #17 - est 0.00274056029233
+So proud of @GPreetSingh90 for making it to the top 40 on American Idol. Make sure you tune in to FOX tomorrow at 8 PM EST to watch him!!
+Word #18 - next 0.00243605359318
+That was awkwardly beautiful, can't wait for next Wednesday on FOX &amp;amp; CTV
+Word #19 - good 0.00243605359318
+My good friend Glen Bucy sat down for an interview with Fox 4 yesterday to discuss President Obama's gun control... http://t.co/whq1fhRN
+Word #20 - everyone 0.00213154689403
+Look @ Mariah tryna be the star RT @MisszSharii \"Everyone dreams. Idol delivers.\" AI premieres January 16th on FOX. http://t.co/0QbyFpic
+
+

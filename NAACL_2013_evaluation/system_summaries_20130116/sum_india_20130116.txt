@@ -1,0 +1,113 @@
+#tweets in the cluster:  202
+
+== PageRank SubEvent Flex ==
+Pakistan says to protest to India over new Kashmir killing : ISLAMABAD ( Reuters ) - The Pakistani army said on Wednesday it will protes ...
+#bdnews #bangladesh India , Bangladesh discuss greater rail cooperation : New Delhi , Jan 16 ( IANS ) The Indian and ... http://t.co/l1TIBulm
+
+== PageRank SubEvent Fixed ==
+Pakistan says to protest to India over new Kashmir killing : ISLAMABAD ( Reuters ) - The Pakistani army said on Wednesday it will protes ...
+#bdnews #bangladesh India , Bangladesh discuss greater rail cooperation : New Delhi , Jan 16 ( IANS ) The Indian and ... http://t.co/l1TIBulm
+India Commexes trade volume up 1 04% in Jan 16 31 Y o Y on rise in algo trade http://t.co/ZHRo9oa9
+
+== SumBasic ==
+Jacob going to India tomorrow.x
+@ChelseaKrost Chelsea, you have great Poise and Courage to Tackle the Tough Subject of Rapes in India--Wed Jan 16
+Maybe I should leave to India on Wednesday !
+
+== PageRank IE ==
+Pakistan says to protest to India over new Kashmir killing: ISLAMABAD (Reuters) - The Pakistani army said on Wednesday it will protes...
+Areva says India keen to start using EPR reactor: PARIS, Jan 16 (Reuters) - Negotiations about the sale of two... http://t.co/9Rqi7tH1
+#NEWS: After slowdown, India set to grow: World Bank: By Arun Kumar Washington, Jan 16 (IANS) After a sharp slow... http://t.co/lTHmdJgx
+
+== SumBasic Reference of 20 ==
+Jacob going to India tomorrow.x
+@ChelseaKrost Chelsea, you have great Poise and Courage to Tackle the Tough Subject of Rapes in India--Wed Jan 16
+Maybe I should leave to India on Wednesday !
+ISLAMABAD (Reuters) - The Pakistani army said on Wednesday it will protest to India over the killing of a... http://t.co/9rf9mcWw
+INDIA VS ENGLAND LIVE STREAMING LINK FOR ALL MOBILES - 16 JANUARY 2013   LinK 1 :... http://t.co/Ck6npyvz
+NAB may do favour to India by not arresting Pak PM: New Delhi, Jan 16: Pakistani Prime Minister Raja Perv... http://t.co/bJ6fHJr5 #india
+Pakistan's army protested to India on Wednesday over the killing of one of its soldiers in Kashmir, the fifth fa... http://t.co/NvNV8aWo
+So about that quiz tomorrow in world... What is India?
+OMG MY CRUSH GOT BACK FROM INDIA TODAY AAAAAAH HE IS BACK AT SCHOOL TOMORROW I KINDA MISSED HIM IDK
+India  I cannot believe this time tomorrow I will be interviewing for a job at LUSH!!!
+Here we go again. Train up to Aberdeen then offshore tomorrow. But when I get home, it's off to India for a couple of weeks.
+RT @Queen_Ritu: India has proof of Pak planting landmines across LoC: The Indian Army on Wednesday exposed its Pakistani counter... http ...
+#NEWS: After slowdown, India set to grow: World Bank: By Arun Kumar Washington, Jan 16 (IANS) After a sharp slow... http://t.co/lTHmdJgx
+Business Line : Industry &amp; Economy / Economy : Chidambaram to hold pre-Budget talks with India Inc on Jan 16 http://t.co/4AHugmFY
+RT @PennyKinned: January 16th. One month since the horrific Delhi gang-rape. The conversation about women's rights in India is louder an ...
+Areva says India keen to start using EPR reactor: PARIS, Jan 16 (Reuters) - Negotiations about the sale of two F... http://t.co/KBG0Fql9
+RT @SOAScentres: PUBLIC SEMINAR&gt; India, a 'Rising Power' and Africa: Challenges, by Dr Sumit Roy, 16 Jan 2013 &gt; http://t.co/RKBxfl ...
+UPDATE 1-Alcatel wins 8-yr, $1 bln-plus contract from India's Reliance Comm: MUMBAI, Jan 16 (Reuters) - Fr... http://t.co/50BUtIQQ #news
+My dad gave me a call as he's going India tomorrow and asked what I wanted so I started going off... Then he interrupted and asked if I...
+good morning  Jos Alukkas show room has going to opened on JAN 16 in Vijayawada, India by SUPERSTAR  Mahesh Babu http://t.co/PLuo5HBl
+
+
+#tweets in the cluster:  202
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.71833549615 Arguments:the pakistani,reuters,islamabad,kashmir Predicates:protest,kill,said on
+0.891974671736 Pakistan says to protest to India over new Kashmir killing : ISLAMABAD ( Reuters ) - The Pakistani army said on Wednesday it will protes ...
+Event #2 - Proportion:0.245279481771 Arguments:jan,ians,new delhi
+0.196586036651 #bdnews #bangladesh India , Bangladesh discuss greater rail cooperation : New Delhi , Jan 16 ( IANS ) The Indian and ... http://t.co/l1TIBulm
+(Additional) Event #3 - Proportion:0.0363850220799 Predicates:rise
+0.0206554583624 India Commexes trade volume up 1 04% in Jan 16 31 Y o Y on rise in algo trade http://t.co/ZHRo9oa9
+
+== SumBasic ==
+Word #1 - to 0.0385737439222
+Jacob going to India tomorrow.x
+Word #2 - the 0.0288492706645
+@ChelseaKrost Chelsea, you have great Poise and Courage to Tackle the Tough Subject of Rapes in India--Wed Jan 16
+Word #3 - on 0.0233387358185
+Maybe I should leave to India on Wednesday !
+
+== PageRank IE ==
+IE #1 - the pakistani 5.94233604876
+Pakistan says to protest to India over new Kashmir killing: ISLAMABAD (Reuters) - The Pakistani army said on Wednesday it will protes...
+IE #2 - jan 4.84567481477
+Areva says India keen to start using EPR reactor: PARIS, Jan 16 (Reuters) - Negotiations about the sale of two... http://t.co/9Rqi7tH1
+IE #3 - ians 1.74752532933
+#NEWS: After slowdown, India set to grow: World Bank: By Arun Kumar Washington, Jan 16 (IANS) After a sharp slow... http://t.co/lTHmdJgx
+
+== SumBasic Reference of 20 ==
+Word #1 - to 0.0385737439222
+Jacob going to India tomorrow.x
+Word #2 - the 0.0288492706645
+@ChelseaKrost Chelsea, you have great Poise and Courage to Tackle the Tough Subject of Rapes in India--Wed Jan 16
+Word #3 - on 0.0233387358185
+Maybe I should leave to India on Wednesday !
+Word #4 - a 0.0110210696921
+ISLAMABAD (Reuters) - The Pakistani army said on Wednesday it will protest to India over the killing of a... http://t.co/9rf9mcWw
+Word #5 - january 0.0097244732577
+INDIA VS ENGLAND LIVE STREAMING LINK FOR ALL MOBILES - 16 JANUARY 2013   LinK 1 :... http://t.co/Ck6npyvz
+Word #6 - new 0.00907617504052
+NAB may do favour to India by not arresting Pak PM: New Delhi, Jan 16: Pakistani Prime Minister Raja Perv... http://t.co/bJ6fHJr5 #india
+Word #7 - pakistan 0.00907617504052
+Pakistan's army protested to India on Wednesday over the killing of one of its soldiers in Kashmir, the fifth fa... http://t.co/NvNV8aWo
+Word #8 - is 0.0064829821718
+So about that quiz tomorrow in world... What is India?
+Word #9 - from 0.00615883306321
+OMG MY CRUSH GOT BACK FROM INDIA TODAY AAAAAAH HE IS BACK AT SCHOOL TOMORROW I KINDA MISSED HIM IDK
+Word #10 - be 0.00551053484603
+India  I cannot believe this time tomorrow I will be interviewing for a job at LUSH!!!
+Word #11 - up 0.00453808752026
+Here we go again. Train up to Aberdeen then offshore tomorrow. But when I get home, it's off to India for a couple of weeks.
+Word #12 - has 0.00421393841167
+RT @Queen_Ritu: India has proof of Pak planting landmines across LoC: The Indian Army on Wednesday exposed its Pakistani counter... http ...
+Word #13 - ians 0.00388978930308
+#NEWS: After slowdown, India set to grow: World Bank: By Arun Kumar Washington, Jan 16 (IANS) After a sharp slow... http://t.co/lTHmdJgx
+Word #14 - inc 0.00356564019449
+Business Line : Industry &amp; Economy / Economy : Chidambaram to hold pre-Budget talks with India Inc on Jan 16 http://t.co/4AHugmFY
+Word #15 - 16th 0.00291734197731
+RT @PennyKinned: January 16th. One month since the horrific Delhi gang-rape. The conversation about women's rights in India is louder an ...
+Word #16 - says 0.00259319286872
+Areva says India keen to start using EPR reactor: PARIS, Jan 16 (Reuters) - Negotiations about the sale of two F... http://t.co/KBG0Fql9
+Word #17 - seminar 0.00226904376013
+RT @SOAScentres: PUBLIC SEMINAR&gt; India, a 'Rising Power' and Africa: Challenges, by Dr Sumit Roy, 16 Jan 2013 &gt; http://t.co/RKBxfl ...
+Word #18 - mumbai 0.00226904376013
+UPDATE 1-Alcatel wins 8-yr, $1 bln-plus contract from India's Reliance Comm: MUMBAI, Jan 16 (Reuters) - Fr... http://t.co/50BUtIQQ #news
+Word #19 - as 0.00226904376013
+My dad gave me a call as he's going India tomorrow and asked what I wanted so I started going off... Then he interrupted and asked if I...
+Word #20 - good 0.00194489465154
+good morning  Jos Alukkas show room has going to opened on JAN 16 in Vijayawada, India by SUPERSTAR  Mahesh Babu http://t.co/PLuo5HBl
+
+

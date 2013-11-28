@@ -1,0 +1,118 @@
+#tweets in the cluster:  245
+
+== PageRank SubEvent Flex ==
+@AlfredoFlores Fredo !!! im going to be in Birmingham , Alabama Wednesday when you get here and i HAVE to meet you ! &lt; 3
+Who 's going to Justin 's concert January 16th at the BJCC in Birmingham ?!
+OUR FIRST SHOW OF 2013 IS THIS WEDNESDAY IN BIRMINGHAM . WHO'S GOING TO BE THERE ? DFA http://t.co/N5iqKGeu
+
+== PageRank SubEvent Fixed ==
+@AlfredoFlores Fredo !!! im going to be in Birmingham , Alabama Wednesday when you get here and i HAVE to meet you ! &lt; 3
+Who 's going to Justin 's concert January 16th at the BJCC in Birmingham ?!
+OUR FIRST SHOW OF 2013 IS THIS WEDNESDAY IN BIRMINGHAM . WHO'S GOING TO BE THERE ? DFA http://t.co/N5iqKGeu
+
+== SumBasic ==
+So I guess I'm going to the Justin Bieber concert in Birmingham on Jan 16
+@Codygasms he's gonna be in Birmingham tomorrow, I feel you.
+@justinbieber I will be at your believe tour in Birmingham on January 16th for my 19th bithday
+
+== PageRank IE ==
+@AlfredoFlores Fredo!!! im going to be in Birmingham, Alabama Wednesday when you get here and i HAVE to meet you! &lt;3
+Who's going to Justin's concert January 16th at the BJCC in Birmingham?!
+Crying because I'm not going to see JB tomorrow in Birmingham.
+
+== SumBasic Reference of 20 ==
+So I guess I'm going to the Justin Bieber concert in Birmingham on Jan 16
+@Codygasms he's gonna be in Birmingham tomorrow, I feel you.
+@justinbieber I will be at your believe tour in Birmingham on January 16th for my 19th bithday
+@AlfredoFlores Fredo!!! im going to be in Birmingham, Alabama Wednesday when you get here and i HAVE to meet you! &lt;3
+Tomorrow is the Birmingham Recovery Forum &amp; @UKRW2013 committee meeting. A long day at Summerhill. See you there?
+hope tomorrow's game against birmingham don't get called of, haha makes me laugh how there game plan is to just piss me off! lool #WontWork
+i can NOT wait until January 16th 2013!!!!:) #BelieveTour Birmingham!!:) i dont have tickets but im goin anyways:) lol! who gon go w/ me?
+That's right, 3 generations going to the Bieber tour in Birmingham tomorrow night. I'll admit it... We are A http://t.co/I9gRvBxZ
+@CodySimpson you did amazing Wednesday night! Birmingham loved you. Come back soon!
+OUR FIRST SHOW OF 2013 IS THIS WEDNESDAY IN BIRMINGHAM. WHO'S GOING TO BE THERE? DFA http://t.co/N5iqKGeu
+$2 COLLEGE NITE @ THE ONYX IN birmingham STARTING next WEDnesday w/  THE REST OF da CITY &amp; ALL AKAs FREE ALL-nite @AK47_007
+@belieber96Swagg   Birmingham, AL Wed, 01/16/13 07:00 PM
+@justinbieber JUSTIN stop in petal Mississippi at petal middle school tomorrow on your way to Birmingham? INTERSTATE I59, EXIT 69 WE LOVE U
+RT @BhamScienceCity: Government Support for R&amp;D and Innovation event in Birmingham with BIS, TSB, HMRC &amp; IPO 16 Jan http://t.co/ ...
+I need people to help me get picked as @justinbieber's One Less Lonely Girl tomorrow night in Birmingham!!! I want to meet him so badly!!!
+@MelissaButler17 @chbear__ Monday afternoon! But I staying in Birmingham until Wednesday! LETS GO OUT PLEASE!
+If they were in Birmingham tomorrow they would have said
+#BelieveTour  (January 16) Birmingham, USA \"AL BJCC Arena\" http://t.co/7en1vjpi
+Photo: WE PLAY BIRMINGHAM, WEDS JAN 16TH #DFA http://t.co/8TtSLNxm
+Finally got the girls in bed they are so excited about the trip to Birmingham to see @justinbieber tomorrow night!!!
+
+
+#tweets in the cluster:  245
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.53593361696 Arguments:alabama Predicates:meet,are in,get here
+0.231849363618 @AlfredoFlores Fredo !!! im going to be in Birmingham , Alabama Wednesday when you get here and i HAVE to meet you ! &lt; 3
+Event #2 - Proportion:0.265085978674 Arguments:justin Predicates:saw,concert
+0.148550926001 Who 's going to Justin 's concert January 16th at the BJCC in Birmingham ?!
+Event #3 - Proportion:0.108972975055 Predicates:go,show
+0.0896167185426 OUR FIRST SHOW OF 2013 IS THIS WEDNESDAY IN BIRMINGHAM . WHO'S GOING TO BE THERE ? DFA http://t.co/N5iqKGeu
+(Additional) Event #4 - Proportion:0.0459364236929 Predicates:school
+0.0310103506216 going to Birmingham wednesday woooooo miss a day of school woooooooo
+(Additional) Event #5 - Proportion:0.0440710056181 Arguments:mississippi
+0.0167967155508 @AlfredoFlores CAN YALL PLEASE stop in petal Mississippi at petal middle school tomorrow on your way to Birmingham ? INTERSTATE I59 , EXIT 69
+
+== SumBasic ==
+Word #1 - to 0.0487593768032
+So I guess I'm going to the Justin Bieber concert in Birmingham on Jan 16
+Word #2 - tomorrow 0.032602423543
+@Codygasms he's gonna be in Birmingham tomorrow, I feel you.
+Word #3 - for 0.0175995383728
+@justinbieber I will be at your believe tour in Birmingham on January 16th for my 19th bithday
+
+== PageRank IE ==
+IE #1 - alabama 4.38224321385
+@AlfredoFlores Fredo!!! im going to be in Birmingham, Alabama Wednesday when you get here and i HAVE to meet you! &lt;3
+IE #2 - justin 2.28873365217
+Who's going to Justin's concert January 16th at the BJCC in Birmingham?!
+IE #3 - saw 2.20365800841
+Crying because I'm not going to see JB tomorrow in Birmingham.
+
+== SumBasic Reference of 20 ==
+Word #1 - to 0.0487593768032
+So I guess I'm going to the Justin Bieber concert in Birmingham on Jan 16
+Word #2 - tomorrow 0.032602423543
+@Codygasms he's gonna be in Birmingham tomorrow, I feel you.
+Word #3 - for 0.0175995383728
+@justinbieber I will be at your believe tour in Birmingham on January 16th for my 19th bithday
+Word #4 - and 0.0150028851702
+@AlfredoFlores Fredo!!! im going to be in Birmingham, Alabama Wednesday when you get here and i HAVE to meet you! &lt;3
+Word #5 - see 0.0103866128102
+Tomorrow is the Birmingham Recovery Forum &amp; @UKRW2013 committee meeting. A long day at Summerhill. See you there?
+Word #6 - of 0.00894402769763
+hope tomorrow's game against birmingham don't get called of, haha makes me laugh how there game plan is to just piss me off! lool #WontWork
+Word #7 - go 0.00519330640508
+i can NOT wait until January 16th 2013!!!!:) #BelieveTour Birmingham!!:) i dont have tickets but im goin anyways:) lol! who gon go w/ me?
+Word #8 - we 0.00519330640508
+That's right, 3 generations going to the Bieber tour in Birmingham tomorrow night. I'll admit it... We are A http://t.co/I9gRvBxZ
+Word #9 - come 0.00432775533756
+@CodySimpson you did amazing Wednesday night! Birmingham loved you. Come back soon!
+Word #10 - this 0.00403923831506
+OUR FIRST SHOW OF 2013 IS THIS WEDNESDAY IN BIRMINGHAM. WHO'S GOING TO BE THERE? DFA http://t.co/N5iqKGeu
+Word #11 - next 0.00375072129256
+$2 COLLEGE NITE @ THE ONYX IN birmingham STARTING next WEDnesday w/  THE REST OF da CITY &amp; ALL AKAs FREE ALL-nite @AK47_007
+Word #12 - al 0.00375072129256
+@belieber96Swagg   Birmingham, AL Wed, 01/16/13 07:00 PM
+Word #13 - love 0.00346220427005
+@justinbieber JUSTIN stop in petal Mississippi at petal middle school tomorrow on your way to Birmingham? INTERSTATE I59, EXIT 69 WE LOVE U
+Word #14 - with 0.00346220427005
+RT @BhamScienceCity: Government Support for R&amp;D and Innovation event in Birmingham with BIS, TSB, HMRC &amp; IPO 16 Jan http://t.co/ ...
+Word #15 - want 0.00288517022504
+I need people to help me get picked as @justinbieber's One Less Lonely Girl tomorrow night in Birmingham!!! I want to meet him so badly!!!
+Word #16 - please 0.00259665320254
+@MelissaButler17 @chbear__ Monday afternoon! But I staying in Birmingham until Wednesday! LETS GO OUT PLEASE!
+Word #17 - if 0.00259665320254
+If they were in Birmingham tomorrow they would have said
+Word #18 - arena 0.00201961915753
+#BelieveTour  (January 16) Birmingham, USA \"AL BJCC Arena\" http://t.co/7en1vjpi
+Word #19 - play 0.00201961915753
+Photo: WE PLAY BIRMINGHAM, WEDS JAN 16TH #DFA http://t.co/8TtSLNxm
+Word #20 - excited 0.00201961915753
+Finally got the girls in bed they are so excited about the trip to Birmingham to see @justinbieber tomorrow night!!!
+
+

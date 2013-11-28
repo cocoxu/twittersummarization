@@ -1,0 +1,117 @@
+#tweets in the cluster:  469
+
+== PageRank SubEvent Flex ==
+Wayne Rooney and Nani will feature in the FA Cup replay against West Ham tomorrow .
+Arsenal you best win tomorrow ! The FA cup is important !
+
+== PageRank SubEvent Fixed ==
+Wayne Rooney and Nani will feature in the FA Cup replay against West Ham tomorrow .
+Arsenal you best win tomorrow ! The FA cup is important !
+#utd play the hammers tomorrow in the FA Cup 3rd round , chicharito is set to start
+
+== SumBasic ==
+FA Cup replay at Old Trafford on 16 Jan
+Rooney and Nani will be in the Man United squad for the FA Cup replay against West Ham tomorrow.
+FA Cup 3rd round replay: Arsenal v Swansea - Wednesday 16 January 2013, 7:45pm
+
+== PageRank IE ==
+FA Cup replay at Old Trafford on 16 Jan
+If United beat West Ham tomorrow night, we'll face Fulham in the next round of the FA Cup. #mufc
+Wayne Rooney and Nani will feature in the FA Cup replay against West Ham tomorrow.
+
+== SumBasic Reference of 20 ==
+FA Cup replay at Old Trafford on 16 Jan
+Rooney and Nani will be in the Man United squad for the FA Cup replay against West Ham tomorrow.
+FA Cup 3rd round replay: Arsenal v Swansea - Wednesday 16 January 2013, 7:45pm
+Wednesday is going to be a tough game! Especially after the FA cup game.
+No FA cup replays on TV tonight but 2 on tomorrow. What's the logic in that?
+There are two FA Cup replays tomorrow, including Manchester United vs West Ham LIVE at 3 PM ET! #FACUPonFOX
+What next if we go out of the FA Cup on wednesday night? It could happen you know. #AFC Is this our worst season in your memory?
+Sir Alex Ferguson says that both Wayne Rooney &amp; Nani will feature in the FA Cup replay with West Ham on Wednesday #mufc
+FA Cup - Third Round Replay Man Utd v West Ham (Wed 16 Jan)
+Rooney in line for Cup return: Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup third roun... http://t.co/1mm53bLu
+@TUrBs342 Cheers John, i was hoping some FA Cup games, will wait for tomorrow - Come on the Swans!
+@TheRedKween we have FA cup replay on Wednesday.. Maybe he will start that match..
+@StanCollymore it's rubbish especially as tomorrow there is a FA cup game on itv and espn at the same time
+\"Arsenal's FA Cup third-round replay against Swansea will take place at Emirates Stadium on Wednesday, January 16\" yes, but WHY
+West Ham's FA Cup replay at Man Utd is Weds Jan 16th with a kick-off at 8pm
+And a win to go through 4th round of FA cup. #Giggsy was the best #MUFC player tonight by a mile far
+Jack Wilshere's late strike gave Arsenal a deserved 1-0 FA Cup win over Swansea City on Wednesday, while Manchester United also triumphed
+The FA Cup replay with West Ham United on Wednesday 16 January will actually kick off at 20:05 GMT, not 20:00. Broadcast live on ITV.
+Sam Allardyce claims the penalty won by #MUFC during his side's 1-0 FA Cup defeat on Wednesday was a result of their home advantage.
+RT @goonerdan19: Diame is set to play in the FA Cup replay at Man Utd tomorrow. Arsenal plan to watch him then and are poised to make a  ...
+
+
+#tweets in the cluster:  469
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.603552963615 Arguments:west ham,manchester united,wayne rooney,nani,alex ferguson Predicates:replay,feature
+1.07579521689 Wayne Rooney and Nani will feature in the FA Cup replay against West Ham tomorrow .
+Event #2 - Proportion:0.197782011576 Arguments:swansea city,espn Predicates:arsenal,win,announce
+0.270703108307 Arsenal you best win tomorrow ! The FA cup is important !
+(Additional) Event #3 - Proportion:0.0364627076024 Predicates:start,set
+0.148854180268 #utd play the hammers tomorrow in the FA Cup 3rd round , chicharito is set to start
+(Additional) Event #4 - Proportion:0.0352354849981 Arguments:itv Predicates:show
+0.0784586307393 @_hamzaosman Tonight on ITV at 10:50 pm they're showing FA Cup 3rd round replay highlights .
+(Additional) Event #5 - Proportion:0.0334494792448 Arguments:old trafford
+0.121882917458 FA Cup replay at Old Trafford on 16 Jan
+
+== SumBasic ==
+Word #1 - cup 0.0586859948562
+FA Cup replay at Old Trafford on 16 Jan
+Word #2 - the 0.0351882160393
+Rooney and Nani will be in the Man United squad for the FA Cup replay against West Ham tomorrow.
+Word #3 - wednesday 0.0201075520224
+FA Cup 3rd round replay: Arsenal v Swansea - Wednesday 16 January 2013, 7:45pm
+
+== PageRank IE ==
+IE #1 - replay 12.2788872214
+FA Cup replay at Old Trafford on 16 Jan
+IE #2 - west ham 9.75680073594
+If United beat West Ham tomorrow night, we'll face Fulham in the next round of the FA Cup. #mufc
+IE #3 - wayne rooney 7.63473764869
+Wayne Rooney and Nani will feature in the FA Cup replay against West Ham tomorrow.
+
+== SumBasic Reference of 20 ==
+Word #1 - cup 0.0586859948562
+FA Cup replay at Old Trafford on 16 Jan
+Word #2 - the 0.0351882160393
+Rooney and Nani will be in the Man United squad for the FA Cup replay against West Ham tomorrow.
+Word #3 - wednesday 0.0201075520224
+FA Cup 3rd round replay: Arsenal v Swansea - Wednesday 16 January 2013, 7:45pm
+Word #4 - to 0.0144961421557
+Wednesday is going to be a tough game! Especially after the FA cup game.
+Word #5 - tonight 0.0105213935001
+No FA cup replays on TV tonight but 2 on tomorrow. What's the logic in that?
+Word #6 - manchester 0.0101706803834
+There are two FA Cup replays tomorrow, including Manchester United vs West Ham LIVE at 3 PM ET! #FACUPonFOX
+Word #7 - of 0.00806640168342
+What next if we go out of the FA Cup on wednesday night? It could happen you know. #AFC Is this our worst season in your memory?
+Word #8 - with 0.00654664484452
+Sir Alex Ferguson says that both Wayne Rooney &amp; Nani will feature in the FA Cup replay with West Ham on Wednesday #mufc
+Word #9 - third 0.00537760112228
+FA Cup - Third Round Replay Man Utd v West Ham (Wed 16 Jan)
+Word #10 - face 0.0039747486556
+Rooney in line for Cup return: Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup third roun... http://t.co/1mm53bLu
+Word #11 - games 0.00350713116671
+@TUrBs342 Cheers John, i was hoping some FA Cup games, will wait for tomorrow - Come on the Swans!
+Word #12 - match 0.00268880056114
+@TheRedKween we have FA cup replay on Wednesday.. Maybe he will start that match..
+Word #13 - itv 0.00245499181669
+@StanCollymore it's rubbish especially as tomorrow there is a FA cup game on itv and espn at the same time
+Word #14 - place 0.00210427870002
+\"Arsenal's FA Cup third-round replay against Swansea will take place at Emirates Stadium on Wednesday, January 16\" yes, but WHY
+Word #15 - 16th 0.00210427870002
+West Ham's FA Cup replay at Man Utd is Weds Jan 16th with a kick-off at 8pm
+Word #16 - win 0.00187046995558
+And a win to go through 4th round of FA cup. #Giggsy was the best #MUFC player tonight by a mile far
+Word #17 - city 0.00187046995558
+Jack Wilshere's late strike gave Arsenal a deserved 1-0 FA Cup win over Swansea City on Wednesday, while Manchester United also triumphed
+Word #18 - gmt 0.00187046995558
+The FA Cup replay with West Ham United on Wednesday 16 January will actually kick off at 20:05 GMT, not 20:00. Broadcast live on ITV.
+Word #19 - home 0.00187046995558
+Sam Allardyce claims the penalty won by #MUFC during his side's 1-0 FA Cup defeat on Wednesday was a result of their home advantage.
+Word #20 - play 0.00175356558335
+RT @goonerdan19: Diame is set to play in the FA Cup replay at Man Utd tomorrow. Arsenal plan to watch him then and are poised to make a  ...
+
+

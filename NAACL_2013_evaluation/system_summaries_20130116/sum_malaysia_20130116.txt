@@ -1,0 +1,127 @@
+#tweets in the cluster:  461
+
+== PageRank SubEvent Flex ==
+@IBGDRGN welcome to Malaysia for Golden Disk Awards 15 &amp; 16 January 2013
+F(x) , G-Dragon , Teen Top , BAP , Miss A , Sistar and T-ara are currently at Incheon Airport heading to Malaysia for tomorrow 's GDA
+SHINee will take flight CX720 leaving from Malaysia on 16 Jan 9:25 AM and transfer in HK to Korea with flight CX418 at 14:05 PM
+GDA is tomorrow in Malaysia right ?
+
+== PageRank SubEvent Fixed ==
+@IBGDRGN welcome to Malaysia for Golden Disk Awards 15 &amp; 16 January 2013
+F(x) , G-Dragon , Teen Top , BAP , Miss A , Sistar and T-ara are currently at Incheon Airport heading to Malaysia for tomorrow 's GDA
+SHINee will take flight CX720 leaving from Malaysia on 16 Jan 9:25 AM and transfer in HK to Korea with flight CX418 at 14:05 PM
+
+== SumBasic ==
+15 and 16 January. GDA. In Malaysia. :)
+27th Golden Disk Awards will be on 15th and 16th of January 2013 at Sepang ,Malaysia.....
+RT @ITGabs1: Tomorrow to Malaysia
+
+== PageRank IE ==
+Today we attending The 27th Golden Disk Awards at malaysia ~
+GDA will be held in Sepang F1 Circuit,MALAYSIA  on 15 and 16 January 2013.
+\"Gda will take place at F1 Sepang,Malaysia on 15 &amp; 16 Jan 2013. Ticket prize RM688 &amp; RM999. Entitled for 2 days entry. V:Sinchew Daily\"
+
+== SumBasic Reference of 20 ==
+15 and 16 January. GDA. In Malaysia. :)
+27th Golden Disk Awards will be on 15th and 16th of January 2013 at Sepang ,Malaysia.....
+RT @ITGabs1: Tomorrow to Malaysia
+[INFO] f(x) will fly to Malaysia on Jan 15th for the second day of GDA on Jan 16th
+SHINee has safely arrived in Malaysia for GDA that is held on 15 and 16 January.
+golden disk award becoming on 15 to 16 january 2013 live from malaysia...i hope beast come and get award...love u beast
+SHINee will take flight CX720 leaving from Malaysia on 16 Jan, 9:25AM. cr: aanniiiz [via: almightykeybeom] sorry if it mistake.
+\"Gda will take place at F1 Sepang,Malaysia on 15 &amp; 16 Jan 2013. Ticket prize RM688 &amp; RM999. Entitled for 2 days entry. V:Sinchew Daily\"
+@IBGDRGN welcome to Malaysia...even though I didn't go but hope you have a nice show tomorrow..
+Shinee,infinote,beast,suju n ft island are coming to malaysia!! 15&amp;16 jan, sepang international circuit. No!!!
+When is EXO departing from Malaysia? Today or tomorrow?
+I will back Malaysia after tomorrow. coz my bro going to there
+T-ara will on GDA Red Carpet and attend media interview tomorrow. They reach Malaysia on 21:50 PM.
+RT @imyoonacom: Article about Golden Disk Award will be held at Sepang,Malaysia next year on 15 &amp; 16 January 2013 !
+This is the last time that I miss Big BANG and GD, after today and tomorrow, I'll go very concert if they come to Malaysia!  &gt;&lt;
+Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013. (Cr hallyuM)\"
+Wow, the boys don't have rest at all. Last wednesday they're in malaysia then s.korea and later they're here. Oh don't overwork please
+jealously with people who can go to GDA today &amp; tomorrow...so pity i cant go there even im stay in malaysia :( enjoy the performance ;)
+[INFO] Teen Top will arrive Malaysia on 15 Jan &amp; they will perform at Golden Disk Award on 16 Jan
+Malaysia trip tomorrow.psyched.Gonna have a hell of a good time
+
+
+#tweets in the cluster:  461
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.355550069119 Arguments:golden disk awards,f1 sepang Predicates:hold
+0.141417217645 @IBGDRGN welcome to Malaysia for Golden Disk Awards 15 &amp; 16 January 2013
+Event #2 - Proportion:0.160140706424 Arguments:bap,g-dragon,incheon airport,miss a Predicates:interview,head,top
+0.61977342705 F(x) , G-Dragon , Teen Top , BAP , Miss A , Sistar and T-ara are currently at Incheon Airport heading to Malaysia for tomorrow 's GDA
+Event #3 - Proportion:0.148743385167 Arguments:korea,shinee,hk,infinite Predicates:leave,transfer
+0.306438858737 SHINee will take flight CX720 leaving from Malaysia on 16 Jan 9:25 AM and transfer in HK to Korea with flight CX418 at 14:05 PM
+Event #4 - Proportion:0.117542058211 Arguments:gda,t-ara
+0.248809934996 GDA is tomorrow in Malaysia right ?
+(Additional) Event #5 - Proportion:0.053264474287 Arguments:kuala lumpur Predicates:attend
+0.112485073335 F(x ) is confirmed to attend The 27th Golden Disk Award in Kuala Lumpur , Malaysia . Jan 16 2013 . F(x) , hwaiting ! ^^
+(Additional) Event #6 - Proportion:0.0387452092785 Arguments:jan,the 27th golden disk awards
+0.112985635362 The 27th Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013 .
+(Additional) Event #7 - Proportion:0.0336640458151 Arguments:rm688 Predicates:info
+0.0636778063583 [ INFO ] Event : Golden Disc Award || Date : 15 &amp; 16 Jan 2013 || Venue : Sepang Circuit , Malaysia || Tix price : RM999 &amp; RM688 ( all free standing )
+(Additional) Event #8 - Proportion:0.0319363544251 Predicates:arrive,perform
+0.124595949201 B.A.P just arrived to Malaysia ! They will perform at GDA tomorrow ! ^_^
+(Additional) Event #9 - Proportion:0.0227557029656 Predicates:article
+0.0502776003842 RT @imyoonacom : Article about Golden Disk Award will be held at Sepang , Malaysia next year on 15 &amp; 16 January 2013 !
+
+== SumBasic ==
+Word #1 - in 0.0386694386694
+15 and 16 January. GDA. In Malaysia. :)
+Word #2 - on 0.0334026334026
+27th Golden Disk Awards will be on 15th and 16th of January 2013 at Sepang ,Malaysia.....
+Word #3 - to 0.0285516285516
+RT @ITGabs1: Tomorrow to Malaysia
+
+== PageRank IE ==
+IE #1 - golden disk awards 11.5183646431
+Today we attending The 27th Golden Disk Awards at malaysia ~
+IE #2 - hold 7.54125793157
+GDA will be held in Sepang F1 Circuit,MALAYSIA  on 15 and 16 January 2013.
+IE #3 - f1 sepang 3.92249256642
+\"Gda will take place at F1 Sepang,Malaysia on 15 &amp; 16 Jan 2013. Ticket prize RM688 &amp; RM999. Entitled for 2 days entry. V:Sinchew Daily\"
+
+== SumBasic Reference of 20 ==
+Word #1 - in 0.0386694386694
+15 and 16 January. GDA. In Malaysia. :)
+Word #2 - on 0.0334026334026
+27th Golden Disk Awards will be on 15th and 16th of January 2013 at Sepang ,Malaysia.....
+Word #3 - to 0.0285516285516
+RT @ITGabs1: Tomorrow to Malaysia
+Word #4 - the 0.0225918225918
+[INFO] f(x) will fly to Malaysia on Jan 15th for the second day of GDA on Jan 16th
+Word #5 - held 0.0128898128898
+SHINee has safely arrived in Malaysia for GDA that is held on 15 and 16 January.
+Word #6 - award 0.00956340956341
+golden disk award becoming on 15 to 16 january 2013 live from malaysia...i hope beast come and get award...love u beast
+Word #7 - take 0.00914760914761
+SHINee will take flight CX720 leaving from Malaysia on 16 Jan, 9:25AM. cr: aanniiiz [via: almightykeybeom] sorry if it mistake.
+Word #8 - place 0.00609840609841
+\"Gda will take place at F1 Sepang,Malaysia on 15 &amp; 16 Jan 2013. Ticket prize RM688 &amp; RM999. Entitled for 2 days entry. V:Sinchew Daily\"
+Word #9 - you 0.00582120582121
+@IBGDRGN welcome to Malaysia...even though I didn't go but hope you have a nice show tomorrow..
+Word #10 - circuit 0.0047124047124
+Shinee,infinote,beast,suju n ft island are coming to malaysia!! 15&amp;16 jan, sepang international circuit. No!!!
+Word #11 - exo 0.0038808038808
+When is EXO departing from Malaysia? Today or tomorrow?
+Word #12 - going 0.0036036036036
+I will back Malaysia after tomorrow. coz my bro going to there
+Word #13 - attend 0.0036036036036
+T-ara will on GDA Red Carpet and attend media interview tomorrow. They reach Malaysia on 21:50 PM.
+Word #14 - about 0.0033264033264
+RT @imyoonacom: Article about Golden Disk Award will be held at Sepang,Malaysia next year on 15 &amp; 16 January 2013 !
+Word #15 - this 0.0029106029106
+This is the last time that I miss Big BANG and GD, after today and tomorrow, I'll go very concert if they come to Malaysia!  &gt;&lt;
+Word #16 - hallyum 0.0026334026334
+Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013. (Cr hallyuM)\"
+Word #17 - korea 0.0026334026334
+Wow, the boys don't have rest at all. Last wednesday they're in malaysia then s.korea and later they're here. Oh don't overwork please
+Word #18 - so 0.0023562023562
+jealously with people who can go to GDA today &amp; tomorrow...so pity i cant go there even im stay in malaysia :( enjoy the performance ;)
+Word #19 - perform 0.0023562023562
+[INFO] Teen Top will arrive Malaysia on 15 Jan &amp; they will perform at Golden Disk Award on 16 Jan
+Word #20 - good 0.0022176022176
+Malaysia trip tomorrow.psyched.Gonna have a hell of a good time
+
+

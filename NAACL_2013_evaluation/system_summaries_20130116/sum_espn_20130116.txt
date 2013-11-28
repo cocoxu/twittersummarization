@@ -1,0 +1,120 @@
+#tweets in the cluster:  167
+
+== PageRank SubEvent Flex ==
+Arsenal vs Swansea FA cup 3rd round replay 16/01/13 ESPN . But United are same night on ITV1 ? Typical :-(
+Wow , ESPN really not showing the Thunder/Nuggets game tomorrow ...
+We are pleased to announce that the third round F.A cup replay between Arsenal and Swansea will be live on ESPN on January 16th #afc #scfc
+
+== PageRank SubEvent Fixed ==
+Arsenal vs Swansea FA cup 3rd round replay 16/01/13 ESPN . But United are same night on ITV1 ? Typical :-(
+Wow , ESPN really not showing the Thunder/Nuggets game tomorrow ...
+We are pleased to announce that the third round F.A cup replay between Arsenal and Swansea will be live on ESPN on January 16th #afc #scfc
+
+== SumBasic ==
+Arsenal on ESPN tomorrow. CUNTS
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+#Warriors vs Heat next Wednesday on ESPN. Gonna be a crazy game.
+
+== PageRank IE ==
+@StanCollymore it's rubbish especially as tomorrow there is a FA cup game on itv and espn at the same time
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+@Dave_Goward does seem odd why itv and espn showing live games tomorrow that clash?!
+
+== SumBasic Reference of 20 ==
+Arsenal on ESPN tomorrow. CUNTS
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+#Warriors vs Heat next Wednesday on ESPN. Gonna be a crazy game.
+@richhollis14 I don't know about ESPN, but Man U V West ham is on ITV tomorrow night. (according to my parents anyway).
+They are  wrong for taking the Hornets off of Espn tomorrow.
+Are there genuinely no fa cup games on tv tonight and 2 on at the same time tomorrow? Frankly a disgrace from itv and ESPN #facup
+Afc on ESPN tomorrow in dec I cancelled my ESPN but not sure of date.  Today it's still on, but tomorrow?
+@thomas_raper yeah that's what's annoyed me! Ridiculous, both ITV and ESPN have got one tomorrow!
+@hucks6dh6 because neither ESPN or ITV would back down with their respective replays tomorrow
+RT @touchlinetv: #FACup 3rd Round TV replays - Man Utd v West Ham live on ITV &amp; Arsenal v Swansea live on ESPN - both on Wed 16 Jan  ...
+so much fail from tonight's game 1st bad loss in bout 2 weeks tho im bout to watch these games on ESPN nd see Lebron get 20K
+Definitely need this win tomorrow against the Warriors on ESPN at 10:30, maybe Bosh, DWade will bounce back off of be'n benched #HeatNation
+@RedGarcia86 nope, two games tomorrow with United on ITV and Gooners on ESPN - need some predictions for accy - who you going for???
+@juffelboy on Espn this morning some dumbass said that the bills were going to draft manti teo as the 8th pick
+@gingerkev don't think so, just been looking thru. Could only find arsenal v Swansea tomorrow on espn
+I'm still confused. Te'o told ND it's a hoax on 12/26. But in his ESPN interview said he believed she was real/dead until last Wednesday?!
+Next #Rockets game on ESPN is scheduled for January 16th against the Mavericks. One can only hope a CSN-Houston deal is struck before.
+@deanocjd1 no and then espn an itv go head to head tomorrow showing 2 all prem games that they've shown already in round 3 a joke really
+wild day, can't wait to hear Chip talk tomorrow but for now time to focus on tonight's NBA slate highlighted by Heat at Warriors on ESPN
+This may be old news, but I think the MSU - Bama game will be on directv 720 tonight. Free preview week of ESPN Full Court.
+
+
+#tweets in the cluster:  167
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.530052752438 Arguments:fa cup Predicates:itv,swansea,arsenal
+0.362656514558 Arsenal vs Swansea FA cup 3rd round replay 16/01/13 ESPN . But United are same night on ITV1 ? Typical :-(
+Event #2 - Proportion:0.205764859692 Predicates:game,show
+0.186108663225 Wow , ESPN really not showing the Thunder/Nuggets game tomorrow ...
+Event #3 - Proportion:0.125761264926 Predicates:announce,replay
+0.0668812495759 We are pleased to announce that the third round F.A cup replay between Arsenal and Swansea will be live on ESPN on January 16th #afc #scfc
+(Additional) Event #4 - Proportion:0.0503756142774 Predicates:delight
+0.00298491844185 " @Deadspin : Amazingly , Manti Te'o told ESPN that he wasn't convinced until Wednesday that Lennay Kekua never existed ." Come on man !
+(Additional) Event #5 - Proportion:0.0446498211711 Predicates:watch
+0.0351680562758 @DLD32 Not got ESPN :( Will have to go out to watch Arsenal tomorrow
+(Additional) Event #6 - Proportion:0.0433956874954 Arguments:west ham
+0.0194027669596 @richhollis14 I don't know about ESPN , but Man U V West ham is on ITV tomorrow night . ( according to my parents anyway) .
+
+== SumBasic ==
+Word #1 - on 0.0616822429907
+Arsenal on ESPN tomorrow. CUNTS
+Word #2 - the 0.0284112149533
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+Word #3 - wednesday 0.0153271028037
+#Warriors vs Heat next Wednesday on ESPN. Gonna be a crazy game.
+
+== PageRank IE ==
+IE #1 - game 3.61543899015
+@StanCollymore it's rubbish especially as tomorrow there is a FA cup game on itv and espn at the same time
+IE #2 - swansea 3.12022971054
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+IE #3 - show 1.20080220463
+@Dave_Goward does seem odd why itv and espn showing live games tomorrow that clash?!
+
+== SumBasic Reference of 20 ==
+Word #1 - on 0.0616822429907
+Arsenal on ESPN tomorrow. CUNTS
+Word #2 - the 0.0284112149533
+We are delighted to announce that the FA Cup third round replay between Arsenal and Swansea will be live on ESPN on January 16.
+Word #3 - wednesday 0.0153271028037
+#Warriors vs Heat next Wednesday on ESPN. Gonna be a crazy game.
+Word #4 - itv 0.0123364485981
+@richhollis14 I don't know about ESPN, but Man U V West ham is on ITV tomorrow night. (according to my parents anyway).
+Word #5 - for 0.00897196261682
+They are  wrong for taking the Hornets off of Espn tomorrow.
+Word #6 - at 0.00897196261682
+Are there genuinely no fa cup games on tv tonight and 2 on at the same time tomorrow? Frankly a disgrace from itv and ESPN #facup
+Word #7 - in 0.00785046728972
+Afc on ESPN tomorrow in dec I cancelled my ESPN but not sure of date.  Today it's still on, but tomorrow?
+Word #8 - both 0.00635514018692
+@thomas_raper yeah that's what's annoyed me! Ridiculous, both ITV and ESPN have got one tomorrow!
+Word #9 - replays 0.00485981308411
+@hucks6dh6 because neither ESPN or ITV would back down with their respective replays tomorrow
+Word #10 - 3rd 0.00448598130841
+RT @touchlinetv: #FACup 3rd Round TV replays - Man Utd v West Ham live on ITV &amp; Arsenal v Swansea live on ESPN - both on Wed 16 Jan  ...
+Word #11 - so 0.00373831775701
+so much fail from tonight's game 1st bad loss in bout 2 weeks tho im bout to watch these games on ESPN nd see Lebron get 20K
+Word #12 - against 0.00373831775701
+Definitely need this win tomorrow against the Warriors on ESPN at 10:30, maybe Bosh, DWade will bounce back off of be'n benched #HeatNation
+Word #13 - two 0.00336448598131
+@RedGarcia86 nope, two games tomorrow with United on ITV and Gooners on ESPN - need some predictions for accy - who you going for???
+Word #14 - morning 0.00299065420561
+@juffelboy on Espn this morning some dumbass said that the bills were going to draft manti teo as the 8th pick
+Word #15 - just 0.00299065420561
+@gingerkev don't think so, just been looking thru. Could only find arsenal v Swansea tomorrow on espn
+Word #16 - he 0.00299065420561
+I'm still confused. Te'o told ND it's a hoax on 12/26. But in his ESPN interview said he believed she was real/dead until last Wednesday?!
+Word #17 - 16th 0.00261682242991
+Next #Rockets game on ESPN is scheduled for January 16th against the Mavericks. One can only hope a CSN-Houston deal is struck before.
+Word #18 - showing 0.00261682242991
+@deanocjd1 no and then espn an itv go head to head tomorrow showing 2 all prem games that they've shown already in round 3 a joke really
+Word #19 - now 0.00224299065421
+wild day, can't wait to hear Chip talk tomorrow but for now time to focus on tonight's NBA slate highlighted by Heat at Warriors on ESPN
+Word #20 - may 0.0018691588785
+This may be old news, but I think the MSU - Bama game will be on directv 720 tonight. Free preview week of ESPN Full Court.
+
+

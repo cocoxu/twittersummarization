@@ -1,0 +1,116 @@
+#tweets in the cluster:  331
+
+== PageRank SubEvent Flex ==
+School starts Wednesday .. I will start studying Wednesday
+School might be canceled tomorrow
+School delayed tomorrow ? Yes .
+
+== PageRank SubEvent Fixed ==
+School starts Wednesday .. I will start studying Wednesday
+School might be canceled tomorrow
+School delayed tomorrow ? Yes .
+
+== SumBasic ==
+School starts at 8 am tomorrow.
+School tomorrow  i have to go in early so 7:30am to 6pm :/
+School tomorrow will be the death of ne
+
+== PageRank IE ==
+School starts tomorrow yayyy!
+School might be canceled tomorrow
+School delayed tomorrow! #hallelujah
+
+== SumBasic Reference of 20 ==
+School starts at 8 am tomorrow.
+School tomorrow  i have to go in early so 7:30am to 6pm :/
+School tomorrow will be the death of ne
+School starts tomorrow and all I want to do is lay in my bed and cry
+School starts back up tomorrow for me...damn
+School tomorrow then got a 5 day weekend. Woot woot
+@EJ_Hoey95 so what time are you going to school tomorrow then?
+I just don't even wanna go to school tomorrow now. But I know I have to cause it's an a-day. Can't miss out on all that work..
+School starts next Wednesday. I'm ready for this semester
+School won't get canceled until like 430 tomorrow morning
+Stayin home from School tomorrow, not feeling that awesome :P
+If we have to go into school at regular time tomorrow, i will probably die.
+School should be cancelled today..,.tomorrow...and forever !
+Long nights with no sleep.. And have to be at School by 7 tomorrow.
+School is getting delayed till 9 tomorrow
+School was boring today.. No better tomorrow.
+RT @ayeee_mayra: I better see Yvette at School tomorrow or i will stand there &amp; cry .
+School starts back tomorrow. Gotta start picking out my outfit.. Not! Class at 10 and done at 1. Thats good stuff #collegelife
+School might be closed tomorrow
+Feel so shit still, determined to come into school tomorrow though!
+
+
+#tweets in the cluster:  331
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.691326852151 Predicates:start
+0.232750657813 School starts Wednesday .. I will start studying Wednesday
+Event #2 - Proportion:0.119167628777 Predicates:cancel
+0.0659562400691 School might be canceled tomorrow
+Event #3 - Proportion:0.107789793638 Predicates:delay
+0.0744723721572 School delayed tomorrow ? Yes .
+(Additional) Event #4 - Proportion:0.0817157254334 Predicates:open
+0.05 School re-opens on Wed , 16 January 2013 .
+
+== SumBasic ==
+Word #1 - tomorrow 0.0964805825243
+School starts at 8 am tomorrow.
+Word #2 - to 0.0376213592233
+School tomorrow  i have to go in early so 7:30am to 6pm :/
+Word #3 - be 0.0266990291262
+School tomorrow will be the death of ne
+
+== PageRank IE ==
+IE #1 - start 10.2425340867
+School starts tomorrow yayyy!
+IE #2 - cancel 1.76555922279
+School might be canceled tomorrow
+IE #3 - delay 1.5969879256
+School delayed tomorrow! #hallelujah
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0964805825243
+School starts at 8 am tomorrow.
+Word #2 - to 0.0376213592233
+School tomorrow  i have to go in early so 7:30am to 6pm :/
+Word #3 - be 0.0266990291262
+School tomorrow will be the death of ne
+Word #4 - and 0.0172936893204
+School starts tomorrow and all I want to do is lay in my bed and cry
+Word #5 - for 0.0106189320388
+School starts back up tomorrow for me...damn
+Word #6 - a 0.0103155339806
+School tomorrow then got a 5 day weekend. Woot woot
+Word #7 - you 0.00758495145631
+@EJ_Hoey95 so what time are you going to school tomorrow then?
+Word #8 - it 0.00697815533981
+I just don't even wanna go to school tomorrow now. But I know I have to cause it's an a-day. Can't miss out on all that work..
+Word #9 - wednesday 0.00606796116505
+School starts next Wednesday. I'm ready for this semester
+Word #10 - get 0.00606796116505
+School won't get canceled until like 430 tomorrow morning
+Word #11 - not 0.0057645631068
+Stayin home from School tomorrow, not feeling that awesome :P
+Word #12 - we 0.0057645631068
+If we have to go into school at regular time tomorrow, i will probably die.
+Word #13 - should 0.00455097087379
+School should be cancelled today..,.tomorrow...and forever !
+Word #14 - with 0.00455097087379
+Long nights with no sleep.. And have to be at School by 7 tomorrow.
+Word #15 - delayed 0.00424757281553
+School is getting delayed till 9 tomorrow
+Word #16 - was 0.00364077669903
+School was boring today.. No better tomorrow.
+Word #17 - or 0.00333737864078
+RT @ayeee_mayra: I better see Yvette at School tomorrow or i will stand there &amp; cry .
+Word #18 - start 0.00303398058252
+School starts back tomorrow. Gotta start picking out my outfit.. Not! Class at 10 and done at 1. Thats good stuff #collegelife
+Word #19 - might 0.00273058252427
+School might be closed tomorrow
+Word #20 - though 0.00273058252427
+Feel so shit still, determined to come into school tomorrow though!
+
+

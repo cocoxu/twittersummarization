@@ -1,0 +1,123 @@
+#tweets in the cluster:  370
+
+== PageRank SubEvent Flex ==
+No school tomorrow please baby jesus
+hey i get to come in late tomorrow thanks god and jesus
+
+== PageRank SubEvent Fixed ==
+No school tomorrow please baby jesus
+hey i get to come in late tomorrow thanks god and jesus
+I'm calling people Fat Jesus tomorrow g .
+
+== SumBasic ==
+I get to go home at 9:30 tomorrow thank you jesus
+For the love of Jesus give us a snow day tomorrow #amen
+Today is my friday. Thank sweet baby Jesus and all his surrounding angels
+
+== PageRank IE ==
+No school tomorrow praise Jesus!:D
+In 2011 in day like this Jesus saved me I gave myself to Jesus on January 16, 2011 glory to God
+I'm calling people Fat Jesus tomorrow g.
+
+== SumBasic Reference of 20 ==
+I get to go home at 9:30 tomorrow thank you jesus
+For the love of Jesus give us a snow day tomorrow #amen
+Today is my friday. Thank sweet baby Jesus and all his surrounding angels
+Dear god, please dont let there be school tomorrow in Jesus christ name amen
+By this time tomorrow we will have the spring breakers trailer. I would like to thank not only God but also Jesus
+RT @Smitty3533: If you see me in school on wednesday that means i saw the light and found jesus
+@chloeprophets OH JESUS CAN IT JUST BE JANUARY 16TH NOW PLEASE AND TVD ISN'T DOING THIS TOO IS IT
+No school tomorrow praise Jesus!:D
+Big night at North Pointe tomorrow, crankin' the band back up and beginning our series called \"Jesus said WHAT?!\" Doors open at 6pm
+Clean up! Time is running out! Isaiah 52:11 if you have not giving your life to Jesus now is your time to do so tomorrow may be too late pls
+If you haven't accepted Jesus, don't wait. Accept Him right now--He may come back today!
+HALF DAY TOMORROW JESUS IS WITH US TODAY
+Didn't study for this exam tomorrow...oh well, imma just let Jesus take the wheel.
+@lexiimarie_g same here!! aw lord, okay i'm gonna ask Jesus to help us tomorrow
+off work tomorrow thank u jesus
+As we partake of the holy communion tonight, may the blessings attached to it be part of our lives in Jesus name
+JESUS. WHY. JANUARY 16. I DON'T THINK I'LL SURVIVE THAT LONG
+jesus its poppin in my crib tonite... like its wednesday wtf is good?
+Two days off thank Jesus &lt;3 halo tomorrow morning bitches!
+RT @PastorEAAdeboye: I pray for you today whatever you will do that will make GOD truncate ur density may you never do it in JESUS name.
+
+
+#tweets in the cluster:  370
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.403218563382 Predicates:school
+0.263559409985 No school tomorrow please baby jesus
+Event #2 - Proportion:0.102482939223 Arguments:god
+0.067821524478 hey i get to come in late tomorrow thanks god and jesus
+(Additional) Event #3 - Proportion:0.0923957379209 Predicates:call
+0.053899712831 I'm calling people Fat Jesus tomorrow g .
+(Additional) Event #4 - Proportion:0.0887500959467 Predicates:praise
+0.104233449386 NO LAB TOMORROW ! Praise baby Jesus !
+(Additional) Event #5 - Proportion:0.0852977476646 Predicates:give
+0.066157430018 For the love of Jesus give us a snow day tomorrow #amen
+(Additional) Event #6 - Proportion:0.0791878210919 Predicates:start
+0.0991597288309 Late start tomorrow that 's Jesus :D
+(Additional) Event #7 - Proportion:0.077835249601 Predicates:studied
+0.0283686638107 I never get lower than an A in any of my Jesus and Church tests . Hoping this exam tomorrow will be another A . Studied hard too
+(Additional) Event #8 - Proportion:0.0708318451703 Predicates:pray
+0.0409510135026 Pray , Surrender to JESUS , Sleep , Dream and tomorrow will be better . #Hallelujah
+
+== SumBasic ==
+Word #1 - tomorrow 0.0572749196141
+I get to go home at 9:30 tomorrow thank you jesus
+Word #2 - the 0.020498392283
+For the love of Jesus give us a snow day tomorrow #amen
+Word #3 - and 0.01788585209
+Today is my friday. Thank sweet baby Jesus and all his surrounding angels
+
+== PageRank IE ==
+IE #1 - school 6.80739887222
+No school tomorrow praise Jesus!:D
+IE #2 - god 1.73018384629
+In 2011 in day like this Jesus saved me I gave myself to Jesus on January 16, 2011 glory to God
+IE #3 - call 1.55988513238
+I'm calling people Fat Jesus tomorrow g.
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0572749196141
+I get to go home at 9:30 tomorrow thank you jesus
+Word #2 - the 0.020498392283
+For the love of Jesus give us a snow day tomorrow #amen
+Word #3 - and 0.01788585209
+Today is my friday. Thank sweet baby Jesus and all his surrounding angels
+Word #4 - in 0.0130627009646
+Dear god, please dont let there be school tomorrow in Jesus christ name amen
+Word #5 - have 0.0106511254019
+By this time tomorrow we will have the spring breakers trailer. I would like to thank not only God but also Jesus
+Word #6 - me 0.00944533762058
+RT @Smitty3533: If you see me in school on wednesday that means i saw the light and found jesus
+Word #7 - it 0.008038585209
+@chloeprophets OH JESUS CAN IT JUST BE JANUARY 16TH NOW PLEASE AND TVD ISN'T DOING THIS TOO IS IT
+Word #8 - no 0.00602893890675
+No school tomorrow praise Jesus!:D
+Word #9 - night 0.00502411575563
+Big night at North Pointe tomorrow, crankin' the band back up and beginning our series called \"Jesus said WHAT?!\" Doors open at 6pm
+Word #10 - your 0.00442122186495
+Clean up! Time is running out! Isaiah 52:11 if you have not giving your life to Jesus now is your time to do so tomorrow may be too late pls
+Word #11 - come 0.00422025723473
+If you haven't accepted Jesus, don't wait. Accept Him right now--He may come back today!
+Word #12 - with 0.00422025723473
+HALF DAY TOMORROW JESUS IS WITH US TODAY
+Word #13 - take 0.00381832797428
+Didn't study for this exam tomorrow...oh well, imma just let Jesus take the wheel.
+Word #14 - lord 0.0032154340836
+@lexiimarie_g same here!! aw lord, okay i'm gonna ask Jesus to help us tomorrow
+Word #15 - u 0.00301446945338
+off work tomorrow thank u jesus
+Word #16 - as 0.00281350482315
+As we partake of the holy communion tonight, may the blessings attached to it be part of our lives in Jesus name
+Word #17 - 16 0.00261254019293
+JESUS. WHY. JANUARY 16. I DON'T THINK I'LL SURVIVE THAT LONG
+Word #18 - good 0.00221061093248
+jesus its poppin in my crib tonite... like its wednesday wtf is good?
+Word #19 - morning 0.00221061093248
+Two days off thank Jesus &lt;3 halo tomorrow morning bitches!
+Word #20 - ur 0.00221061093248
+RT @PastorEAAdeboye: I pray for you today whatever you will do that will make GOD truncate ur density may you never do it in JESUS name.
+
+

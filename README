@@ -1,0 +1,12 @@
+
+
+This github project includes the Twitter summarization evaluation data used in the following paper:
+
+@inproceedings{xu2013summarization,
+  title={A Preliminary Study of Tweet Summarization using Information Extraction},
+  author={Xu, Wei and Grishman, Ralph and Meyers, Adam and Ritter, Alan},
+  booktitle={Proceedings of the NAACL Workshop on Language Analysis in Social Media},
+  year={2013}
+}
+
+

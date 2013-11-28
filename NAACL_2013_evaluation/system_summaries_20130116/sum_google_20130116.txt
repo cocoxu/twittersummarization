@@ -1,0 +1,126 @@
+#tweets in the cluster:  192
+
+== PageRank SubEvent Flex ==
+Google 's home page is a Zamboni game in celebration of Frank Zamboni 's birthday January 16 #GameOn
+Orange says has it has forced Google to pay for traffic . The Head of the Orange said on Wednesday it had ... http://t.co/dOqAHhWi
+Today social , Tomorrow Google ! Facebook Has Publicly Redefined Itself As A Search Company http://t.co/dAevB2V0 via @sai
+
+== PageRank SubEvent Fixed ==
+Google 's home page is a Zamboni game in celebration of Frank Zamboni 's birthday January 16 #GameOn
+Orange says has it has forced Google to pay for traffic . The Head of the Orange said on Wednesday it had ... http://t.co/dOqAHhWi
+Today social , Tomorrow Google ! Facebook Has Publicly Redefined Itself As A Search Company http://t.co/dAevB2V0 via @sai
+
+== SumBasic ==
+Tomorrow's Google doodle is going to be a Zamboni! I may have to take a vacation day.
+the game on google today reminds me of hockey #tooexcited #saturday
+The fact that I was soooo involved in that google doodle game says something about this Wednesday #TGIW You should try it!
+
+== PageRank IE ==
+Google's home page is a Zamboni game in celebration of Frank Zamboni's birthday January 16 #GameOn
+midnight and casually playing google game... tomorrow im gonna sleep in hospital instead of working...
+headline at top of tomorrow's Times of London cover, with Zuck pic: \"Search me: Facebook prepares to give Google a poke\"
+
+== SumBasic Reference of 20 ==
+Tomorrow's Google doodle is going to be a Zamboni! I may have to take a vacation day.
+the game on google today reminds me of hockey #tooexcited #saturday
+The fact that I was soooo involved in that google doodle game says something about this Wednesday #TGIW You should try it!
+if i'm late for school today it's because i sat and played with google's home page for too long
+Oh my gosh. The google logo today. So much for that midterm at 8am tomorrow.....
+google has a zamboni game.. i know what im doing allll day tomorrow
+RT @followfi: *taps mic* MESSAGE FROM THE FUTURE! You will get NO work done with tomorrow's google doodle. As you were. *mic off*
+@__Kal_ Ctfu I know. Go on google and search Instagram selling photo and read it. Staring jan 16
+Google may not have killed a donkey,but I slayed some ass last night.
+Here's The Print Ad From Google That Won A $1 Million Prize: USA TODAY said Wednesday that Google Creative Lab w... http://t.co/afs2Hyo5
+January 16th's theme on Google. Having way too much fun. Maybe I should sleep?
+Since Google tells me today is Frank Zamboni's 112th birthday: http://t.co/nwI1MWgF
+Orange forces Google to pay for traffic: Paris - The head of Orange said on Wednesday it had been able to impose... http://t.co/AYVS0M5u
+@iseeuseeiseeu HAHAHAHA i'm just gonna google tomorrow and hope something nice pops out D:
+headline at top of tomorrow's Times of London cover, with Zuck pic: \"Search me: Facebook prepares to give Google a poke\"
+@Jurassic_Parks google their new terms and conditions. Basically from 16 jan they own the right to all of your photos
+Tomorrow Morning. SEO - What you Need to Know! Come learn what has changed - so you can keep showing up on Google http://t.co/q8ZnjtpT
+Such a pretty Google doodle today. Happy birthday, May Gibbs!
+Also, ice hockey fans may like today's Google Doodle. Make sure to click on it...
+Google denies its Street View car ran over a donkey -  Google on Wednesday moved to reassure users that... http://t.co/JKfXC9wl  #GoogleMaps
+
+
+#tweets in the cluster:  192
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.401235223027 Arguments:frank zamboni Predicates:game,birthday,doodle
+0.305201179543 Google 's home page is a Zamboni game in celebration of Frank Zamboni 's birthday January 16 #GameOn
+Event #2 - Proportion:0.211287731316 Arguments:orange Predicates:pay,said on,force
+0.277803923284 Orange says has it has forced Google to pay for traffic . The Head of the Orange said on Wednesday it had ... http://t.co/dOqAHhWi
+Event #3 - Proportion:0.109953762206 Arguments:facebook Predicates:search
+0.0950117458344 Today social , Tomorrow Google ! Facebook Has Publicly Redefined Itself As A Search Company http://t.co/dAevB2V0 via @sai
+(Additional) Event #4 - Proportion:0.0681012955489 Predicates:play
+0.0345729261622 According to Google Play , my Nexus 4 should ship January 16th . I didn't know Google has access to a time machine ...
+(Additional) Event #5 - Proportion:0.0444617214333 Predicates:give
+0.0175465870462 #socialcafe I saw that this morning . Facebook may give Google a good run , but still have a long way to go . IMO
+(Additional) Event #6 - Proportion:0.0423433447659 Predicates:move
+0.0169522594662 Google denies its Street View car ran over a donkey Alternative World News Network Google on Wednesday moved ... http://t.co/pI9C5AoH
+(Additional) Event #7 - Proportion:0.0423084381285 Predicates:prepare
+0.00789168293091 I may lose productivity today due to Google 's tribute to Zamboni
+(Additional) Event #8 - Proportion:0.0401542424712 Arguments:zuck
+0.00789168293091 I may lose productivity today due to Google 's tribute to Zamboni
+(Additional) Event #9 - Proportion:0.0401542411023 Arguments:london
+0.00789168293091 I may lose productivity today due to Google 's tribute to Zamboni
+
+== SumBasic ==
+Word #1 - to 0.0303643724696
+Tomorrow's Google doodle is going to be a Zamboni! I may have to take a vacation day.
+Word #2 - the 0.0280026990553
+the game on google today reminds me of hockey #tooexcited #saturday
+Word #3 - wednesday 0.0165317139001
+The fact that I was soooo involved in that google doodle game says something about this Wednesday #TGIW You should try it!
+
+== PageRank IE ==
+IE #1 - frank zamboni 4.46785305882
+Google's home page is a Zamboni game in celebration of Frank Zamboni's birthday January 16 #GameOn
+IE #2 - play 1.94861750946
+midnight and casually playing google game... tomorrow im gonna sleep in hospital instead of working...
+IE #3 - facebook 1.60234020706
+headline at top of tomorrow's Times of London cover, with Zuck pic: \"Search me: Facebook prepares to give Google a poke\"
+
+== SumBasic Reference of 20 ==
+Word #1 - to 0.0303643724696
+Tomorrow's Google doodle is going to be a Zamboni! I may have to take a vacation day.
+Word #2 - the 0.0280026990553
+the game on google today reminds me of hockey #tooexcited #saturday
+Word #3 - wednesday 0.0165317139001
+The fact that I was soooo involved in that google doodle game says something about this Wednesday #TGIW You should try it!
+Word #4 - and 0.0124831309042
+if i'm late for school today it's because i sat and played with google's home page for too long
+Word #5 - my 0.00978407557355
+Oh my gosh. The google logo today. So much for that midterm at 8am tomorrow.....
+Word #6 - has 0.00742240215924
+google has a zamboni game.. i know what im doing allll day tomorrow
+Word #7 - will 0.00708502024291
+RT @followfi: *taps mic* MESSAGE FROM THE FUTURE! You will get NO work done with tomorrow's google doodle. As you were. *mic off*
+Word #8 - 16 0.00506072874494
+@__Kal_ Ctfu I know. Go on google and search Instagram selling photo and read it. Staring jan 16
+Word #9 - donkey 0.00506072874494
+Google may not have killed a donkey,but I slayed some ass last night.
+Word #10 - said 0.00506072874494
+Here's The Print Ad From Google That Won A $1 Million Prize: USA TODAY said Wednesday that Google Creative Lab w... http://t.co/afs2Hyo5
+Word #11 - january 0.00472334682861
+January 16th's theme on Google. Having way too much fun. Maybe I should sleep?
+Word #12 - frank 0.00472334682861
+Since Google tells me today is Frank Zamboni's 112th birthday: http://t.co/nwI1MWgF
+Word #13 - orange 0.00472334682861
+Orange forces Google to pay for traffic: Paris - The head of Orange said on Wednesday it had been able to impose... http://t.co/AYVS0M5u
+Word #14 - just 0.00337381916329
+@iseeuseeiseeu HAHAHAHA i'm just gonna google tomorrow and hope something nice pops out D:
+Word #15 - facebook 0.00303643724696
+headline at top of tomorrow's Times of London cover, with Zuck pic: \"Search me: Facebook prepares to give Google a poke\"
+Word #16 - new 0.00269905533063
+@Jurassic_Parks google their new terms and conditions. Basically from 16 jan they own the right to all of your photos
+Word #17 - morning 0.00269905533063
+Tomorrow Morning. SEO - What you Need to Know! Come learn what has changed - so you can keep showing up on Google http://t.co/q8ZnjtpT
+Word #18 - gibbs 0.00269905533063
+Such a pretty Google doodle today. Happy birthday, May Gibbs!
+Word #19 - like 0.00269905533063
+Also, ice hockey fans may like today's Google Doodle. Make sure to click on it...
+Word #20 - its 0.0023616734143
+Google denies its Street View car ran over a donkey -  Google on Wednesday moved to reassure users that... http://t.co/JKfXC9wl  #GoogleMaps
+
+

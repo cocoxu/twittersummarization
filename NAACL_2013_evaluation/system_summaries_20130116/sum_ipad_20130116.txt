@@ -1,0 +1,129 @@
+#tweets in the cluster:  192
+
+== PageRank SubEvent Flex ==
+I want to bring my iPad tomorrow at school :/
+16 January 2013 , Jeremy Hunt , Policy Exchange , From notepad to iPad ... - http://t.co/mtI7gXls http://t.co/uvgH2g0D
+
+== PageRank SubEvent Fixed ==
+I want to bring my iPad tomorrow at school :/
+16 January 2013 , Jeremy Hunt , Policy Exchange , From notepad to iPad ... - http://t.co/mtI7gXls http://t.co/uvgH2g0D
+@iPhoneiFan @redsn0w_jb I'll check tomorrow , I hope it does my iPad 2 first !
+
+== SumBasic ==
+i can't wait to get my iPad mini tomorrow.
+yeah, I get my free iPad on the 16th of January :D
+@ZeezY_2timeZ no but I have an iPad :) and why are you coming tomorrow
+
+== PageRank IE ==
+I want to bring my iPad tomorrow at school :/
+16 January 2013, Jeremy Hunt, Policy Exchange, From notepad to iPad: technology and the NHS | Media Centre http://t.co/FCO6NKUd
+Oh Joy! RT @iPhoneTeam: Temple run 2 is coming tomorrow for iPhone and iPad. Who's ready?
+
+== SumBasic Reference of 20 ==
+i can't wait to get my iPad mini tomorrow.
+yeah, I get my free iPad on the 16th of January :D
+@ZeezY_2timeZ no but I have an iPad :) and why are you coming tomorrow
+Can it be January 16th so i can get my ipad mini now...
+I'm going to put movies in my iPad for tomorrow :(
+I have a really important exam tomorrow morning but this iPad is distracting me
+Oops pardon that retweet from 16 January. @tweetings your app is getting difficult to use and getting wonky on iPad!
+OMG didn't realize my iMessage was turned off since Wednesday night, just checked my ipad got 431 messages.
+@robertsammons May be able to afford iPad 4 today; should I wait for 5 to come out before I buy? (Lower prices for 4 etc)
+Dear @nmoloci22  If your fucking ass does not bring my fucking iPad to school fucking tomorrow, i will beat the fuck outta you. -Katie Moran
+Jeremy Hunt speech at Policy Exchange (16 Jan 2013) - From notepad to iPad: technology and the NHS via @dhgovuk http://t.co/q1BwO1wJ
+Samsung May Tackle The iPad Mini With An 8-Inch Galaxy Note It seems like only yesterday that Samsung introduced... http://t.co/ub1gJ5TD
+JessHlll2011 oh wow, iPad 2 isit? And are you going in all day tomorrow?wwTCc
+@JackLeHuray that makes you a good boy. Im buying an ipad tomorrow when i go to pick up my blow up bed WATCH ME
+@CaboodleMedia I had my new iPad mini yesterday so he's pinched my iPad 2nd Gen..... Apparently he still hates it.... Lies! Haha
+Packed and ready for @lammashow tomorrow #Lamma13 Excited for our win an iPad comp! #SCS
+@BrendaLeBeast fuuuuuuck, well just text me from Arlene's phone tomorrow &lt;3 you're using the iPad?
+dad got an iPad yesterday and doesn't know how to work it, may just spam it with iMessages as it'll confuse him loads, hahaha
+Want to iPad fight after testing tomorrow? My iPad wants to hit you.
+Do the uws college students get their ipad tomorrow as well or???
+
+
+#tweets in the cluster:  192
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.264568656554 Predicates:bring,school
+0.291026923858 I want to bring my iPad tomorrow at school :/
+Event #2 - Proportion:0.165146773026 Arguments:policy exchange,jeremy hunt
+0.0972270729598 16 January 2013 , Jeremy Hunt , Policy Exchange , From notepad to iPad ... - http://t.co/mtI7gXls http://t.co/uvgH2g0D
+(Additional) Event #3 - Proportion:0.0741491229983 Arguments:iphone
+0.0268901949189 @iPhoneiFan @redsn0w_jb I'll check tomorrow , I hope it does my iPad 2 first !
+(Additional) Event #4 - Proportion:0.0686508908541 Arguments:temple
+0.00684845611536 Oh Joy ! RT @iPhoneTeam : Temple run 2 is coming tomorrow for iPhone and iPad . Who 's ready ?
+(Additional) Event #5 - Proportion:0.0686508871857 Predicates:come
+0.0634561551043 Come on . I'm tired . We can update my iPad tomorrow !
+(Additional) Event #6 - Proportion:0.0686508851619 Predicates:run
+0.0419872216993 Bring the iPad tomorrow so I can kill y'all in fun run .
+(Additional) Event #7 - Proportion:0.0590941593854 Predicates:win
+0.035662407106 Packed and ready for @lammashow tomorrow #Lamma13 Excited for our win an iPad comp ! #SCS
+(Additional) Event #8 - Proportion:0.0581176047356 Predicates:watch
+0.0331859691176 I'm going to buy bridesmaids on iTunes Wednesday so I can watch it on my iPad all the time !!!!
+(Additional) Event #9 - Proportion:0.0576570112823 Predicates:work
+0.0255946625389 Home from work . Now I can rest my feet , plan my day for tomorrow which includes picking up my iPad from UNI . Thanks , UWS .
+(Additional) Event #10 - Proportion:0.0576570044087 Predicates:free
+0.0583601233754 Getting free IPAD NEXT WEDNESDAY !!!!
+(Additional) Event #11 - Proportion:0.0576570044087 Predicates:get
+0.075241110379 @kellydarbyy I get my iPad mini tomorrow
+
+== SumBasic ==
+Word #1 - tomorrow 0.0465694987558
+i can't wait to get my iPad mini tomorrow.
+Word #2 - the 0.0305723426946
+yeah, I get my free iPad on the 16th of January :D
+Word #3 - and 0.0195520796303
+@ZeezY_2timeZ no but I have an iPad :) and why are you coming tomorrow
+
+== PageRank IE ==
+IE #1 - bring 2.75193984233
+I want to bring my iPad tomorrow at school :/
+IE #2 - policy exchange 1.44596067602
+16 January 2013, Jeremy Hunt, Policy Exchange, From notepad to iPad: technology and the NHS | Media Centre http://t.co/FCO6NKUd
+IE #3 - iphone 1.298441511
+Oh Joy! RT @iPhoneTeam: Temple run 2 is coming tomorrow for iPhone and iPad. Who's ready?
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0465694987558
+i can't wait to get my iPad mini tomorrow.
+Word #2 - the 0.0305723426946
+yeah, I get my free iPad on the 16th of January :D
+Word #3 - and 0.0195520796303
+@ZeezY_2timeZ no but I have an iPad :) and why are you coming tomorrow
+Word #4 - it 0.0159971560611
+Can it be January 16th so i can get my ipad mini now...
+Word #5 - for 0.0156416637042
+I'm going to put movies in my iPad for tomorrow :(
+Word #6 - a 0.0110202630643
+I have a really important exam tomorrow morning but this iPad is distracting me
+Word #7 - that 0.00710984713829
+Oops pardon that retweet from 16 January. @tweetings your app is getting difficult to use and getting wonky on iPad!
+Word #8 - wednesday 0.00639886242446
+OMG didn't realize my iMessage was turned off since Wednesday night, just checked my ipad got 431 messages.
+Word #9 - today 0.00639886242446
+@robertsammons May be able to afford iPad 4 today; should I wait for 5 to come out before I buy? (Lower prices for 4 etc)
+Word #10 - will 0.00639886242446
+Dear @nmoloci22  If your fucking ass does not bring my fucking iPad to school fucking tomorrow, i will beat the fuck outta you. -Katie Moran
+Word #11 - at 0.00533238535371
+Jeremy Hunt speech at Policy Exchange (16 Jan 2013) - From notepad to iPad: technology and the NHS via @dhgovuk http://t.co/q1BwO1wJ
+Word #12 - like 0.0049768929968
+Samsung May Tackle The iPad Mini With An 8-Inch Galaxy Note It seems like only yesterday that Samsung introduced... http://t.co/ub1gJ5TD
+Word #13 - day 0.00391041592606
+JessHlll2011 oh wow, iPad 2 isit? And are you going in all day tomorrow?wwTCc
+Word #14 - up 0.00391041592606
+@JackLeHuray that makes you a good boy. Im buying an ipad tomorrow when i go to pick up my blow up bed WATCH ME
+Word #15 - new 0.00355492356914
+@CaboodleMedia I had my new iPad mini yesterday so he's pinched my iPad 2nd Gen..... Apparently he still hates it.... Lies! Haha
+Word #16 - our 0.00319943121223
+Packed and ready for @lammashow tomorrow #Lamma13 Excited for our win an iPad comp! #SCS
+Word #17 - phone 0.00284393885531
+@BrendaLeBeast fuuuuuuck, well just text me from Arlene's phone tomorrow &lt;3 you're using the iPad?
+Word #18 - work 0.00284393885531
+dad got an iPad yesterday and doesn't know how to work it, may just spam it with iMessages as it'll confuse him loads, hahaha
+Word #19 - want 0.00284393885531
+Want to iPad fight after testing tomorrow? My iPad wants to hit you.
+Word #20 - or 0.00284393885531
+Do the uws college students get their ipad tomorrow as well or???
+
+

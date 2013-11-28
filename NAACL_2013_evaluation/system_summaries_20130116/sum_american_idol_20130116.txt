@@ -1,0 +1,124 @@
+#tweets in the cluster:  890
+
+== PageRank SubEvent Flex ==
+American Idol Season 12 with @NICKIMINAJ premieres January 16th @ 8/7c on FOX
+RT @YellaTwerkQUEEN : Tomorrow the new season of American Idol comes on , I'm just excited cause Nicki Minaj and Mariah Carey are judges
+American Idol start January 16th ^_
+
+== PageRank SubEvent Fixed ==
+American Idol Season 12 with @NICKIMINAJ premieres January 16th @ 8/7c on FOX
+RT @YellaTwerkQUEEN : Tomorrow the new season of American Idol comes on , I'm just excited cause Nicki Minaj and Mariah Carey are judges
+American Idol start January 16th ^_
+
+== SumBasic ==
+American Idol tomorrow
+I Can't Wait To Watch American Idol On Jan 16 !
+Season 12 of American Idol starts January 16th 2013.
+
+== PageRank IE ==
+American Idol Season 12 with @NICKIMINAJ premieres January 16th @ 8/7c on FOX
+I can't wait to watch American Idol starting on Jan 16th!
+Excited to watch American Idol tomorrow! :) Nicki Minaj is a new judge! ;)
+
+== SumBasic Reference of 20 ==
+American Idol tomorrow
+I Can't Wait To Watch American Idol On Jan 16 !
+Season 12 of American Idol starts January 16th 2013.
+Will you tune in for the American Idol premiere tomorrow?
+AMERICAN IDOL IS ON TOMORROW NIGHT
+It's Wednesday... And I just missed American Idol. #NightRuined
+Yah I may be a little bit excited for American idol tonight...
+American Idol Premieres January 16 At 8/7c On FOX.
+American Idol come on tomorrow ready to see my baby Nicki .
+I may have fell in love with Nicki Minaj last night as a judge on American Idol.
+American Idol comes back tomorrow I'm so exited
+Now that ellen is over its time for American Idol tomorrow!
+the only thing getting me through this Wednesday is the thought of American Idol starting tonight
+American Idol begins tomorrow night! Who's excited/not excited about the new judges? I'll be watching just to hear Keith Urban speak :0)
+American Idol and Mariah Carey are coming January 16th!!!!
+Cant wait til next Wednesday for American Idol
+Not going to lie pretty excited for tomorrow American Idol auditions haha.
+Les Mis tomorrow then on the 17th, Thursday, American Idol season 12 premiere! #ExcitedMe
+It's been like yesterday when I start to watch American Idol season 1 and now, it's on its 12th. Whoa. #superfan
+DOES ANYONE EVEN WATCH AMERICAN IDOL ANYMORE SERIOUS QUESTION CAUSE I WANNA LIVE TWEET THE AUDITIONS TOMORROW BUT IF NO ONE WATCHES IDK
+
+
+#tweets in the cluster:  890
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.491984967946 Arguments:fox Predicates:idol season,watch,premiere
+0.447314128137 American Idol Season 12 with @NICKIMINAJ premieres January 16th @ 8/7c on FOX
+Event #2 - Proportion:0.172004785212 Arguments:nicki minaj,mariah carey Predicates:excite
+0.192513034969 RT @YellaTwerkQUEEN : Tomorrow the new season of American Idol comes on , I'm just excited cause Nicki Minaj and Mariah Carey are judges
+Event #3 - Proportion:0.149372539358 Predicates:start
+0.316094037637 American Idol start January 16th ^_
+(Additional) Event #4 - Proportion:0.0818287190167 Predicates:saw,show
+0.0874865695079 tomorrow American Idol , the show sucks now
+(Additional) Event #5 - Proportion:0.0346277723735 Predicates:come on
+0.136702205559 American Idol come on tomorrow
+(Additional) Event #6 - Proportion:0.023922691632 Predicates:ellen
+0.0585004632345 Now that ellen is over its time for American Idol tomorrow !
+(Additional) Event #7 - Proportion:0.0232542816481 Predicates:kick off
+0.0294778332819 American Idol tomorrow night ! #NM
+(Additional) Event #8 - Proportion:0.0230042428132 Arguments:keith urban
+0.0595754343347 Keith urban is going to be on American idol on January 16
+
+== SumBasic ==
+Word #1 - idol 0.0856719459109
+American Idol tomorrow
+Word #2 - on 0.0383439844401
+I Can't Wait To Watch American Idol On Jan 16 !
+Word #3 - january 0.0265814578124
+Season 12 of American Idol starts January 16th 2013.
+
+== PageRank IE ==
+IE #1 - idol season 9.72768498303
+American Idol Season 12 with @NICKIMINAJ premieres January 16th @ 8/7c on FOX
+IE #2 - start 8.239355743
+I can't wait to watch American Idol starting on Jan 16th!
+IE #3 - nicki minaj 4.5402879305
+Excited to watch American Idol tomorrow! :) Nicki Minaj is a new judge! ;)
+
+== SumBasic Reference of 20 ==
+Word #1 - idol 0.0856719459109
+American Idol tomorrow
+Word #2 - on 0.0383439844401
+I Can't Wait To Watch American Idol On Jan 16 !
+Word #3 - january 0.0265814578124
+Season 12 of American Idol starts January 16th 2013.
+Word #4 - the 0.0243586181347
+Will you tune in for the American Idol premiere tomorrow?
+Word #5 - is 0.0148189311846
+AMERICAN IDOL IS ON TOMORROW NIGHT
+Word #6 - wednesday 0.0128739464666
+It's Wednesday... And I just missed American Idol. #NightRuined
+Word #7 - be 0.0103732518292
+Yah I may be a little bit excited for American idol tonight...
+Word #8 - fox 0.00953968695008
+American Idol Premieres January 16 At 8/7c On FOX.
+Word #9 - nicki 0.00666851903306
+American Idol come on tomorrow ready to see my baby Nicki .
+Word #10 - with 0.00592757247384
+I may have fell in love with Nicki Minaj last night as a judge on American Idol.
+Word #11 - so 0.00555709919422
+American Idol comes back tomorrow I'm so exited
+Word #12 - that 0.00537186255441
+Now that ellen is over its time for American Idol tomorrow!
+Word #13 - this 0.00481615263499
+the only thing getting me through this Wednesday is the thought of American Idol starting tonight
+Word #14 - new 0.00435306103547
+American Idol begins tomorrow night! Who's excited/not excited about the new judges? I'll be watching just to hear Keith Urban speak :0)
+Word #15 - mariah 0.00314902287673
+American Idol and Mariah Carey are coming January 16th!!!!
+Word #16 - next 0.00296378623692
+Cant wait til next Wednesday for American Idol
+Word #17 - going 0.00296378623692
+Not going to lie pretty excited for tomorrow American Idol auditions haha.
+Word #18 - thursday 0.00277854959711
+Les Mis tomorrow then on the 17th, Thursday, American Idol season 12 premiere! #ExcitedMe
+Word #19 - 12th 0.00268593127721
+It's been like yesterday when I start to watch American Idol season 1 and now, it's on its 12th. Whoa. #superfan
+Word #20 - one 0.0025006946374
+DOES ANYONE EVEN WATCH AMERICAN IDOL ANYMORE SERIOUS QUESTION CAUSE I WANNA LIVE TWEET THE AUDITIONS TOMORROW BUT IF NO ONE WATCHES IDK
+
+

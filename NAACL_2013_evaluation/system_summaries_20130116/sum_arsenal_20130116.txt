@@ -1,0 +1,119 @@
+#tweets in the cluster:  241
+
+== PageRank SubEvent Flex ==
+If Arsenal win their FA Cup replay with Swansea on 16 January , they will play 7 games in 21 days .
+If Chelsea win on Wednesday they will go 4 points clear of Spurs and 10 points clear of Arsenal
+
+== PageRank SubEvent Fixed ==
+If Arsenal win their FA Cup replay with Swansea on 16 January , they will play 7 games in 21 days .
+If Chelsea win on Wednesday they will go 4 points clear of Spurs and 10 points clear of Arsenal
+Debating whether to go watch the Arsenal tomorrow ... #LotsToDoThough
+
+== SumBasic ==
+Excited to go to the Arsenal vs Swansea game tomorrow. :)
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+Don't actually mind Wednesday for a change,Arsenal tonight! #OhToBeAGooner
+
+== PageRank IE ==
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+Arsenal plays tomorrow and I cant watch the game :/
+Arsenal on ESPN tomorrow. CUNTS
+
+== SumBasic Reference of 20 ==
+Excited to go to the Arsenal vs Swansea game tomorrow. :)
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+Don't actually mind Wednesday for a change,Arsenal tonight! #OhToBeAGooner
+Arsenal plays tomorrow and I cant watch the game :/
+@samuelj29060 It is! Would've thought 1 of Man U or Arsenal would be on tonight as both are on TV tomorrow aren't they?
+Got my tickets for #BHAFC's 4th round FA Cup tie at the Amex!! Find out tonight if its Arsenal or Swansea we're up against!
+RT @WSTalbs: If any Arsenal fans give you grief after our inevitable loss on Sunday, just show then this. Worked for me last night! http ...
+How did we not win that?  We'd be good if we could score!  But, at least we equalised so weekend not ruined.  Away to Arsenal on Wednesday.
+Yeah I am going to Arsenal v Swansea tomorrow
+#Football: Live FA Cup 3rd Round Replays on January 16 - Man Utd v West Ham on ITV, Arsenal v Swansea on ESPN: http://t.co/guz3Lu3c
+Big match at Emirates tomorrow; I hope Arsenal will go through.
+Arsenal fans have hope, saints gave Chelsea a 2 goal lead on Wednesday night and still got a valuable point :D
+Off to Arsenal tomorrow night, see some of their #fanengagement in action.
+@MiguelDelaney he was absolutely fantastic tonight, a joy to watch. Showed similar drive in 2nd half v City, the only one from Arsenal.
+Thought we were gonna win looooool oh well. Play 90 minutes like the second half wednesday, Arsenal
+Should have won today's match. Can't believe we let a 2-0 lead slip. Important points dropped. Must win against Arsenal on Sunday now.
+Gotta wrap up for Arsenal tomorrow... Think my Wenger coat has to come out!
+RT @JoshWHUFC: God I hate Arsenal fans! Can't wait to go turn them over next Wednesday! #AwayDays
+@CavortingCraigo no pal too late notice to get it off work at arsenal and Fulham though, you going tomorrow?
+We are pleased to announce that the third round F.A cup replay between Arsenal and Swansea will be live on ESPN on January 16th #afc #scfc
+
+
+#tweets in the cluster:  241
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.723948449166 Arguments:fa cup,espn Predicates:swansea,game,replay
+0.517111625982 If Arsenal win their FA Cup replay with Swansea on 16 January , they will play 7 games in 21 days .
+Event #2 - Proportion:0.103840872668 Arguments:chelsea Predicates:win
+0.128989638206 If Chelsea win on Wednesday they will go 4 points clear of Spurs and 10 points clear of Arsenal
+(Additional) Event #3 - Proportion:0.0549724200439 Predicates:watch
+0.0619296831678 Debating whether to go watch the Arsenal tomorrow ... #LotsToDoThough
+(Additional) Event #4 - Proportion:0.0488459343935 Arguments:west ham
+0.054645692913 Got the bug now , thinking about going to Arsenal vs West Ham on Wednesday
+(Additional) Event #5 - Proportion:0.0342058538035 Predicates:announce
+0.00647475933302 Arsenal tomorrow , feels like we haven't played in weeks
+(Additional) Event #6 - Proportion:0.0341864699258 Arguments:emirates
+0.0546259570967 Big match at Emirates tomorrow ; I hope Arsenal will go through .
+
+== SumBasic ==
+Word #1 - to 0.0350877192982
+Excited to go to the Arsenal vs Swansea game tomorrow. :)
+Word #2 - on 0.0350877192982
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+Word #3 - wednesday 0.0215311004785
+Don't actually mind Wednesday for a change,Arsenal tonight! #OhToBeAGooner
+
+== PageRank IE ==
+IE #1 - swansea 8.3783513355
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+IE #2 - game 4.4329196008
+Arsenal plays tomorrow and I cant watch the game :/
+IE #3 - espn 2.775753888
+Arsenal on ESPN tomorrow. CUNTS
+
+== SumBasic Reference of 20 ==
+Word #1 - to 0.0350877192982
+Excited to go to the Arsenal vs Swansea game tomorrow. :)
+Word #2 - on 0.0350877192982
+If Arsenal win their FA Cup replay with Swansea on 16 January, they will play 7 games in 21 days.
+Word #3 - wednesday 0.0215311004785
+Don't actually mind Wednesday for a change,Arsenal tonight! #OhToBeAGooner
+Word #4 - and 0.0140882509304
+Arsenal plays tomorrow and I cant watch the game :/
+Word #5 - be 0.0103668261563
+@samuelj29060 It is! Would've thought 1 of Man U or Arsenal would be on tonight as both are on TV tomorrow aren't they?
+Word #6 - at 0.00930356193514
+Got my tickets for #BHAFC's 4th round FA Cup tie at the Amex!! Find out tonight if its Arsenal or Swansea we're up against!
+Word #7 - night 0.00664540138224
+RT @WSTalbs: If any Arsenal fans give you grief after our inevitable loss on Sunday, just show then this. Worked for me last night! http ...
+Word #8 - we 0.00584795321637
+How did we not win that?  We'd be good if we could score!  But, at least we equalised so weekend not ruined.  Away to Arsenal on Wednesday.
+Word #9 - v 0.00531632110579
+Yeah I am going to Arsenal v Swansea tomorrow
+Word #10 - live 0.00451887293993
+#Football: Live FA Cup 3rd Round Replays on January 16 - Man Utd v West Ham on ITV, Arsenal v Swansea on ESPN: http://t.co/guz3Lu3c
+Word #11 - emirates 0.00425305688464
+Big match at Emirates tomorrow; I hope Arsenal will go through.
+Word #12 - have 0.00425305688464
+Arsenal fans have hope, saints gave Chelsea a 2 goal lead on Wednesday night and still got a valuable point :D
+Word #13 - see 0.00372142477406
+Off to Arsenal tomorrow night, see some of their #fanengagement in action.
+Word #14 - city 0.00318979266348
+@MiguelDelaney he was absolutely fantastic tonight, a joy to watch. Showed similar drive in 2nd half v City, the only one from Arsenal.
+Word #15 - like 0.00318979266348
+Thought we were gonna win looooool oh well. Play 90 minutes like the second half wednesday, Arsenal
+Word #16 - today 0.0026581605529
+Should have won today's match. Can't believe we let a 2-0 lead slip. Important points dropped. Must win against Arsenal on Sunday now.
+Word #17 - come 0.0026581605529
+Gotta wrap up for Arsenal tomorrow... Think my Wenger coat has to come out!
+Word #18 - next 0.00239234449761
+RT @JoshWHUFC: God I hate Arsenal fans! Can't wait to go turn them over next Wednesday! #AwayDays
+Word #19 - get 0.00239234449761
+@CavortingCraigo no pal too late notice to get it off work at arsenal and Fulham though, you going tomorrow?
+Word #20 - third 0.00239234449761
+We are pleased to announce that the third round F.A cup replay between Arsenal and Swansea will be live on ESPN on January 16th #afc #scfc
+
+

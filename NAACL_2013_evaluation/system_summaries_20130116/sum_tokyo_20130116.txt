@@ -1,0 +1,116 @@
+#tweets in the cluster:  315
+
+== PageRank SubEvent Flex ==
+Japan 's transport ministry to check all Boeing 787s after ANA emergency landing : TOKYO , Jan 16 ( Reuters ) - Japan ... http://t.co/0tQEVibL
+There 's a chance the boys might head to Tokyo tomorrow .
+#New || Harry and Louis at NRT airport in Tokyo yesterday - Jan 16 , http://t.co/HCanvvkw
+
+== PageRank SubEvent Fixed ==
+Japan 's transport ministry to check all Boeing 787s after ANA emergency landing : TOKYO , Jan 16 ( Reuters ) - Japan ... http://t.co/0tQEVibL
+There 's a chance the boys might head to Tokyo tomorrow .
+#New || Harry and Louis at NRT airport in Tokyo yesterday - Jan 16 , http://t.co/HCanvvkw
+
+== SumBasic ==
+The boys at NRT airport in Tokyo yesterday (Jan 16 )http://t.co/95CEiq4W
+tomorrow the boys will be flying to Tokyo from London
+Harry and Louis at airport in Tokyo yesterday - Jan 16, 2013 http://t.co/CNwDb8EC\"
+
+== PageRank IE ==
+The boys at NRT airport in Tokyo yesterday (Jan 16 )http://t.co/95CEiq4W
+Japan's transport ministry to check all Boeing 787s after ANA emergency landing: TOKYO, Jan 16 (Reuters) - Japan... http://t.co/0tQEVibL
+I suspect the boys are heading to Tokyo tomorrow, judging by tweets from their team.
+
+== SumBasic Reference of 20 ==
+The boys at NRT airport in Tokyo yesterday (Jan 16 )http://t.co/95CEiq4W
+tomorrow the boys will be flying to Tokyo from London
+Harry and Louis at airport in Tokyo yesterday - Jan 16, 2013 http://t.co/CNwDb8EC\"
+The boys are leaving for Tokyo on the Jan 16!
+The flight from LDN to Tokyo is 16 hours! Tokyo is 9 hours ahead of LDN. They will probably be leaving tomorrow x (via @h0tlikepayne)
+Tokyo stocks down 1.52% by break: Japan's Nikkei share average fell on Wednesday and looked set to snap a four-day winning streak as ...
+One Direction arriving at Narita International Airport, Tokyo - January 16TH http://t.co/YSRdjmgP
+The boys are apparently heading to tokyo today and they'll be there by thursday night or friday:))
+#New || Niall and Zayn shopping in Tokyo yesterday - Jan 16, http://t.co/qpcuP3rF
+TOKYO (Reuters) - Asian shares edged higher on Wednesday as investor appetite for riskier assets improved amid upbeat U.S. earnings and b
+Harry out in Tokyo last night - Jan 16, http://t.co/POofxoTv
+I suspect the boys are heading to Tokyo tomorrow, judging by tweets from their team.
+#New - 2 HQ || Liam and Harry at NRT airport in Tokyo yesterday - Jan 16, 2013 http://t.co/tNUcRRKH (via @1DSuperHumans)
+Tokyo shares lose as yen surges: TOKYO stocks lost 2.56 per cent Wednesday as Boeing Dreamliner suppliers tumbled after two Japanese ...
+My parents are going to Tokyo tomorrow... #jealous
+Japan's ANA says to ground entire 787 fleet on Thursday: TOKYO, Jan 16 (Reuters) - All Nippon Airways Co Ltd said it... http://t.co/cJ8fTyOJ
+Tokyo stocks open 1.25% lower: TOKYO: Tokyo stocks opened 1.25 percent lower Wednesday after the Bank of Japan s... http://t.co/3yw04gyt
+@jettingaround Thanks.  You two.  Tomorrow we fly...so I'm happy! Tokyo here we come.
+The boys are apparently heading to Tokyo tomorrow at noon!
+New blow for Dreamliner with emergency landing in Japan: &lt;strong&gt;TOKYO (Jan 16, 2013)&lt;/strong&gt;: A Dreamliner passenger plane made an ...
+
+
+#tweets in the cluster:  315
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.455190256189 Arguments:japan,reuters,jan,nikkei Predicates:fall,land
+0.303923592783 Japan 's transport ministry to check all Boeing 787s after ANA emergency landing : TOKYO , Jan 16 ( Reuters ) - Japan ... http://t.co/0tQEVibL
+Event #2 - Proportion:0.279793742451 Arguments:the boys,london Predicates:head,leave
+0.221761074481 There 's a chance the boys might head to Tokyo tomorrow .
+Event #3 - Proportion:0.223906627232 Arguments:nrt,harry,louis
+0.261646238172 #New || Harry and Louis at NRT airport in Tokyo yesterday - Jan 16 , http://t.co/HCanvvkw
+(Additional) Event #4 - Proportion:0.0411093741274 Predicates:fly
+0.0358579075563 @jettingaround Thanks . You two . Tomorrow we fly ... so I'm happy ! Tokyo here we come .
+
+== SumBasic ==
+Word #1 - in 0.0506296581856
+The boys at NRT airport in Tokyo yesterday (Jan 16 )http://t.co/95CEiq4W
+Word #2 - to 0.0267283474685
+tomorrow the boys will be flying to Tokyo from London
+Word #3 - 2013 0.0244153173991
+Harry and Louis at airport in Tokyo yesterday - Jan 16, 2013 http://t.co/CNwDb8EC\"
+
+== PageRank IE ==
+IE #1 - nrt 3.02715673997
+The boys at NRT airport in Tokyo yesterday (Jan 16 )http://t.co/95CEiq4W
+IE #2 - japan 3.00255386816
+Japan's transport ministry to check all Boeing 787s after ANA emergency landing: TOKYO, Jan 16 (Reuters) - Japan... http://t.co/0tQEVibL
+IE #3 - head 1.93610735567
+I suspect the boys are heading to Tokyo tomorrow, judging by tweets from their team.
+
+== SumBasic Reference of 20 ==
+Word #1 - in 0.0506296581856
+The boys at NRT airport in Tokyo yesterday (Jan 16 )http://t.co/95CEiq4W
+Word #2 - to 0.0267283474685
+tomorrow the boys will be flying to Tokyo from London
+Word #3 - 2013 0.0244153173991
+Harry and Louis at airport in Tokyo yesterday - Jan 16, 2013 http://t.co/CNwDb8EC\"
+Word #4 - are 0.0136211770753
+The boys are leaving for Tokyo on the Jan 16!
+Word #5 - via 0.0102801336417
+The flight from LDN to Tokyo is 16 hours! Tokyo is 9 hours ahead of LDN. They will probably be leaving tomorrow x (via @h0tlikepayne)
+Word #6 - wednesday 0.00976612695965
+Tokyo stocks down 1.52% by break: Japan's Nikkei share average fell on Wednesday and looked set to snap a four-day winning streak as ...
+Word #7 - one 0.00899511693652
+One Direction arriving at Narita International Airport, Tokyo - January 16TH http://t.co/YSRdjmgP
+Word #8 - heading 0.0077101002313
+The boys are apparently heading to tokyo today and they'll be there by thursday night or friday:))
+Word #9 - zayn 0.00745309689026
+#New || Niall and Zayn shopping in Tokyo yesterday - Jan 16, http://t.co/qpcuP3rF
+Word #10 - reuters 0.00616808018504
+TOKYO (Reuters) - Asian shares edged higher on Wednesday as investor appetite for riskier assets improved amid upbeat U.S. earnings and b
+Word #11 - out 0.00565407350296
+Harry out in Tokyo last night - Jan 16, http://t.co/POofxoTv
+Word #12 - i 0.00514006682087
+I suspect the boys are heading to Tokyo tomorrow, judging by tweets from their team.
+Word #13 - hq 0.00488306347983
+#New - 2 HQ || Liam and Harry at NRT airport in Tokyo yesterday - Jan 16, 2013 http://t.co/tNUcRRKH (via @1DSuperHumans)
+Word #14 - after 0.00385505011565
+Tokyo shares lose as yen surges: TOKYO stocks lost 2.56 per cent Wednesday as Boeing Dreamliner suppliers tumbled after two Japanese ...
+Word #15 - going 0.00359804677461
+My parents are going to Tokyo tomorrow... #jealous
+Word #16 - it 0.00359804677461
+Japan's ANA says to ground entire 787 fleet on Thursday: TOKYO, Jan 16 (Reuters) - All Nippon Airways Co Ltd said it... http://t.co/cJ8fTyOJ
+Word #17 - lower 0.00308404009252
+Tokyo stocks open 1.25% lower: TOKYO: Tokyo stocks opened 1.25 percent lower Wednesday after the Bank of Japan s... http://t.co/3yw04gyt
+Word #18 - fly 0.00282703675148
+@jettingaround Thanks.  You two.  Tomorrow we fly...so I'm happy! Tokyo here we come.
+Word #19 - noon 0.00282703675148
+The boys are apparently heading to Tokyo tomorrow at noon!
+Word #20 - landing 0.00257003341043
+New blow for Dreamliner with emergency landing in Japan: &lt;strong&gt;TOKYO (Jan 16, 2013)&lt;/strong&gt;: A Dreamliner passenger plane made an ...
+
+

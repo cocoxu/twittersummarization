@@ -1,0 +1,123 @@
+#tweets in the cluster:  210
+
+== PageRank SubEvent Flex ==
+@cyancutie lol well tweet me tomorrow so I know to get on Skype . I gotta show my roommate .
+Skype date tomorrow night ? :) @GentianaSadriu
+@elizabeth_wong4 I'll let you talk to him tomorrow on Skype !
+Studying with Hamachi on Skype for tomorrow 's Physics exam :)
+
+== PageRank SubEvent Fixed ==
+@cyancutie lol well tweet me tomorrow so I know to get on Skype . I gotta show my roommate .
+Skype date tomorrow night ? :) @GentianaSadriu
+@elizabeth_wong4 I'll let you talk to him tomorrow on Skype !
+
+== SumBasic ==
+I am so excited for see you tomorrow at skype! @ladygaga :)
+@dontevenknowman send it to me on skype tomorrow :)
+@C_MForums sorry I never got a chance to talk but will catch up with you tomorrow I have you on Skype and email received :)
+
+== PageRank IE ==
+@cyancutie lol well tweet me tomorrow so I know to get on Skype. I gotta show my roommate.
+@kieradevitt need a catch up! Skype date tomorrow night? X
+@elizabeth_wong4 I'll let you talk to him tomorrow on Skype!
+
+== SumBasic Reference of 20 ==
+I am so excited for see you tomorrow at skype! @ladygaga :)
+@dontevenknowman send it to me on skype tomorrow :)
+@C_MForums sorry I never got a chance to talk but will catch up with you tomorrow I have you on Skype and email received :)
+@BroDudeMann tonight can we Skype? Like my tonight your tomorrow?
+@Kyluxian if I don't go to school tomorrow ill be on Skype in the morning, will you be on late your time?
+So the Skype chat is tomorrow not today -_____- I #Fail
+@TaviaTierin u need to get on my Skype so u could know if I missin this class Wednesday night
+One day some-one will be on Skype when I am ! It's just not today or tomorrow or the next day as so on :(
+mom why you tryna make me sleep all early when I have nothing to do tomorrow, I'm tryna skype with ma boos tho
+@haylstorm what's wrong my love?! :( all three of us have a Skype date tomorrow night!
+@stetsonn_T I just came back from the gym.. let's Skype first thing tomorrow after school!!
+@Jamesp0p HNY! Big yes to that my friend, how about skype tomorrow am?
+@jaliraizal here is 4 am. We talk on skype tomorrow? Im going to sleep now, good night.
+I have a job interview tomorrow via Skype, this should be good.
+@daniellegrace56 1) this tweet made my phone beep/woke me up 2) Awko taco 3) Skype tomorrow night?
+I wish my mom didn't know what Skype was.  If I don't Skype her at 1 tomorrow,  shits gonna get real-.-
+@Slasher ok. Well - I may have some season info to share with you. Hit me up on Skype this afternoon.
+@abbyolivia_1D @jess_lucas25 miss ya when I'm in sheff though don't I! Lets skype tomorrow and we can sing to each other again yeah? PLAN.
+@acushlabennett that would be amazing !! i'll see u guys soon then :) Let's skype tomorrow xx
+@AfterRomeoMusic i shall pass it around tomorrow and stuff yeah? im so tired! except if you want to skype coz me and @vincilam are :D
+
+
+#tweets in the cluster:  210
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.171384588178 Predicates:show
+0.0434739098977 @cyancutie lol well tweet me tomorrow so I know to get on Skype . I gotta show my roommate .
+Event #2 - Proportion:0.158217969406 Predicates:date
+0.0795130552897 Skype date tomorrow night ? :) @GentianaSadriu
+Event #3 - Proportion:0.147742115461 Predicates:talk
+0.0597314858958 @elizabeth_wong4 I'll let you talk to him tomorrow on Skype !
+Event #4 - Proportion:0.137826338564 Predicates:exam
+0.0543064643519 Studying with Hamachi on Skype for tomorrow 's Physics exam :)
+Event #5 - Proportion:0.135645855433 Predicates:saw
+0.00258274391155 missing @stephnjones ready to skype tonight and see her Friday !!!! #longdistanceproblems
+Event #6 - Proportion:0.135182203443 Predicates:chat
+0.0621138540959 So the Skype chat is tomorrow not today -_____- I #Fail
+Event #7 - Proportion:0.114000929515 Predicates:catch up
+0.0389529042129 @kieradevitt need a catch up ! Skype date tomorrow night ? X
+
+== SumBasic ==
+Word #1 - tomorrow 0.0611295681063
+I am so excited for see you tomorrow at skype! @ladygaga :)
+Word #2 - to 0.0322259136213
+@dontevenknowman send it to me on skype tomorrow :)
+Word #3 - and 0.0159468438538
+@C_MForums sorry I never got a chance to talk but will catch up with you tomorrow I have you on Skype and email received :)
+
+== PageRank IE ==
+IE #1 - show 1.63231192758
+@cyancutie lol well tweet me tomorrow so I know to get on Skype. I gotta show my roommate.
+IE #2 - date 1.50690958484
+@kieradevitt need a catch up! Skype date tomorrow night? X
+IE #3 - talk 1.40713479454
+@elizabeth_wong4 I'll let you talk to him tomorrow on Skype!
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0611295681063
+I am so excited for see you tomorrow at skype! @ladygaga :)
+Word #2 - to 0.0322259136213
+@dontevenknowman send it to me on skype tomorrow :)
+Word #3 - and 0.0159468438538
+@C_MForums sorry I never got a chance to talk but will catch up with you tomorrow I have you on Skype and email received :)
+Word #4 - my 0.0152823920266
+@BroDudeMann tonight can we Skype? Like my tonight your tomorrow?
+Word #5 - be 0.014950166113
+@Kyluxian if I don't go to school tomorrow ill be on Skype in the morning, will you be on late your time?
+Word #6 - is 0.00797342192691
+So the Skype chat is tomorrow not today -_____- I #Fail
+Word #7 - night 0.00797342192691
+@TaviaTierin u need to get on my Skype so u could know if I missin this class Wednesday night
+Word #8 - or 0.00598006644518
+One day some-one will be on Skype when I am ! It's just not today or tomorrow or the next day as so on :(
+Word #9 - do 0.0046511627907
+mom why you tryna make me sleep all early when I have nothing to do tomorrow, I'm tryna skype with ma boos tho
+Word #10 - of 0.0046511627907
+@haylstorm what's wrong my love?! :( all three of us have a Skype date tomorrow night!
+Word #11 - from 0.00431893687708
+@stetsonn_T I just came back from the gym.. let's Skype first thing tomorrow after school!!
+Word #12 - that 0.00398671096346
+@Jamesp0p HNY! Big yes to that my friend, how about skype tomorrow am?
+Word #13 - going 0.00332225913621
+@jaliraizal here is 4 am. We talk on skype tomorrow? Im going to sleep now, good night.
+Word #14 - should 0.00299003322259
+I have a job interview tomorrow via Skype, this should be good.
+Word #15 - 3 0.00265780730897
+@daniellegrace56 1) this tweet made my phone beep/woke me up 2) Awko taco 3) Skype tomorrow night?
+Word #16 - gonna 0.00265780730897
+I wish my mom didn't know what Skype was.  If I don't Skype her at 1 tomorrow,  shits gonna get real-.-
+Word #17 - some 0.00265780730897
+@Slasher ok. Well - I may have some season info to share with you. Hit me up on Skype this afternoon.
+Word #18 - again 0.00265780730897
+@abbyolivia_1D @jess_lucas25 miss ya when I'm in sheff though don't I! Lets skype tomorrow and we can sing to each other again yeah? PLAN.
+Word #19 - would 0.00232558139535
+@acushlabennett that would be amazing !! i'll see u guys soon then :) Let's skype tomorrow xx
+Word #20 - want 0.00232558139535
+@AfterRomeoMusic i shall pass it around tomorrow and stuff yeah? im so tired! except if you want to skype coz me and @vincilam are :D
+
+

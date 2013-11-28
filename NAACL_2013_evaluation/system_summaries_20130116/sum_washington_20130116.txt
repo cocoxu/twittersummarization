@@ -1,0 +1,125 @@
+#tweets in the cluster:  192
+
+== PageRank SubEvent Flex ==
+UPDATE 1-Goldman and Morgan Stanley cut $557 mln foreclosure deal : WASHINGTON , Jan 16 ( Reuters ) - Goldman Sachs ... http://t.co/Cp4AU5sm
+On January 16th Barack Obama unveiled the most sweeping gun-control proposals Washington , DC , has seen for two decades http://t.co/ysZp1h5U
+
+== PageRank SubEvent Fixed ==
+UPDATE 1-Goldman and Morgan Stanley cut $557 mln foreclosure deal : WASHINGTON , Jan 16 ( Reuters ) - Goldman Sachs ... http://t.co/Cp4AU5sm
+On January 16th Barack Obama unveiled the most sweeping gun-control proposals Washington , DC , has seen for two decades http://t.co/ysZp1h5U
+my little daxx is growing up . he leaves for his first trip without family tomorrow to head to Washington for the inauguration . I'm jealous .
+
+== SumBasic ==
+@airfrance  I need a flligth Washington  to Bari  leaving  the 16 jan back  the 30 th Tnx
+Obama to unveil gun violence measures Wednesday: WASHINGTON (Reuters) - President Barack Obama will unveil on Wednesday a series of \"...
+Going to Yakima La Salle in Washington. Show tomorrow at 11.
+
+== PageRank IE ==
+UPDATE 1-U.S. Interior head Salazar to leave administration: WASHINGTON, Jan 16 (Reuters) - U.S. Interior Secret... http://t.co/p7PsqgqX
+WASHINGTON -- Braced for a fight, President Barack Obama on Wednesday unveiled the most sweeping proposals for c... http://t.co/OifvdPJf
+Almost packed. Semester in Washington, DC begins tomorrow!
+
+== SumBasic Reference of 20 ==
+@airfrance  I need a flligth Washington  to Bari  leaving  the 16 jan back  the 30 th Tnx
+Obama to unveil gun violence measures Wednesday: WASHINGTON (Reuters) - President Barack Obama will unveil on Wednesday a series of \"...
+Going to Yakima La Salle in Washington. Show tomorrow at 11.
+Leaving for Washington and New York tomorrow!!!!
+US Inmate to Get His Wish Execution: WASHINGTON, January 16 (RIA Novosti) - Despite efforts by defense lawyers t... http://t.co/KPjChmVI
+Jay Inslee is now the 23rd governor of Washington state.     Inslee took the helm of the state on Wednesday... http://t.co/YYMDofcD
+RT @GLPearl: On January 16th Barack Obama unveiled the most sweeping gun-control proposals Washington, DC, has seen for two decades http ...
+UPDATE 2-U.S. FAA grounds Boeing 787 over battery concerns: WASHINGTON, Jan 16 (Reuters) - The U.S. Federal Avia... http://t.co/7FBE72xV
+@FlyDre21 I'll be spending my 23rd birthday watching you guys go for a big win in Washington tonight!! Can I get a S/O!?
+WASHINGTON, Jan 16 (Reuters) - U.S. Interior Secretary Ken Salazar on Wednesday said he will step down from the ... http://t.co/V7k03TnY
+Congratulations to Econ alum Jay Inslee, BA '73, who will be sworn in this morning as Washington's 23rd Governor. http://t.co/zxtcxuY4
+U.S. confirms Americans among hostages in Algeria attack: WASHINGTON (Reuters) - The United States said on Wednesday that U.S. citize...
+@Chanda_Mae tomorrow but I want u to take it to Gordon hwy or how much was the tint shop on Washington rd
+RT @TooSweetFourYou: Well it's January 16th in Washington, D.C. So it's officially ZETA PHI BETA SORORITY, INCORPORATED 's FOUNDERS DAY! ...
+ok sooo we go to Washington tomorrow ^_^
+Last triplex razed in Melbourne's Booker T. Washington neighborhood: Wednesday morning, an excavator razed the l... http://t.co/8VAyqpPq
+Washington After prom bake sale and pizza night tomorrow at the Goldsby Store from 5-8 pm. Come out and support us and get some good food!
+#quake M 2.3, Mount St. Helens area, Washington: January 16, 2013 05:06:35 GMT http://t.co/DmUIYc4J
+UPDATE 1-US SEC Republicans don't back political disclosure rule: WASHINGTON, Jan 16 (Reuters) - There is not en... http://t.co/b6zsD4nl
+FAA Grounds Dreamliners over Fire Risk:  WASHINGTON, D.C.- U.S. regulators Wednesday ordered airlines to ... http://t.co/z6MiPS1g @FOX40
+
+
+#tweets in the cluster:  192
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.612008911006 Arguments:reuters,jan,president barack obama Predicates:update
+0.2835363662 UPDATE 1-Goldman and Morgan Stanley cut $557 mln foreclosure deal : WASHINGTON , Jan 16 ( Reuters ) - Goldman Sachs ... http://t.co/Cp4AU5sm
+Event #2 - Proportion:0.144171148663 Arguments:dc Predicates:unveil,sweep
+0.134311814892 On January 16th Barack Obama unveiled the most sweeping gun-control proposals Washington , DC , has seen for two decades http://t.co/ysZp1h5U
+(Additional) Event #3 - Proportion:0.0466895663154 Predicates:leave
+0.014566068149 my little daxx is growing up . he leaves for his first trip without family tomorrow to head to Washington for the inauguration . I'm jealous .
+(Additional) Event #4 - Proportion:0.0403163412488 Arguments:u.s.
+0.0279647985522 FAA Grounds Dreamliners over Fire Risk : WASHINGTON , D . C . - U.S. regulators Wednesday ordered airlines to ... http://t.co/z6MiPS1g @FOX40
+(Additional) Event #5 - Proportion:0.0330959056743 Arguments:jay inslee
+0.0266503083551 Jay Inslee is now the 23rd governor of Washington state . Inslee took the helm of the state on Wednesday ... http://t.co/YYMDofcD
+(Additional) Event #6 - Proportion:0.0328819078492 Predicates:date
+0.0107794502611 White House aide Froman is considered top candidate for trade post : WASHINGTON , Jan 16 ( Reuters ) - White House i ... http://t.co/D00XSdRv
+(Additional) Event #7 - Proportion:0.0328819064698 Arguments:christian
+0.0228186235282 #TMN Christian online dating sites swell in US : Washington , Jan 16 ( IANS/RIA Novosti ) Lookin ... http://t.co/Ks9ZVr1o via @themuslimsnews
+(Additional) Event #8 - Proportion:0.029136800523 Predicates:surge
+0.0149685156893 Christian online dating sites surge in US : Washington , Jan 16 ( IANS/RIA Novosti ) Looking for love in America ? Pe ... http://t.co/1Y5KwyAZ
+(Additional) Event #9 - Proportion:0.0288175122504 Arguments:u.s. interior
+0.0142304431028 WASHINGTON , Jan 16 ( Reuters ) - U.S. Interior Secretary Ken Salazar on Wednesday said he will step down from the ... http://t.co/V7k03TnY
+
+== SumBasic ==
+Word #1 - the 0.0322466335932
+@airfrance  I need a flligth Washington  to Bari  leaving  the 16 jan back  the 30 th Tnx
+Word #2 - wednesday 0.0226789510985
+Obama to unveil gun violence measures Wednesday: WASHINGTON (Reuters) - President Barack Obama will unveil on Wednesday a series of \"...
+Word #3 - in 0.0226789510985
+Going to Yakima La Salle in Washington. Show tomorrow at 11.
+
+== PageRank IE ==
+IE #1 - reuters 9.84642065143
+UPDATE 1-U.S. Interior head Salazar to leave administration: WASHINGTON, Jan 16 (Reuters) - U.S. Interior Secret... http://t.co/p7PsqgqX
+IE #2 - president barack obama 2.80323335028
+WASHINGTON -- Braced for a fight, President Barack Obama on Wednesday unveiled the most sweeping proposals for c... http://t.co/OifvdPJf
+IE #3 - dc 1.65886671539
+Almost packed. Semester in Washington, DC begins tomorrow!
+
+== SumBasic Reference of 20 ==
+Word #1 - the 0.0322466335932
+@airfrance  I need a flligth Washington  to Bari  leaving  the 16 jan back  the 30 th Tnx
+Word #2 - wednesday 0.0226789510985
+Obama to unveil gun violence measures Wednesday: WASHINGTON (Reuters) - President Barack Obama will unveil on Wednesday a series of \"...
+Word #3 - in 0.0226789510985
+Going to Yakima La Salle in Washington. Show tomorrow at 11.
+Word #4 - for 0.0131112686038
+Leaving for Washington and New York tomorrow!!!!
+Word #5 - us 0.0099220411056
+US Inmate to Get His Wish Execution: WASHINGTON, January 16 (RIA Novosti) - Despite efforts by defense lawyers t... http://t.co/KPjChmVI
+Word #6 - is 0.00602409638554
+Jay Inslee is now the 23rd governor of Washington state.     Inslee took the helm of the state on Wednesday... http://t.co/YYMDofcD
+Word #7 - dc 0.00566973777463
+RT @GLPearl: On January 16th Barack Obama unveiled the most sweeping gun-control proposals Washington, DC, has seen for two decades http ...
+Word #8 - update 0.00531537916371
+UPDATE 2-U.S. FAA grounds Boeing 787 over battery concerns: WASHINGTON, Jan 16 (Reuters) - The U.S. Federal Avia... http://t.co/7FBE72xV
+Word #9 - be 0.00460666194189
+@FlyDre21 I'll be spending my 23rd birthday watching you guys go for a big win in Washington tonight!! Can I get a S/O!?
+Word #10 - from 0.00354358610914
+WASHINGTON, Jan 16 (Reuters) - U.S. Interior Secretary Ken Salazar on Wednesday said he will step down from the ... http://t.co/V7k03TnY
+Word #11 - as 0.00354358610914
+Congratulations to Econ alum Jay Inslee, BA '73, who will be sworn in this morning as Washington's 23rd Governor. http://t.co/zxtcxuY4
+Word #12 - states 0.00318922749823
+U.S. confirms Americans among hostages in Algeria attack: WASHINGTON (Reuters) - The United States said on Wednesday that U.S. citize...
+Word #13 - it 0.00318922749823
+@Chanda_Mae tomorrow but I want u to take it to Gordon hwy or how much was the tint shop on Washington rd
+Word #14 - s 0.00318922749823
+RT @TooSweetFourYou: Well it's January 16th in Washington, D.C. So it's officially ZETA PHI BETA SORORITY, INCORPORATED 's FOUNDERS DAY! ...
+Word #15 - we 0.00283486888731
+ok sooo we go to Washington tomorrow ^_^
+Word #16 - an 0.00283486888731
+Last triplex razed in Melbourne's Booker T. Washington neighborhood: Wednesday morning, an excavator razed the l... http://t.co/8VAyqpPq
+Word #17 - after 0.00212615166549
+Washington After prom bake sale and pizza night tomorrow at the Goldsby Store from 5-8 pm. Come out and support us and get some good food!
+Word #18 - 2013 0.00212615166549
+#quake M 2.3, Mount St. Helens area, Washington: January 16, 2013 05:06:35 GMT http://t.co/DmUIYc4J
+Word #19 - not 0.00212615166549
+UPDATE 1-US SEC Republicans don't back political disclosure rule: WASHINGTON, Jan 16 (Reuters) - There is not en... http://t.co/b6zsD4nl
+Word #20 - regulators 0.00212615166549
+FAA Grounds Dreamliners over Fire Risk:  WASHINGTON, D.C.- U.S. regulators Wednesday ordered airlines to ... http://t.co/z6MiPS1g @FOX40
+
+

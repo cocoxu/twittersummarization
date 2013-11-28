@@ -1,0 +1,106 @@
+#tweets in the cluster:  546
+
+== PageRank SubEvent Flex ==
+Free cards on RoB ! Use fcy94749 Jan 16 01:29 : 29 PM #rageofbahamut
+
+== PageRank SubEvent Fixed ==
+Free cards on RoB ! Use fcy94749 Jan 16 01:29 : 29 PM #rageofbahamut
+
+== SumBasic ==
+Free cards on RoB! Use fcy94749 Jan 16 01:29:29 PM #rageofbahamut
+Free cards on RoB! Use gdl15740 Jan 16 11:13:52 AM #rageofbahamut @rageofbahamut
+New Fan Pictures of Rob in Australia from January 16th  http://t.co/8OsznrgC
+
+== PageRank IE ==
+Free cards on RoB! Use fcy94749 Jan 16 01:29:29 PM #rageofbahamut
+Wayback Wednesday tonight featuring @everquestii. Join Rob @Grakulen as he talks to producer Holly Longdale. 9:30pm EST http://t.co/JV2CPbm7
+Tomorrow will be a WorldStar fight Me vs Rob&amp; Mike .. Boy shots been fired
+
+== SumBasic Reference of 20 ==
+Free cards on RoB! Use fcy94749 Jan 16 01:29:29 PM #rageofbahamut
+Free cards on RoB! Use gdl15740 Jan 16 11:13:52 AM #rageofbahamut @rageofbahamut
+New Fan Pictures of Rob in Australia from January 16th  http://t.co/8OsznrgC
+Tomorrow will be a WorldStar fight Me vs Rob&amp; Mike .. Boy shots been fired
+GAH!! ROB SAID HE'LL COME TO WEDNESDAY 13!!!!!!! :D &lt;3
+Rob has so much on his plate today with the snow, rain, and timing of the weather! I may be in awe!!!!
+Free cards on RoB! Use zav27305 Jan 16 05:19:03 PM #rageofbahamut @rageofbahamut
+BbbFree cards on RoB! Use hbk55926 Jan 16 11:06:31 AM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use mds14883 Jan 16 12:01:33 PM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use mib30874 Jan 16 10:38:37 AM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use fmt37979 Jan 16 12:10:25 PM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use dqi46849 Jan 16 04:22:14 AM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use rvo42262 Jan 16 08:45:58 AM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use hzg30853 Jan 16 05:25:22 AM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use xto13403 Jan 16 09:32:46 PM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use laq00409 Jan 16 11:32:32 AM #rageofbahamut @rageofbahamut
+Free cards on RoB! Use zbr14229 Jan 16 01:05:45 AM #rageofbahamut @rageofbahamut
+RT @MikeyTWT: Tomorrow my band Time Will Tell is gonna start recording our 12 song full length cd with Rob from Hidden In Plain View #stoked
+Free cards on RoB! Use avc93055 Jan 16 04:44:02 PM #rageofbahamut @rageofbahamut Butt sex
+Free cards on RoB! Use pit60447 Jan 16 01:04:54 PM #rageofbahamut @rageofbahamut
+
+
+#tweets in the cluster:  546
+
+== PageRank SubEvent ==
+Event #1 - Proportion:1.0 Predicates:card,free
+0.210674109909 Free cards on RoB ! Use fcy94749 Jan 16 01:29 : 29 PM #rageofbahamut
+
+== SumBasic ==
+Word #1 - 16 0.096058170685
+Free cards on RoB! Use fcy94749 Jan 16 01:29:29 PM #rageofbahamut
+Word #2 - am 0.043245311902
+Free cards on RoB! Use gdl15740 Jan 16 11:13:52 AM #rageofbahamut @rageofbahamut
+Word #3 - in 0.00459242250287
+New Fan Pictures of Rob in Australia from January 16th  http://t.co/8OsznrgC
+
+== PageRank IE ==
+IE #1 - card 4.74955613229
+Free cards on RoB! Use fcy94749 Jan 16 01:29:29 PM #rageofbahamut
+IE #2 - talk 0.477773545522
+Wayback Wednesday tonight featuring @everquestii. Join Rob @Grakulen as he talks to producer Holly Longdale. 9:30pm EST http://t.co/JV2CPbm7
+IE #3 - fight 0.370435628381
+Tomorrow will be a WorldStar fight Me vs Rob&amp; Mike .. Boy shots been fired
+
+== SumBasic Reference of 20 ==
+Word #1 - 16 0.096058170685
+Free cards on RoB! Use fcy94749 Jan 16 01:29:29 PM #rageofbahamut
+Word #2 - am 0.043245311902
+Free cards on RoB! Use gdl15740 Jan 16 11:13:52 AM #rageofbahamut @rageofbahamut
+Word #3 - in 0.00459242250287
+New Fan Pictures of Rob in Australia from January 16th  http://t.co/8OsznrgC
+Word #4 - a 0.00401836969001
+Tomorrow will be a WorldStar fight Me vs Rob&amp; Mike .. Boy shots been fired
+Word #5 - to 0.00363566781477
+GAH!! ROB SAID HE'LL COME TO WEDNESDAY 13!!!!!!! :D &lt;3
+Word #6 - the 0.00363566781477
+Rob has so much on his plate today with the snow, rain, and timing of the weather! I may be in awe!!!!
+Word #7 - pm 0.00262984878369
+Free cards on RoB! Use zav27305 Jan 16 05:19:03 PM #rageofbahamut @rageofbahamut
+Word #8 - 31 0.00229621125144
+BbbFree cards on RoB! Use hbk55926 Jan 16 11:06:31 AM #rageofbahamut @rageofbahamut
+Word #9 - 33 0.00210486031382
+Free cards on RoB! Use mds14883 Jan 16 12:01:33 PM #rageofbahamut @rageofbahamut
+Word #10 - 37 0.00210486031382
+Free cards on RoB! Use mib30874 Jan 16 10:38:37 AM #rageofbahamut @rageofbahamut
+Word #11 - 25 0.00210486031382
+Free cards on RoB! Use fmt37979 Jan 16 12:10:25 PM #rageofbahamut @rageofbahamut
+Word #12 - 14 0.00210486031382
+Free cards on RoB! Use dqi46849 Jan 16 04:22:14 AM #rageofbahamut @rageofbahamut
+Word #13 - 58 0.00210486031382
+Free cards on RoB! Use rvo42262 Jan 16 08:45:58 AM #rageofbahamut @rageofbahamut
+Word #14 - 22 0.00210486031382
+Free cards on RoB! Use hzg30853 Jan 16 05:25:22 AM #rageofbahamut @rageofbahamut
+Word #15 - 46 0.00210486031382
+Free cards on RoB! Use xto13403 Jan 16 09:32:46 PM #rageofbahamut @rageofbahamut
+Word #16 - 32 0.0019135093762
+Free cards on RoB! Use laq00409 Jan 16 11:32:32 AM #rageofbahamut @rageofbahamut
+Word #17 - 45 0.0019135093762
+Free cards on RoB! Use zbr14229 Jan 16 01:05:45 AM #rageofbahamut @rageofbahamut
+Word #18 - 12 0.0019135093762
+RT @MikeyTWT: Tomorrow my band Time Will Tell is gonna start recording our 12 song full length cd with Rob from Hidden In Plain View #stoked
+Word #19 - 02 0.0019135093762
+Free cards on RoB! Use avc93055 Jan 16 04:44:02 PM #rageofbahamut @rageofbahamut Butt sex
+Word #20 - 54 0.0019135093762
+Free cards on RoB! Use pit60447 Jan 16 01:04:54 PM #rageofbahamut @rageofbahamut
+
+

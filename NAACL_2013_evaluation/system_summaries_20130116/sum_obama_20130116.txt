@@ -1,0 +1,127 @@
+#tweets in the cluster:  873
+
+== PageRank SubEvent Flex ==
+" Obama administration invites lawmakers to White House tomorrow at 11:45 for announcement on gun violence " -Matthew Keys
+Obama 's Gun Control Campaign Doomed to Fail : President Barack Obama on Wednesday revealed his national gun contr ... http://t.co/27opBk8v
+
+== PageRank SubEvent Fixed ==
+" Obama administration invites lawmakers to White House tomorrow at 11:45 for announcement on gun violence " -Matthew Keys
+Obama 's Gun Control Campaign Doomed to Fail : President Barack Obama on Wednesday revealed his national gun contr ... http://t.co/27opBk8v
+#HumanShields @MBGlenn Hey , tomorrow while Obama is surrounded by children remember that this is a classic tactic
+
+== SumBasic ==
+Obama is making his gun control speech tomorrow.
+I wonder of Obama is going to be using real children tomorrow.
+Obama will reveal the administration's new proposals for gun restrictions on wednesday
+
+== PageRank IE ==
+Pres. Obama tomorrow will be unveiling his proposals to fight gun violence.
+@tomass324 @chadbar5 Obama is making his big announcement about gun control tomorrow.
+Obama will announce gun control measures tomorrow
+
+== SumBasic Reference of 20 ==
+Obama is making his gun control speech tomorrow.
+I wonder of Obama is going to be using real children tomorrow.
+Obama will reveal the administration's new proposals for gun restrictions on wednesday
+Obama is giving a speech tomorrow, surrounded by kids...
+If Obama uses children as props at his conference tomorrow we're in trouble.
+What did I learn today?  Obama is Hitler, he took all your guns today, and the 2nd Amendment is gone.  #InRWNJWorld
+@BentonWest Obama is making 19 executive orders tomorrow about this. I bet some of it will have to do with eliminating some types of guns
+Obama's gun plan: President Barack Obama on Wednesday proposed a package of measures intended to reduce gun violence in the wake of t...
+Obama has NO SHAME.He's going to ''USE'' Children to push GUN BAN LAW Tomorrow.Hey U KIDS out their that HUNT you are WRONG b/c U SHOOT GUNS
+When Obama announces a full ban on assault rifles tomorrow by Executive Order do we also become a Monarchy as well? #TCOT #TGDN #PJNET
+Obama will be cutting our constitutional rights from us tomorrow announcing new gun control laws with families behind him.. #notgood
+Tomorrow, Wednesday now D Day for Obama's offensive for more gun control.  White House event will unveil administration's plans.
+Why do I feel like the people who own gun/ammo companies did a big lol today after Obama's announcement and then went and bought a 2nd home.
+RT @Mamadoxie: Good one. RT @MBGlenn Hey, tomorrow while Obama is surrounded by children remember that this is a classic tactic.#tcot  h ...
+The only reason Obama will have kids on stage tomorrow is so Biden doesn't feel all alone up there.
+January 16, 2013  Obama's Executive Disarmament Confirms that the Tea Party Can Not Go Away   Read more:... http://t.co/4bYrF6O1
+I really hope those kids at Obama's Press Event tomorrow sing and dance to the Barack Hussein Obama mm mm mmm song.
+Rush just also used the term \"human shields\" to describe the Obama event tomorrow, surrounding himself with children.
+Jay Carney cautions against making assumptions about what Obama might announce tomorrow re: exec orders on guns.
+Can't wait to see how butthurt everyone gets over Obama's gun proposals tomorrow
+
+
+#tweets in the cluster:  873
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.357229641825 Arguments:white house Predicates:gun violence,announcement,control plan,unveil
+0.405520516959 " Obama administration invites lawmakers to White House tomorrow at 11:45 for announcement on gun violence " -Matthew Keys
+Event #2 - Proportion:0.166440204925 Arguments:president barack obama Predicates:gun control,reveal,doom,fail
+0.500206149784 Obama 's Gun Control Campaign Doomed to Fail : President Barack Obama on Wednesday revealed his national gun contr ... http://t.co/27opBk8v
+(Additional) Event #3 - Proportion:0.0905421822091 Predicates:surround,classic tactic,remember
+0.194249627123 #HumanShields @MBGlenn Hey , tomorrow while Obama is surrounded by children remember that this is a classic tactic
+(Additional) Event #4 - Proportion:0.0496981021309 Predicates:be go,call
+0.0340598319333 ABOUT time !! RT @piersmorgan : Looks like Obama is going for it re guns tomorrow - will call for ( cont ) http://t.co/ErCdbbaS
+(Additional) Event #5 - Proportion:0.0426992962102 Arguments:biden Predicates:confirm
+0.087254501387 God help us RT @BrianHughesDC : White House 's Carney confirms that Obama and Biden will announce gun plan Wednesday at 11:45 a . m .
+(Additional) Event #6 - Proportion:0.0410120095932 Predicates:propose,intend
+0.0798574557866 Obama is gunna propose a gun law tomorrow ... Good thing I already have mine .
+(Additional) Event #7 - Proportion:0.0405558497126 Predicates:pass,saw,ban
+0.101960103864 I'm 90% sure that tomorrow Obama 's gonna pass an executive order to ban assault weapons . I pray to god that I'm wrong .
+(Additional) Event #8 - Proportion:0.0290663585878 Arguments:president obama Predicates:start
+0.0843635816022 Obama starts Hill gun control push : President Obama began a concerted effort Wednesday to pass gun control legis ... http://t.co/ghpK7ZFE
+(Additional) Event #9 - Proportion:0.0231799837693 Predicates:show,join
+0.0887633669371 News : Pres . Obama announces new gun policy tomorrow . Listen live &amp; join our NRA &amp; Politics show . All starts at 10:30 .
+(Additional) Event #10 - Proportion:0.0216481158216 Predicates:conference,press
+0.152374156106 So now Obama is going to exploit children at his press conference tomorrow ?
+
+== SumBasic ==
+Word #1 - tomorrow 0.0445846175901
+Obama is making his gun control speech tomorrow.
+Word #2 - to 0.0282417031037
+I wonder of Obama is going to be using real children tomorrow.
+Word #3 - the 0.0272381908107
+Obama will reveal the administration's new proposals for gun restrictions on wednesday
+
+== PageRank IE ==
+IE #1 - gun violence 12.6003102324
+Pres. Obama tomorrow will be unveiling his proposals to fight gun violence.
+IE #2 - announcement 10.3360052467
+@tomass324 @chadbar5 Obama is making his big announcement about gun control tomorrow.
+IE #3 - gun control 8.47785462632
+Obama will announce gun control measures tomorrow
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0445846175901
+Obama is making his gun control speech tomorrow.
+Word #2 - to 0.0282417031037
+I wonder of Obama is going to be using real children tomorrow.
+Word #3 - the 0.0272381908107
+Obama will reveal the administration's new proposals for gun restrictions on wednesday
+Word #4 - a 0.0152677227439
+Obama is giving a speech tomorrow, surrounded by kids...
+Word #5 - as 0.00946168733424
+If Obama uses children as props at his conference tomorrow we're in trouble.
+Word #6 - and 0.00867321338972
+What did I learn today?  Obama is Hitler, he took all your guns today, and the 2nd Amendment is gone.  #InRWNJWorld
+Word #7 - with 0.00845817504122
+@BentonWest Obama is making 19 executive orders tomorrow about this. I bet some of it will have to do with eliminating some types of guns
+Word #8 - president 0.00752634219769
+Obama's gun plan: President Barack Obama on Wednesday proposed a package of measures intended to reduce gun violence in the wake of t...
+Word #9 - that 0.00637947100566
+Obama has NO SHAME.He's going to ''USE'' Children to push GUN BAN LAW Tomorrow.Hey U KIDS out their that HUNT you are WRONG b/c U SHOOT GUNS
+Word #10 - when 0.0040857286216
+When Obama announces a full ban on assault rifles tomorrow by Executive Order do we also become a Monarchy as well? #TCOT #TGDN #PJNET
+Word #11 - him 0.00351229302559
+Obama will be cutting our constitutional rights from us tomorrow announcing new gun control laws with families behind him.. #notgood
+Word #12 - unveil 0.00336893412659
+Tomorrow, Wednesday now D Day for Obama's offensive for more gun control.  White House event will unveil administration's plans.
+Word #13 - announcement 0.00308221632858
+Why do I feel like the people who own gun/ammo companies did a big lol today after Obama's announcement and then went and bought a 2nd home.
+Word #14 - remember 0.00286717798007
+RT @Mamadoxie: Good one. RT @MBGlenn Hey, tomorrow while Obama is surrounded by children remember that this is a classic tactic.#tcot  h ...
+Word #15 - so 0.00250878073256
+The only reason Obama will have kids on stage tomorrow is so Biden doesn't feel all alone up there.
+Word #16 - 16 0.00250878073256
+January 16, 2013  Obama's Executive Disarmament Confirms that the Tea Party Can Not Go Away   Read more:... http://t.co/4bYrF6O1
+Word #17 - press 0.00229374238406
+I really hope those kids at Obama's Press Event tomorrow sing and dance to the Barack Hussein Obama mm mm mmm song.
+Word #18 - himself 0.00222206293456
+Rush just also used the term \"human shields\" to describe the Obama event tomorrow, surrounding himself with children.
+Word #19 - announce 0.00207870403555
+Jay Carney cautions against making assumptions about what Obama might announce tomorrow re: exec orders on guns.
+Word #20 - how 0.00193534513655
+Can't wait to see how butthurt everyone gets over Obama's gun proposals tomorrow
+
+

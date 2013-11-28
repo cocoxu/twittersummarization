@@ -1,0 +1,123 @@
+#tweets in the cluster:  978
+
+== PageRank SubEvent Flex ==
+New season of Workaholics starts January 16 !
+January 16th season 4 of Workaholics !
+
+== PageRank SubEvent Fixed ==
+New season of Workaholics starts January 16 !
+January 16th season 4 of Workaholics !
+Who wants to watch Workaholics with me January 16th ?
+
+== SumBasic ==
+WORKAHOLICS IS BACK ON JANUARY 16TH
+New season of Workaholics starts January 16!
+WORKAHOLICS COMES BACK JAN 16th
+
+== PageRank IE ==
+New season of Workaholics starts January 16!
+Workaholics comes back jan 16!
+Excited to watch workaholics on January 16th! #GetWeird #favshow #loveit
+
+== SumBasic Reference of 20 ==
+WORKAHOLICS IS BACK ON JANUARY 16TH
+New season of Workaholics starts January 16!
+WORKAHOLICS COMES BACK JAN 16th
+Workaholics tomorrow. I am hype
+Workaholics has to be the best show ever. Cant wait until January 16th!
+I'm so excited for new Workaholics on January 16th.
+New episodes of Workaholics start on Jan 16th. Yes.
+RUMORS THAT WORKAHOLICS STARTS BACK UP JANUARY 16TH MY LIFE IS COMPLETE AGAIN
+January 16 is a very important day. If you watch Workaholics, you know why.
+At this time on wednesday evening WORKAHOLICS will be on and that makes me excited as heck!!
+Workaholics returns January 16th! Lets get weird.
+Workaholics comes back January 16 who's coming to watch it with me #sohappy
+New episode of Workaholics tomorrow, just btw for you fuck niggas
+In case all of you were not informed, new season of workaholics is january 16. #urwelcome
+Aw hell yeah. Workaholics starts January 16&lt;3&lt;3
+But season 4 of Workaholics starts next Wednesday ;)
+Holy shit the new episodes of Workaholics start tomorrow night!
+Just gimme some Workaholics on January 16. Who needs friends when you have @UncleBalzer right?
+January 16, new season of Workaholics... I really hope the world doesn't end
+WORKAHOLICS IS ON JANUARY 16th!! Finally. I have been waiting WAY to long
+
+
+#tweets in the cluster:  978
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.580922154877 Predicates:new season,start
+0.469151321541 New season of Workaholics starts January 16 !
+Event #2 - Proportion:0.201375632995 Predicates:come back
+0.0295251339103 January 16th season 4 of Workaholics !
+(Additional) Event #3 - Proportion:0.051619099642 Predicates:watch
+0.0753414267382 Who wants to watch Workaholics with me January 16th ?
+(Additional) Event #4 - Proportion:0.0387911645333 Predicates:come on
+0.0482625500879 Come onnnn January 16th , I need new episodes of Workaholics #getweird
+(Additional) Event #5 - Proportion:0.0324190867068 Predicates:back on
+0.0993441647598 JANUARY 16 , WORKAHOLICS COMES BACK ON .
+(Additional) Event #6 - Proportion:0.0323635011777 Predicates:premiere
+0.0928354680012 Workaholics season premiere January 16 , yesss !
+(Additional) Event #7 - Proportion:0.0323497651244 Predicates:return
+0.0966437315792 Workaholics return January 16th .
+(Additional) Event #8 - Proportion:0.0301595949429 Predicates:excite
+0.0439366810441 Workaholics comes back January 16th and that makes me excited
+
+== SumBasic ==
+Word #1 - january 0.0919865319865
+WORKAHOLICS IS BACK ON JANUARY 16TH
+Word #2 - of 0.0397306397306
+New season of Workaholics starts January 16!
+Word #3 - comes 0.0300336700337
+WORKAHOLICS COMES BACK JAN 16th
+
+== PageRank IE ==
+IE #1 - new season 10.6806185424
+New season of Workaholics starts January 16!
+IE #2 - come back 6.80137543692
+Workaholics comes back jan 16!
+IE #3 - watch 1.74341290035
+Excited to watch workaholics on January 16th! #GetWeird #favshow #loveit
+
+== SumBasic Reference of 20 ==
+Word #1 - january 0.0919865319865
+WORKAHOLICS IS BACK ON JANUARY 16TH
+Word #2 - of 0.0397306397306
+New season of Workaholics starts January 16!
+Word #3 - comes 0.0300336700337
+WORKAHOLICS COMES BACK JAN 16th
+Word #4 - tomorrow 0.0254545454545
+Workaholics tomorrow. I am hype
+Word #5 - the 0.0234343434343
+Workaholics has to be the best show ever. Cant wait until January 16th!
+Word #6 - for 0.0106397306397
+I'm so excited for new Workaholics on January 16th.
+Word #7 - episodes 0.010101010101
+New episodes of Workaholics start on Jan 16th. Yes.
+Word #8 - that 0.00808080808081
+RUMORS THAT WORKAHOLICS STARTS BACK UP JANUARY 16TH MY LIFE IS COMPLETE AGAIN
+Word #9 - a 0.00673400673401
+January 16 is a very important day. If you watch Workaholics, you know why.
+Word #10 - and 0.00619528619529
+At this time on wednesday evening WORKAHOLICS will be on and that makes me excited as heck!!
+Word #11 - returns 0.00552188552189
+Workaholics returns January 16th! Lets get weird.
+Word #12 - coming 0.00457912457912
+Workaholics comes back January 16 who's coming to watch it with me #sohappy
+Word #13 - just 0.00457912457912
+New episode of Workaholics tomorrow, just btw for you fuck niggas
+Word #14 - all 0.003367003367
+In case all of you were not informed, new season of workaholics is january 16. #urwelcome
+Word #15 - hell 0.00323232323232
+Aw hell yeah. Workaholics starts January 16&lt;3&lt;3
+Word #16 - next 0.00282828282828
+But season 4 of Workaholics starts next Wednesday ;)
+Word #17 - night 0.0026936026936
+Holy shit the new episodes of Workaholics start tomorrow night!
+Word #18 - when 0.00255892255892
+Just gimme some Workaholics on January 16. Who needs friends when you have @UncleBalzer right?
+Word #19 - world 0.00255892255892
+January 16, new season of Workaholics... I really hope the world doesn't end
+Word #20 - finally 0.00242424242424
+WORKAHOLICS IS ON JANUARY 16th!! Finally. I have been waiting WAY to long
+
+

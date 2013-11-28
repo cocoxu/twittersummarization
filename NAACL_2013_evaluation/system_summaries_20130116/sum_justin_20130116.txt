@@ -1,0 +1,121 @@
+#tweets in the cluster:  710
+
+== PageRank SubEvent Flex ==
+Why is Justin going to delete his instagram on January 16th ?
+@KennyHamilton please help us meet Justin tomorrow
+
+== PageRank SubEvent Fixed ==
+Why is Justin going to delete his instagram on January 16th ?
+@KennyHamilton please help us meet Justin tomorrow
+Justin 's seeing Pac tomorrow . :)
+
+== SumBasic ==
+January 16th is the last day Justin will post on Instagram D:
+January 16 will be the end of me lol JK I still need to meet Justin
+Justin and PAC are reuniting tomorrow!
+
+== PageRank IE ==
+Justin's last day to Instagram will be on January 16th :'(
+Justin is leaving instagram on January 16 because its selling the pictures. DKAJAJJSSHSJS WHY
+Justin is deleting his instagram January 16th.. The day of the concert I'm going to!
+
+== SumBasic Reference of 20 ==
+January 16th is the last day Justin will post on Instagram D:
+January 16 will be the end of me lol JK I still need to meet Justin
+Justin and PAC are reuniting tomorrow!
+My day is ruined now.... Justin is deleting his Instagram jan 16th
+Justin said he's going to stop taking pics on instagram on Jan 16th.
+@victoriablair21 can you tell Justin that I love him so much please it would mean the world to me tomorrow is my birthday
+On a happier note, January 16th is when I get to see Justin in concert(:
+Justin is the only reason why i made an account for instagram. and he is leaving next Jan 16? no please.
+Justin saying that he's gonna leave Instagram after January 16th.... DO NOT MESS WITH OUR EMOTIONS LIKE THAT.
+@AlfredoFlores when Justin comes to Birmingham, Alabama wednesday, i dont have tickets, but im going to the arena and i want to meet u!! &lt;3
+Guys! I got a new header! It's me at Justin's concert on January 16! Man.. It was fun that night.wish I could rewind time and just go back.
+If Justin stops using Instagram on January 16th I will delete mine because WHAT IS THE POINT
+Justin is leaving Instagram on January 16 since they are gonna start selling pictures ugh. I expect nudes before he gets off Instagram.
+Bet I make higher on this quiz tomorrow than Justin!
+RT @WeHonourJustin: Justin is leaving instagram on January 16? Then what about all the perfect pics?? I'm gonna miss them :(
+RT @proudofbieberr: After January 16th we won't get any selfies of Justin, this is not ok.
+I THINK JUSTIN IS PRANKING US AND BELIEVE ACOUSTIC WILL PROBABLY COME OUT ON JANUARY 16TH
+Please tweet #BiebsMeetMeredith- EVERYONE HELP @BiebersGirl116 meet Justin tomorrow at her concert! She deserves it so much :)
+Justin is seeing PAC tomorrow for the first time since he gave him away.....THERE BETTER BE PHOTOS !
+I.AM.SEEING.JUSTIN.BIEBER.TOMORROW. HELLO SELF WAKE UP AND TASTE REALITY BC YOUR DREAMS ARE COMING TRUE TLMORROW SHSKAMABJAKABSLAMABSKSMSVAB
+
+
+#tweets in the cluster:  710
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.55431531758 Arguments:january 16th Predicates:instagram,leave,sell,delete,stop
+0.649656626479 Why is Justin going to delete his instagram on January 16th ?
+Event #2 - Proportion:0.117463708744 Predicates:meet,concert
+0.136072778344 @KennyHamilton please help us meet Justin tomorrow
+(Additional) Event #3 - Proportion:0.0943534726915 Arguments:pac Predicates:see,give
+0.341439462048 Justin 's seeing Pac tomorrow . :)
+(Additional) Event #4 - Proportion:0.0835994035086 Predicates:post,say
+0.0773007176197 justin says he wont post anymore picture starting January 16th . and then i remember he likes to do pranks .....
+(Additional) Event #5 - Proportion:0.0570038775533 Predicates:birmingham,saw
+0.0576226981185 Justin in the M &amp; G in Birmingham AL ( Jan 16 ) http://t.co/38qBxHBQ
+(Additional) Event #6 - Proportion:0.0449491374701 Predicates:said,release
+0.0492858301772 Plot twist : Justin is going to release Fall music video on January 16 .
+(Additional) Event #7 - Proportion:0.0315428691066 Predicates:birthday
+0.0529491730916 If justin followed me on January 16 it will be my Best birthday gift to me
+
+== SumBasic ==
+Word #1 - january 0.0357407407407
+January 16th is the last day Justin will post on Instagram D:
+Word #2 - i 0.0300925925926
+January 16 will be the end of me lol JK I still need to meet Justin
+Word #3 - tomorrow 0.0212037037037
+Justin and PAC are reuniting tomorrow!
+
+== PageRank IE ==
+IE #1 - instagram 9.89877200609
+Justin's last day to Instagram will be on January 16th :'(
+IE #2 - leave 5.71287066808
+Justin is leaving instagram on January 16 because its selling the pictures. DKAJAJJSSHSJS WHY
+IE #3 - delete 5.35750854931
+Justin is deleting his instagram January 16th.. The day of the concert I'm going to!
+
+== SumBasic Reference of 20 ==
+Word #1 - january 0.0357407407407
+January 16th is the last day Justin will post on Instagram D:
+Word #2 - i 0.0300925925926
+January 16 will be the end of me lol JK I still need to meet Justin
+Word #3 - tomorrow 0.0212037037037
+Justin and PAC are reuniting tomorrow!
+Word #4 - his 0.0130555555556
+My day is ruined now.... Justin is deleting his Instagram jan 16th
+Word #5 - he 0.0125925925926
+Justin said he's going to stop taking pics on instagram on Jan 16th.
+Word #6 - you 0.0102777777778
+@victoriablair21 can you tell Justin that I love him so much please it would mean the world to me tomorrow is my birthday
+Word #7 - a 0.0087037037037
+On a happier note, January 16th is when I get to see Justin in concert(:
+Word #8 - for 0.00666666666667
+Justin is the only reason why i made an account for instagram. and he is leaving next Jan 16? no please.
+Word #9 - with 0.00574074074074
+Justin saying that he's gonna leave Instagram after January 16th.... DO NOT MESS WITH OUR EMOTIONS LIKE THAT.
+Word #10 - want 0.00555555555556
+@AlfredoFlores when Justin comes to Birmingham, Alabama wednesday, i dont have tickets, but im going to the arena and i want to meet u!! &lt;3
+Word #11 - at 0.00537037037037
+Guys! I got a new header! It's me at Justin's concert on January 16! Man.. It was fun that night.wish I could rewind time and just go back.
+Word #12 - if 0.00490740740741
+If Justin stops using Instagram on January 16th I will delete mine because WHAT IS THE POINT
+Word #13 - selling 0.00435185185185
+Justin is leaving Instagram on January 16 since they are gonna start selling pictures ugh. I expect nudes before he gets off Instagram.
+Word #14 - this 0.00416666666667
+Bet I make higher on this quiz tomorrow than Justin!
+Word #15 - them 0.00333333333333
+RT @WeHonourJustin: Justin is leaving instagram on January 16? Then what about all the perfect pics?? I'm gonna miss them :(
+Word #16 - we 0.00314814814815
+RT @proudofbieberr: After January 16th we won't get any selfies of Justin, this is not ok.
+Word #17 - believe 0.00277777777778
+I THINK JUSTIN IS PRANKING US AND BELIEVE ACOUSTIC WILL PROBABLY COME OUT ON JANUARY 16TH
+Word #18 - help 0.00268518518519
+Please tweet #BiebsMeetMeredith- EVERYONE HELP @BiebersGirl116 meet Justin tomorrow at her concert! She deserves it so much :)
+Word #19 - photos 0.00268518518519
+Justin is seeing PAC tomorrow for the first time since he gave him away.....THERE BETTER BE PHOTOS !
+Word #20 - your 0.0025
+I.AM.SEEING.JUSTIN.BIEBER.TOMORROW. HELLO SELF WAKE UP AND TASTE REALITY BC YOUR DREAMS ARE COMING TRUE TLMORROW SHSKAMABJAKABSLAMABSKSMSVAB
+
+

@@ -1,0 +1,127 @@
+#tweets in the cluster:  353
+
+== PageRank SubEvent Flex ==
+US STOCKS SNAPSHOT-Wall Street dips at open , Boeing drags : NEW YORK , Jan 16 ( Reuters ) - U.S. stocks pulled back ... http://t.co/KueVLAuW
+A NYC School Bus Strike Will Strand 150,000 Kids Tomorrow : Drivers of New York 's yellow school buses planned to ... http://t.co/COlsrQkv
+
+== PageRank SubEvent Fixed ==
+US STOCKS SNAPSHOT-Wall Street dips at open , Boeing drags : NEW YORK , Jan 16 ( Reuters ) - U.S. stocks pulled back ... http://t.co/KueVLAuW
+A NYC School Bus Strike Will Strand 150,000 Kids Tomorrow : Drivers of New York 's yellow school buses planned to ... http://t.co/COlsrQkv
+Going to be in NYC tomorrow ? Join us for our our 2nd New York shindig : http://t.co/DPTq0hsb #DBW13 #launchkids ( more tickets released )
+
+== SumBasic ==
+New york January 16
+Going to New York , tomorrow at 5 in the am
+Will be in New York on January 16!!! Anyone knows where I can go and stay?;)
+
+== PageRank IE ==
+UPDATE 1-EIG ending challenge to sale of TCW to Carlyle: NEW YORK, Jan 16 (Reuters) - EIG Global Energy Partners... http://t.co/GTyDoyWj
+A possible school bus strike is now upon us...New York Life...looks like tomorrow it'll start.
+January 16th! NYC MY FIRST HEADLINING GIG IN NEW YORK @ MERCURY LOUNGE!
+
+== SumBasic Reference of 20 ==
+New york January 16
+Going to New York , tomorrow at 5 in the am
+Will be in New York on January 16!!! Anyone knows where I can go and stay?;)
+Dates for #publishing folks - BookMachine New York Jan 16th 2013
+@Douces18 I'll be in New York a week from Wednesday!
+Wall Street flat as Apple gains, Boeing weighs: NEW YORK (Reuters) - U.S. stocks were little changed on Wednesday as concerns about g...
+A NYC School Bus Strike Will Strand 150,000 Kids Tomorrow: Drivers of New York's yellow school buses planned to ... http://t.co/COlsrQkv
+New York is good, but Prov is better ! see you tomorrow !
+NYSE closes mixed with DJ down 0. 17pct and NASDAQ up 0. 22: (AGI) New York, Jan 16 - Wall Street closed on a mi... http://t.co/KIqH2DIt
+Tonight, Sutra Lounge! At 11:30p meet me on 16 1st St, 1st Avenue New York, NY 10009
+WTF my parents going to New York and shit tomorrow and I just found out
+Can it just be January 16th already, I'm so ready to go to New York.
+Schwab Q4 profit jumps 29 percent vs yr ago, but off from Q3 NEW YORK, Jan 16 (Reuters) - Charles Schwab Corp, the biggest online broker
+the only thing getting me through this week is the fact that I will be in New York by Wednesday night! #soclose
+S&amp;P 500 flat as growth concerns temper bank earnings: NEW YORK (Reuters) - The S&amp;P 500 was little changed on Wednesday as a bouncebac...
+New York made anything over a 7 magazine illegal. so my dad went &amp; shot our 10 magazine handguns today. (: hooray for the 2nd amendment.
+Last day in New York before we fly out to Miami tomorrow.
+RT @KiaraAlfonseca: gotta love the bipolar weather of New York. (( let's all join hands in prayer for no school tomorrow ))
+playing NYC on january 15 at pianos and january 16 at the LAB. sooooo excited; if you are in new york, come hang out!
+Tomorrow then one more day then new york #NoSchool. Then a four day weekend. #GunnaGetWeird
+
+
+#tweets in the cluster:  353
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.559570921678 Arguments:reuters,jan,u.s. Predicates:boeing,trade
+0.430295761687 US STOCKS SNAPSHOT-Wall Street dips at open , Boeing drags : NEW YORK , Jan 16 ( Reuters ) - U.S. stocks pulled back ... http://t.co/KueVLAuW
+Event #2 - Proportion:0.154487480469 Predicates:school,strike,plan
+0.165354300672 A NYC School Bus Strike Will Strand 150,000 Kids Tomorrow : Drivers of New York 's yellow school buses planned to ... http://t.co/COlsrQkv
+(Additional) Event #3 - Proportion:0.0938500228394 Arguments:nyc Predicates:join
+0.0951972547602 Going to be in NYC tomorrow ? Join us for our our 2nd New York shindig : http://t.co/DPTq0hsb #DBW13 #launchkids ( more tickets released )
+(Additional) Event #4 - Proportion:0.0292799274187 Predicates:end
+0.0253333081924 ADR Shares End Lower Amid Global Growth Concerns : International companies trading in New York closed lower Wednesday ... http://t.co/tyNixdhJ
+(Additional) Event #5 - Proportion:0.0284650726618 Arguments:agi
+0.0156607964233 #news WTI light crude gains 96 cents on drop in reserves : ( AGI ) - New York , Jan 16 - WTI li ... http://t.co/SOjYRWwo http://t.co/M3PscpqZ
+(Additional) Event #6 - Proportion:0.0284650716161 Arguments:nasdaq
+0.0233599667836 #nasdaq Dow , Nasdaq boosted by tech ; S &amp; P flat : NEW YORK ( Reuters ) - The Dow and Nasdaq edged higher on Wednesday ... http://t.co/OYdC0vge
+(Additional) Event #7 - Proportion:0.0273317462609 Predicates:mix
+0.01565452415 Check out Hughroy afternoon mix 3hrs Today Wednesday Jan 16th , on mix 102.5 FM 3pm to 6pm live in New York http://t.co/7LBayonM
+(Additional) Event #8 - Proportion:0.0273317456285 Arguments:dj
+0.0158937146706 Sutra is buzzing : http://t.co/l2YIxaTQ - RT @DJLaser Tonight , Sutra Lounge ! At 11:30 p meet me on 16 1st St , 1st Avenue New York , NY 10009
+(Additional) Event #9 - Proportion:0.0269104672748 Predicates:weigh
+0.0127809914808 Kim terrified of weight gain : New York , Jan 16 : Socialite Kim Kardashian , who is three months pregnant , is terri ... http://t.co/JDq605PF
+(Additional) Event #10 - Proportion:0.0243075441534 Predicates:show
+0.0527852662256 @KevinHart4real come perform at my show tomorrow in New York .
+
+== SumBasic ==
+Word #1 - new 0.0668614644208
+New york January 16
+Word #2 - in 0.0242351323479
+Going to New York , tomorrow at 5 in the am
+Word #3 - on 0.0192506015813
+Will be in New York on January 16!!! Anyone knows where I can go and stay?;)
+
+== PageRank IE ==
+IE #1 - reuters 11.405270409
+UPDATE 1-EIG ending challenge to sale of TCW to Carlyle: NEW YORK, Jan 16 (Reuters) - EIG Global Energy Partners... http://t.co/GTyDoyWj
+IE #2 - school 3.01715903943
+A possible school bus strike is now upon us...New York Life...looks like tomorrow it'll start.
+IE #3 - nyc 3.00669039823
+January 16th! NYC MY FIRST HEADLINING GIG IN NEW YORK @ MERCURY LOUNGE!
+
+== SumBasic Reference of 20 ==
+Word #1 - new 0.0668614644208
+New york January 16
+Word #2 - in 0.0242351323479
+Going to New York , tomorrow at 5 in the am
+Word #3 - on 0.0192506015813
+Will be in New York on January 16!!! Anyone knows where I can go and stay?;)
+Word #4 - jan 0.0165005156411
+Dates for #publishing folks - BookMachine New York Jan 16th 2013
+Word #5 - wednesday 0.0142660708147
+@Douces18 I'll be in New York a week from Wednesday!
+Word #6 - reuters 0.0108284633895
+Wall Street flat as Apple gains, Boeing weighs: NEW YORK (Reuters) - U.S. stocks were little changed on Wednesday as concerns about g...
+Word #7 - of 0.00928154004813
+A NYC School Bus Strike Will Strand 150,000 Kids Tomorrow: Drivers of New York's yellow school buses planned to ... http://t.co/COlsrQkv
+Word #8 - is 0.00515641113785
+New York is good, but Prov is better ! see you tomorrow !
+Word #9 - with 0.0044688896528
+NYSE closes mixed with DJ down 0. 17pct and NASDAQ up 0. 22: (AGI) New York, Jan 16 - Wall Street closed on a mi... http://t.co/KIqH2DIt
+Word #10 - ny 0.00412512891028
+Tonight, Sutra Lounge! At 11:30p meet me on 16 1st St, 1st Avenue New York, NY 10009
+Word #11 - my 0.00343760742523
+WTF my parents going to New York and shit tomorrow and I just found out
+Word #12 - it 0.00309384668271
+Can it just be January 16th already, I'm so ready to go to New York.
+Word #13 - off 0.00309384668271
+Schwab Q4 profit jumps 29 percent vs yr ago, but off from Q3 NEW YORK, Jan 16 (Reuters) - Charles Schwab Corp, the biggest online broker
+Word #14 - by 0.00292196631145
+the only thing getting me through this week is the fact that I will be in New York by Wednesday night! #soclose
+Word #15 - s 0.00257820556892
+S&amp;P 500 flat as growth concerns temper bank earnings: NEW YORK (Reuters) - The S&amp;P 500 was little changed on Wednesday as a bouncebac...
+Word #16 - our 0.0022344448264
+New York made anything over a 7 magazine illegal. so my dad went &amp; shot our 10 magazine handguns today. (: hooray for the 2nd amendment.
+Word #17 - we 0.00189068408388
+Last day in New York before we fly out to Miami tomorrow.
+Word #18 - love 0.00189068408388
+RT @KiaraAlfonseca: gotta love the bipolar weather of New York. (( let's all join hands in prayer for no school tomorrow ))
+Word #19 - if 0.00171880371262
+playing NYC on january 15 at pianos and january 16 at the LAB. sooooo excited; if you are in new york, come hang out!
+Word #20 - one 0.00171880371262
+Tomorrow then one more day then new york #NoSchool. Then a four day weekend. #GunnaGetWeird
+
+

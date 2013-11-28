@@ -1,0 +1,121 @@
+#tweets in the cluster:  248
+
+== PageRank SubEvent Flex ==
+@ashvaccarella I will ! I'm upset we can't wear yoga clothes though :( I was looking forward to a comfy wednesday night lol
+Guess ill start yoga tomorrow . #GetWeirdWilbur
+Yoga class starts tomorrow ! #soexcited
+The only reason im going to school tomorrow is cause i have yoga last set #naptime
+
+== PageRank SubEvent Fixed ==
+@ashvaccarella I will ! I'm upset we can't wear yoga clothes though :( I was looking forward to a comfy wednesday night lol
+Guess ill start yoga tomorrow . #GetWeirdWilbur
+Yoga class starts tomorrow ! #soexcited
+
+== SumBasic ==
+Hair up and yoga pants tomorrow.
+am I the only one who is going to be wearing yoga pants tomorrow?
+@speedrunner_ yoga next Monday or Wednesday? I'll be in your hood Wed night for run club at 6pm, could do a later class
+
+== PageRank IE ==
+gonna wear Yoga pants tomorrow...
+Yoga class starts tomorrow! #soexcited
+New classes this January at Breathe's free yoga classes!  Flow&amp;Hatha Yoga by Desmond Polii Wed 16 Jan 10:30am  http://t.co/d8F0cJ6b
+
+== SumBasic Reference of 20 ==
+Hair up and yoga pants tomorrow.
+am I the only one who is going to be wearing yoga pants tomorrow?
+@speedrunner_ yoga next Monday or Wednesday? I'll be in your hood Wed night for run club at 6pm, could do a later class
+Yep yoga pants will be on tomorrow.
+@kaela_konopa will you go to yoga with me tomorrow
+Think I'll do yoga tonight. My body will hate me tomorrow. So out of shape(for yoga) &amp; it's sad that I use to teach. Time to get back to it!
+Drew Machak! And Live Music Yoga tomorrow night at 6 pm!
+@XboxLiveRNagers so what you are saying is, only girls that have big butts can wear yoga pants tomorrow?
+~~Good Morning all! ~~ Looking forward to Yoga today ~~ then getting ready for my Reiki attunement day on Saturday later on ~~
+RT @m_HOLBROKK: I would just love to wear my yoga pants tomorrow, but since im a daughter of 2 teachers, they know the flippin dress cod ...
+First work out at #Anytime Fitness. Felt good but I am now exhausted! Should be a good sleep night. Yoga tomorrow I hope!
+New classes this January at Breathe's free yoga classes!  Flow&amp;Hatha Yoga by Desmond Polii Wed 16 Jan 10:30am  http://t.co/d8F0cJ6b
+Already seeing the typical \"If you're not wearing yoga pants tomorrow I hate you\" tweets.
+dang it I wish tomorrow was thursday! so I can go to yoga again lol
+I'm going to see so many fat asses in yoga pants tomorrow for PJ day at school.
+@Mattyboyy85 @juniperjenni That why we thought! Can't bare to throw them in the bin! Yoga tomorrow! x
+@_maingirlmegs skip your last final tomorrow and come to yoga! #fuckschool
+Role of the Yoga Teacher: Panel Discussion Jan 16th http://t.co/TDITvXLG
+Yoga pants will be worn tomorrow there is no doubt about that
+Yoga pants, or leggings tomorrow? Hmmm
+
+
+#tweets in the cluster:  248
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.365011745465 Predicates:wear
+0.0489389343678 @ashvaccarella I will ! I'm upset we can't wear yoga clothes though :( I was looking forward to a comfy wednesday night lol
+Event #2 - Proportion:0.157575880893 Predicates:start
+0.0834611288527 Guess ill start yoga tomorrow . #GetWeirdWilbur
+Event #3 - Proportion:0.140549140881 Predicates:class
+0.0570316074814 Yoga class starts tomorrow ! #soexcited
+Event #4 - Proportion:0.126499062442 Predicates:school
+0.0423961709135 The only reason im going to school tomorrow is cause i have yoga last set #naptime
+Event #5 - Proportion:0.106397697246 Predicates:pant
+0.0306671626392 Hair up and yoga pants tomorrow .
+Event #6 - Proportion:0.103966473073 Predicates:yoga pant
+0.0659474079507 Hair up and yoga pants tomorrow .
+
+== SumBasic ==
+Word #1 - tomorrow 0.0656910569106
+Hair up and yoga pants tomorrow.
+Word #2 - to 0.0364227642276
+am I the only one who is going to be wearing yoga pants tomorrow?
+Word #3 - a 0.0162601626016
+@speedrunner_ yoga next Monday or Wednesday? I'll be in your hood Wed night for run club at 6pm, could do a later class
+
+== PageRank IE ==
+IE #1 - wear 3.87307748341
+gonna wear Yoga pants tomorrow...
+IE #2 - start 1.67201084293
+Yoga class starts tomorrow! #soexcited
+IE #3 - class 1.49134300368
+New classes this January at Breathe's free yoga classes!  Flow&amp;Hatha Yoga by Desmond Polii Wed 16 Jan 10:30am  http://t.co/d8F0cJ6b
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0656910569106
+Hair up and yoga pants tomorrow.
+Word #2 - to 0.0364227642276
+am I the only one who is going to be wearing yoga pants tomorrow?
+Word #3 - a 0.0162601626016
+@speedrunner_ yoga next Monday or Wednesday? I'll be in your hood Wed night for run club at 6pm, could do a later class
+Word #4 - on 0.0110569105691
+Yep yoga pants will be on tomorrow.
+Word #5 - with 0.0110569105691
+@kaela_konopa will you go to yoga with me tomorrow
+Word #6 - of 0.010406504065
+Think I'll do yoga tonight. My body will hate me tomorrow. So out of shape(for yoga) &amp; it's sad that I use to teach. Time to get back to it!
+Word #7 - pm 0.00975609756098
+Drew Machak! And Live Music Yoga tomorrow night at 6 pm!
+Word #8 - wear 0.00747967479675
+@XboxLiveRNagers so what you are saying is, only girls that have big butts can wear yoga pants tomorrow?
+Word #9 - day 0.00617886178862
+~~Good Morning all! ~~ Looking forward to Yoga today ~~ then getting ready for my Reiki attunement day on Saturday later on ~~
+Word #10 - just 0.00455284552846
+RT @m_HOLBROKK: I would just love to wear my yoga pants tomorrow, but since im a daughter of 2 teachers, they know the flippin dress cod ...
+Word #11 - good 0.00357723577236
+First work out at #Anytime Fitness. Felt good but I am now exhausted! Should be a good sleep night. Yoga tomorrow I hope!
+Word #12 - classes 0.00357723577236
+New classes this January at Breathe's free yoga classes!  Flow&amp;Hatha Yoga by Desmond Polii Wed 16 Jan 10:30am  http://t.co/d8F0cJ6b
+Word #13 - if 0.00357723577236
+Already seeing the typical \"If you're not wearing yoga pants tomorrow I hate you\" tweets.
+Word #14 - was 0.00357723577236
+dang it I wish tomorrow was thursday! so I can go to yoga again lol
+Word #15 - school 0.00325203252033
+I'm going to see so many fat asses in yoga pants tomorrow for PJ day at school.
+Word #16 - we 0.00325203252033
+@Mattyboyy85 @juniperjenni That why we thought! Can't bare to throw them in the bin! Yoga tomorrow! x
+Word #17 - come 0.00325203252033
+@_maingirlmegs skip your last final tomorrow and come to yoga! #fuckschool
+Word #18 - 16th 0.00292682926829
+Role of the Yoga Teacher: Panel Discussion Jan 16th http://t.co/TDITvXLG
+Word #19 - there 0.00292682926829
+Yoga pants will be worn tomorrow there is no doubt about that
+Word #20 - leggings 0.00260162601626
+Yoga pants, or leggings tomorrow? Hmmm
+
+

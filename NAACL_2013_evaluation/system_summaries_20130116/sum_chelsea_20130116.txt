@@ -1,0 +1,139 @@
+#tweets in the cluster:  450
+
+== PageRank SubEvent Flex ==
+Chelsea will get the opportunity to close on the Premier League 's top two when they host Southampton on Wednesday .
+@RanyDanial chelsea plays wednesday you should watch that :)
+
+== PageRank SubEvent Fixed ==
+Chelsea will get the opportunity to close on the Premier League 's top two when they host Southampton on Wednesday .
+@RanyDanial chelsea plays wednesday you should watch that :)
+@itsonlytom can't do Wednesday just remembered I'm going to the Chelsea saints match hahha ill let you know when I'm free x
+
+== SumBasic ==
+Is the Chelsea game on tv tomorrow night?
+Think we really have to go for it on Wednesday. Though with Chelsea on Sun I suspect we will rotate a few.
+Chelsea and Southampton will have a DGW in GW22 (Jan 16th) if they avoid a draw in their scheduled FA cup match.
+
+== PageRank IE ==
+Chelsea's postponed game against Southampton will be played on the 16th of January.
+If Chelsea win on Wednesday they will go 4 points clear of Spurs and 10 points clear of Arsenal
+Chelsea's postponed Barclays Premier League match with Southampton has been provisionally rearranged for January 16.
+
+== SumBasic Reference of 20 ==
+Is the Chelsea game on tv tomorrow night?
+Think we really have to go for it on Wednesday. Though with Chelsea on Sun I suspect we will rotate a few.
+Chelsea and Southampton will have a DGW in GW22 (Jan 16th) if they avoid a draw in their scheduled FA cup match.
+The Chelsea vs Southampton PL game that was postponed while Chelsea were at the Club World Cup will now be played on January 16. #CFC
+Anyone got or know of a spare pair of tickets for Swansea v Chelsea on wednesday night?
+@dirkdr59 are you going to come back for Chelsea vs Saints on Wednesday too?
+C'mon Chelsea. Really like the line up tonight
+@Michuoviedo Any chance you can not score against my beloved Arsenal tomorrow? Save it for Chelsea! Thanks mate.
+Chelsea is playing tomorrow! But it's a Bday so i can't watch it live on my phone:(
+How can Adkins get sacked if he just lead Southampton to consecutive promotions and came from 2 goals down away to Chelsea on Wednesday?
+Chelsea will get the opportunity to close on the Premier League's top two when they host Southampton on Wednesday.
+Stamford Bridge for the 3rd time tonight...come on chelsea let me see a win...even a goal thats not disallowed
+@NgaatendweJC I know man, after seeing how Chelsea did today I can't wait til Sunday, it's gonna be interesting
+maybe i should hav watched the Chelsea youth team instead last night , dey made an even better comeback 2 down at 1st win game in ET
+It pisses me off when Chelsea asks me what we did in class when shes not there Like I don't wanna text all that out you'll find out tomorrow
+If Chelsea beat Charlton in the #FAYC next Wednesday, they have a 5th Round tie at home to Oxford or Barnsley or Stevenage.
+@davidluiz_4  good luck tomorrow, I'll be there as always. Come on chelsea
+Got free ticket to watch chelsea play tomorrow but I have to work. FUMING
+By Wednesday night we could have cut the gap between us and Chelsea from 8 points to 2. More than enough incentive to win. #Arsenal
+Lets hope this guy signs before tomorrow night.....getting battered at Chelsea isn't going to help him sign...#saintsfc
+
+
+#tweets in the cluster:  450
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.381365125798 Arguments:southampton,premier league Predicates:game,rearrange,close,host southampton
+0.415286791828 Chelsea will get the opportunity to close on the Premier League 's top two when they host Southampton on Wednesday .
+Event #2 - Proportion:0.115791865305 Arguments:arsenal Predicates:play,watch
+0.172710708 @RanyDanial chelsea plays wednesday you should watch that :)
+(Additional) Event #3 - Proportion:0.0606266362953 Arguments:saints Predicates:free,match
+0.179455025039 @itsonlytom can't do Wednesday just remembered I'm going to the Chelsea saints match hahha ill let you know when I'm free x
+(Additional) Event #4 - Proportion:0.0563204331537 Arguments:nigel adkins Predicates:sack
+0.0703396723001 Nigel Adkins sacked !?!?! Despite back 2 back promotions for Southampton , and a decent result vs . Chelsea on wednesday . Ridiculous .
+(Additional) Event #5 - Proportion:0.0526479113376 Predicates:win
+0.0938940963582 If Chelsea don't win tonight I think I may have to go crazy
+(Additional) Event #6 - Proportion:0.0416120708641 Arguments:fa youth cup Predicates:look forward
+0.0449624221626 Good luck to the #cafc youth team today in the Fa Youth Cup 4th Round vs Chelsea
+(Additional) Event #7 - Proportion:0.0285778624513 Arguments:jan
+0.0353466205286 [ MooraMoora ] Reminder : From Yarra Junction ( Chelsea 5 seats ) @ Wed 16 Jan 2013 09:30 - 10:00 ( MM car pool )
+(Additional) Event #8 - Proportion:0.0259328382686 Predicates:score
+0.0420622004237 I'm gonna get the shit ripped out of me in ICT tomorrow cuz of the Stoke v Chelsea score :/
+(Additional) Event #9 - Proportion:0.0254459896106 Arguments:swansea
+0.0426534058103 Anyone got or know of a spare pair of tickets for Swansea v Chelsea on wednesday night ?
+(Additional) Event #10 - Proportion:0.0247886770734 Predicates:start
+0.0615365754218 @GNev2 Chelsea tomorrow .. Who would you start , Ba or Torres ?
+(Additional) Event #11 - Proportion:0.0237765442507 Predicates:saw
+0.0269034387003 @JeremyClarkson I Saw you at Chelsea Wednesday was going to ask for a picture but you were talking about guns , so I thought sod that haha
+(Additional) Event #12 - Proportion:0.0220949575046 Predicates:charlton
+0.0310036626977 If Chelsea beat Charlton in the #FAYC next Wednesday , they have a 5th Round tie at home to Oxford or Barnsley or Stevenage .
+(Additional) Event #13 - Proportion:0.0219370106209 Predicates:trip
+0.0341341239763 Looking forward to a little trip to Chelsea tomorrow !!! So who has the flares ?!? #numpties ha #AwayDays
+(Additional) Event #14 - Proportion:0.0210422008307 Arguments:reuters
+0.0106368945117 Football - Soccer-Malaga take Chelsea 's teenage midfielder Lucas on loan : MADRID , Jan 16 ( Reuters ) - Malaga have ... http://t.co/opndRnS7
+(Additional) Event #15 - Proportion:0.0203428468974 Predicates:draw
+0.0257412660497 @tomguernier Yeah boi . Made it ! ha . Chelsea on Monday too ! After their draw this morning will be even more fiery #UpTheGunners
+(Additional) Event #16 - Proportion:0.0202622492176 Arguments:madrid
+0.0454367640051 Actually can't wait for Madrid and Valencia , I hope Chelsea loses tomorrow
+
+== SumBasic ==
+Word #1 - the 0.0324185980378
+Is the Chelsea game on tv tomorrow night?
+Word #2 - to 0.0314232902033
+Think we really have to go for it on Wednesday. Though with Chelsea on Sun I suspect we will rotate a few.
+Word #3 - in 0.0139343096829
+Chelsea and Southampton will have a DGW in GW22 (Jan 16th) if they avoid a draw in their scheduled FA cup match.
+
+== PageRank IE ==
+IE #1 - southampton 7.99914530604
+Chelsea's postponed game against Southampton will be played on the 16th of January.
+IE #2 - win 3.21795607739
+If Chelsea win on Wednesday they will go 4 points clear of Spurs and 10 points clear of Arsenal
+IE #3 - premier league 2.94752205397
+Chelsea's postponed Barclays Premier League match with Southampton has been provisionally rearranged for January 16.
+
+== SumBasic Reference of 20 ==
+Word #1 - the 0.0324185980378
+Is the Chelsea game on tv tomorrow night?
+Word #2 - to 0.0314232902033
+Think we really have to go for it on Wednesday. Though with Chelsea on Sun I suspect we will rotate a few.
+Word #3 - in 0.0139343096829
+Chelsea and Southampton will have a DGW in GW22 (Jan 16th) if they avoid a draw in their scheduled FA cup match.
+Word #4 - at 0.0123702545144
+The Chelsea vs Southampton PL game that was postponed while Chelsea were at the Club World Cup will now be played on January 16. #CFC
+Word #5 - of 0.00810464950946
+Anyone got or know of a spare pair of tickets for Swansea v Chelsea on wednesday night?
+Word #6 - you 0.00696715484146
+@dirkdr59 are you going to come back for Chelsea vs Saints on Wednesday too?
+Word #7 - tonight 0.00696715484146
+C'mon Chelsea. Really like the line up tonight
+Word #8 - against 0.00597184700697
+@Michuoviedo Any chance you can not score against my beloved Arsenal tomorrow? Save it for Chelsea! Thanks mate.
+Word #9 - so 0.00426560500498
+Chelsea is playing tomorrow! But it's a Bday so i can't watch it live on my phone:(
+Word #10 - get 0.00426560500498
+How can Adkins get sacked if he just lead Southampton to consecutive promotions and came from 2 goals down away to Chelsea on Wednesday?
+Word #11 - league 0.00426560500498
+Chelsea will get the opportunity to close on the Premier League's top two when they host Southampton on Wednesday.
+Word #12 - me 0.00383904450448
+Stamford Bridge for the 3rd time tonight...come on chelsea let me see a win...even a goal thats not disallowed
+Word #13 - after 0.00383904450448
+@NgaatendweJC I know man, after seeing how Chelsea did today I can't wait til Sunday, it's gonna be interesting
+Word #14 - last 0.00341248400398
+maybe i should hav watched the Chelsea youth team instead last night , dey made an even better comeback 2 down at 1st win game in ET
+Word #15 - what 0.00312811033698
+It pisses me off when Chelsea asks me what we did in class when shes not there Like I don't wanna text all that out you'll find out tomorrow
+Word #16 - next 0.00298592350348
+If Chelsea beat Charlton in the #FAYC next Wednesday, they have a 5th Round tie at home to Oxford or Barnsley or Stevenage.
+Word #17 - good 0.00284373666998
+@davidluiz_4  good luck tomorrow, I'll be there as always. Come on chelsea
+Word #18 - play 0.00284373666998
+Got free ticket to watch chelsea play tomorrow but I have to work. FUMING
+Word #19 - by 0.00255936300299
+By Wednesday night we could have cut the gap between us and Chelsea from 8 points to 2. More than enough incentive to win. #Arsenal
+Word #20 - this 0.00255936300299
+Lets hope this guy signs before tomorrow night.....getting battered at Chelsea isn't going to help him sign...#saintsfc
+
+

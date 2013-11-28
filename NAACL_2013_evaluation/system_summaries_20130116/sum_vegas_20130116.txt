@@ -1,0 +1,120 @@
+#tweets in the cluster:  223
+
+== PageRank SubEvent Flex ==
+Everyone ! I have a live solo show tomorrow on http://t.co/nKbNNkCT and then I'm hosting a party at chateau in vegas ! Catch me if you can !
+
+== PageRank SubEvent Fixed ==
+Everyone ! I have a live solo show tomorrow on http://t.co/nKbNNkCT and then I'm hosting a party at chateau in vegas ! Catch me if you can !
+Vegas this weekend ! Leave tomorrow return sunday .. LATER ATL !
+If you are going to Vegas at 8AM on a Wednesday and it is not for work you have a problem .
+
+== SumBasic ==
+LOOKS LIKE I'LL BE GOING TO VEGAS TOMORROW IN THE MORNING ;)
+@SUPPARAY I NEED FOR MY PARTY JAN 16 WED CLUB VEGAS PUT ME ON THE BOOKS..CHECK UP
+If you are going to Vegas at 8AM on a Wednesday and it is not for work you have a problem.
+
+== PageRank IE ==
+Tomorrow Night Wednesday January 16th, I will be hosting the OFFICIAL Kick Off Party for the AEE Show in Vegas at Chateau...
+My dad is leaving for Vegas tomorrow #k
+I arrive in Vegas early tomorrow. Looking to get working right away shooting content.  Want to shoot with this? Lol http://t.co/kpGv58lw
+
+== SumBasic Reference of 20 ==
+LOOKS LIKE I'LL BE GOING TO VEGAS TOMORROW IN THE MORNING ;)
+@SUPPARAY I NEED FOR MY PARTY JAN 16 WED CLUB VEGAS PUT ME ON THE BOOKS..CHECK UP
+If you are going to Vegas at 8AM on a Wednesday and it is not for work you have a problem.
+@ballslim club vegas tomorrow nite, i got u..i will follow back also
+Gonna get faded with my American friend @lemme_pikachu tomorrow night before heading to Vegas!
+birthday ina month ! january 16th and i really want to go to vegas!!
+Thanks to all of our fans who voted during the Sportsman Choice awards. Wild Fish has made the top 5! We find out the winner in Vegas Jan 16
+@nenekitty__ i cant working on new mix tape..old school vs. new live mix..whats good sexy..jan 16 wed nite club vegas be there.
+Vegas was boring. I am sick so it made it worse. I hope I'm better by tomorrow.
+This week at the AEE Show in Vegas January 16, 17,18,19 I will be signing @JulesJordan Booth... Come and Check me out there!!!
+last day in murrieta but WOO VEGAS TOMORROW
+I want to be in Vegas until next Wednesday. Can I make that happen?
+\"@MelissaDawsonDD: I leave a week from tomorrow for Vegas and the AVN'S ..So excited. Im sure ur in for a gr8 trip looking as hot as u :-)
+Cant wait to get too VEGAS TOMORROW BABY!!!
+Might fuck wit Vegas tomorrow since I'm off
+Wishing Brandon the most luck and prayers tomorrow with his surgery!!! Love your girl friends in Vegas!!! 4 http://t.co/ccBFiz8U
+Getting ready for Vegas! Leaving early tomorrow for @AEexpo
+Scooter involved in northeast Vegas wreck: An investigation was under way Wednesday into a wreck involving a sed... http://t.co/sybDECm9
+So great to see Nick! He just got home last night from a ship! He is moving to Vegas on Wednesday because he got hired by Cirque!
+@robwelcher I'm on my way to Vegas today and furiously packing right now but I could chat tomorrow maybe? Or later tonight?
+
+
+#tweets in the cluster:  223
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.558763738207 Predicates:party,show,host,live
+0.290100409994 Everyone ! I have a live solo show tomorrow on http://t.co/nKbNNkCT and then I'm hosting a party at chateau in vegas ! Catch me if you can !
+(Additional) Event #2 - Proportion:0.089553435873 Predicates:leave
+0.0617944041033 Vegas this weekend ! Leave tomorrow return sunday .. LATER ATL !
+(Additional) Event #3 - Proportion:0.0828891188008 Predicates:work
+0.0387654592911 If you are going to Vegas at 8AM on a Wednesday and it is not for work you have a problem .
+(Additional) Event #4 - Proportion:0.0819697278651 Predicates:kick
+0.00476948689367 Arrived in Vegas for Juniper Networks global sales kickoff . Presenting on hybrid cloud , security and SDN impact tomorrow . Psyched .
+(Additional) Event #5 - Proportion:0.0661340920667 Arguments:chateau
+0.00412461223847 My dad is leaving for Vegas tomorrow #k
+(Additional) Event #6 - Proportion:0.06034494422 Predicates:shoot
+0.0550402947368 @Char_Stokely Let 's shoot tomorrow before you go to Vegas !
+(Additional) Event #7 - Proportion:0.0603449429675 Predicates:look
+0.0339809519947 LOOKS LIKE I'LL BE GOING TO VEGAS TOMORROW IN THE MORNING ;)
+
+== SumBasic ==
+Word #1 - to 0.0404707233065
+LOOKS LIKE I'LL BE GOING TO VEGAS TOMORROW IN THE MORNING ;)
+Word #2 - i 0.0252583237658
+@SUPPARAY I NEED FOR MY PARTY JAN 16 WED CLUB VEGAS PUT ME ON THE BOOKS..CHECK UP
+Word #3 - a 0.0192307692308
+If you are going to Vegas at 8AM on a Wednesday and it is not for work you have a problem.
+
+== PageRank IE ==
+IE #1 - party 3.93261330759
+Tomorrow Night Wednesday January 16th, I will be hosting the OFFICIAL Kick Off Party for the AEE Show in Vegas at Chateau...
+IE #2 - leave 1.608598773
+My dad is leaving for Vegas tomorrow #k
+IE #3 - work 1.4888913362
+I arrive in Vegas early tomorrow. Looking to get working right away shooting content.  Want to shoot with this? Lol http://t.co/kpGv58lw
+
+== SumBasic Reference of 20 ==
+Word #1 - to 0.0404707233065
+LOOKS LIKE I'LL BE GOING TO VEGAS TOMORROW IN THE MORNING ;)
+Word #2 - i 0.0252583237658
+@SUPPARAY I NEED FOR MY PARTY JAN 16 WED CLUB VEGAS PUT ME ON THE BOOKS..CHECK UP
+Word #3 - a 0.0192307692308
+If you are going to Vegas at 8AM on a Wednesday and it is not for work you have a problem.
+Word #4 - will 0.00947187141217
+@ballslim club vegas tomorrow nite, i got u..i will follow back also
+Word #5 - with 0.00918484500574
+Gonna get faded with my American friend @lemme_pikachu tomorrow night before heading to Vegas!
+Word #6 - 16th 0.00545350172216
+birthday ina month ! january 16th and i really want to go to vegas!!
+Word #7 - of 0.00545350172216
+Thanks to all of our fans who voted during the Sportsman Choice awards. Wild Fish has made the top 5! We find out the winner in Vegas Jan 16
+Word #8 - live 0.00516647531573
+@nenekitty__ i cant working on new mix tape..old school vs. new live mix..whats good sexy..jan 16 wed nite club vegas be there.
+Word #9 - so 0.00516647531573
+Vegas was boring. I am sick so it made it worse. I hope I'm better by tomorrow.
+Word #10 - show 0.00516647531573
+This week at the AEE Show in Vegas January 16, 17,18,19 I will be signing @JulesJordan Booth... Come and Check me out there!!!
+Word #11 - but 0.00516647531573
+last day in murrieta but WOO VEGAS TOMORROW
+Word #12 - that 0.00430539609644
+I want to be in Vegas until next Wednesday. Can I make that happen?
+Word #13 - from 0.00373134328358
+\"@MelissaDawsonDD: I leave a week from tomorrow for Vegas and the AVN'S ..So excited. Im sure ur in for a gr8 trip looking as hot as u :-)
+Word #14 - wait 0.00344431687715
+Cant wait to get too VEGAS TOMORROW BABY!!!
+Word #15 - off 0.00344431687715
+Might fuck wit Vegas tomorrow since I'm off
+Word #16 - your 0.00315729047072
+Wishing Brandon the most luck and prayers tomorrow with his surgery!!! Love your girl friends in Vegas!!! 4 http://t.co/ccBFiz8U
+Word #17 - ready 0.00287026406429
+Getting ready for Vegas! Leaving early tomorrow for @AEexpo
+Word #18 - wreck 0.00258323765786
+Scooter involved in northeast Vegas wreck: An investigation was under way Wednesday into a wreck involving a sed... http://t.co/sybDECm9
+Word #19 - see 0.00258323765786
+So great to see Nick! He just got home last night from a ship! He is moving to Vegas on Wednesday because he got hired by Cirque!
+Word #20 - today 0.00229621125144
+@robwelcher I'm on my way to Vegas today and furiously packing right now but I could chat tomorrow maybe? Or later tonight?
+
+

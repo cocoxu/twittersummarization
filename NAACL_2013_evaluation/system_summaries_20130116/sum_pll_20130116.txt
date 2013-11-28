@@ -1,0 +1,117 @@
+#tweets in the cluster:  272
+
+== PageRank SubEvent Flex ==
+have to watch pll tomorrow
+everyones talking about PLL and I have to wait till tomorrow at school to watch it and The Lying Game too
+
+== PageRank SubEvent Fixed ==
+have to watch pll tomorrow
+everyones talking about PLL and I have to wait till tomorrow at school to watch it and The Lying Game too
+Forget PLL workaholics starts tomorrow !
+
+== SumBasic ==
+have to watch pll tomorrow
+i can't wait to be tomorrow to see PLL and TLG
+I'm not watching PLL until tomorrow so nobody kill it for me!!!
+
+== PageRank IE ==
+have to watch pll tomorrow
+everyones talking about PLL and I have to wait till tomorrow at school to watch it and The Lying Game too
+Forget PLL workaholics starts tomorrow!
+
+== SumBasic Reference of 20 ==
+have to watch pll tomorrow
+i can't wait to be tomorrow to see PLL and TLG
+I'm not watching PLL until tomorrow so nobody kill it for me!!!
+ill watch the rest of PLL tomorrow ! :I
+Crap PLL is on tonight.. Crap finals are tomorrow
+Omg guys who cares about PLL when SUPERNATURAL COMES BACK A WEEK FROM TOMORROW
+PLL tonight! Happy but ugh I thought if was Wednesday today-_-
+Watching my PLL tomorrow after school :)
+I'm going to have to get off twitter cause of PLL. I can't watch till tomorrow -_-
+And to all the girls that are gonna obnoxiously tweet about PLL I hope you fail your exam tomorrow
+I can watch BGC 10 tomorrow. I'm all in PLL right now.
+I hate how Dance Moms is right after PLL because I just don't feel like staying up. Ill catch it tomorrow on the dvr.
+I am so tired but tomorrow I'm waking up at 5 to watch PLL and then do some more revision.
+@imarleneking will tonight's PLL episode be online tomorrow?
+Today I have been so excited about the new supernatural tomorrow that i forgot about PLL and the lying game
+I bet I won't have time to watch PLL tomorrow...oh well
+Forget PLL workaholics starts tomorrow!
+Shoot I forgot to watch PLL last night :( I guess I know what tomorrow night holds.....
+I cant watch PLL until tomorrow cause i dont have the channel so i guess im stuck with reading this book for english
+I just remembered PLL comes on tonight, I have late start tomorrow and no homework.... Life's good.
+
+
+#tweets in the cluster:  272
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.653337767173 Predicates:watch,wait
+0.637758886138 have to watch pll tomorrow
+Event #2 - Proportion:0.186587367251 Predicates:school,game,talk
+0.197331297725 everyones talking about PLL and I have to wait till tomorrow at school to watch it and The Lying Game too
+(Additional) Event #3 - Proportion:0.0591213190752 Predicates:forget
+0.0940629103621 Forget PLL workaholics starts tomorrow !
+(Additional) Event #4 - Proportion:0.0581875997841 Arguments:twitter
+0.066499655133 Not watching PLL until tomorrow gotta get off twitter
+(Additional) Event #5 - Proportion:0.0427659467166 Predicates:homework
+0.0502901391169 Plans for tomorrow : Work out , work , bible study , homework , PLL .
+
+== SumBasic ==
+Word #1 - tomorrow 0.0720846089619
+have to watch pll tomorrow
+Word #2 - i 0.0612301697746
+i can't wait to be tomorrow to see PLL and TLG
+Word #3 - it 0.0205956025605
+I'm not watching PLL until tomorrow so nobody kill it for me!!!
+
+== PageRank IE ==
+IE #1 - watch 13.2561191269
+have to watch pll tomorrow
+IE #2 - wait 2.58989853627
+everyones talking about PLL and I have to wait till tomorrow at school to watch it and The Lying Game too
+IE #3 - forget 1.43392516614
+Forget PLL workaholics starts tomorrow!
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0720846089619
+have to watch pll tomorrow
+Word #2 - i 0.0612301697746
+i can't wait to be tomorrow to see PLL and TLG
+Word #3 - it 0.0205956025605
+I'm not watching PLL until tomorrow so nobody kill it for me!!!
+Word #4 - the 0.0172557751183
+ill watch the rest of PLL tomorrow ! :I
+Word #5 - on 0.0141942666296
+Crap PLL is on tonight.. Crap finals are tomorrow
+Word #6 - about 0.0116893960479
+Omg guys who cares about PLL when SUPERNATURAL COMES BACK A WEEK FROM TOMORROW
+Word #7 - but 0.00834956860562
+PLL tonight! Happy but ugh I thought if was Wednesday today-_-
+Word #8 - my 0.0080712496521
+Watching my PLL tomorrow after school :)
+Word #9 - till 0.00695797383802
+I'm going to have to get off twitter cause of PLL. I can't watch till tomorrow -_-
+Word #10 - that 0.00695797383802
+And to all the girls that are gonna obnoxiously tweet about PLL I hope you fail your exam tomorrow
+Word #11 - in 0.00556637907041
+I can watch BGC 10 tomorrow. I'm all in PLL right now.
+Word #12 - just 0.00556637907041
+I hate how Dance Moms is right after PLL because I just don't feel like staying up. Ill catch it tomorrow on the dvr.
+Word #13 - at 0.00473142220985
+I am so tired but tomorrow I'm waking up at 5 to watch PLL and then do some more revision.
+Word #14 - will 0.00445310325633
+@imarleneking will tonight's PLL episode be online tomorrow?
+Word #15 - new 0.00417478430281
+Today I have been so excited about the new supernatural tomorrow that i forgot about PLL and the lying game
+Word #16 - well 0.00361814639577
+I bet I won't have time to watch PLL tomorrow...oh well
+Word #17 - workaholics 0.00333982744225
+Forget PLL workaholics starts tomorrow!
+Word #18 - guess 0.00333982744225
+Shoot I forgot to watch PLL last night :( I guess I know what tomorrow night holds.....
+Word #19 - with 0.00333982744225
+I cant watch PLL until tomorrow cause i dont have the channel so i guess im stuck with reading this book for english
+Word #20 - no 0.00333982744225
+I just remembered PLL comes on tonight, I have late start tomorrow and no homework.... Life's good.
+
+

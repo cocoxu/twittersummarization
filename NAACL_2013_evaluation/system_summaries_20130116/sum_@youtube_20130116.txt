@@ -1,0 +1,116 @@
+#tweets in the cluster:  259
+
+== PageRank SubEvent Flex ==
+I liked a @YouTube video http://t.co/bl52DCSj jason smith jan 16
+I added a video to a @YouTube playlist http://t.co/LcXg3KZq January 16 Bleh
+[ 16/01/2013 ] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+
+== PageRank SubEvent Fixed ==
+I liked a @YouTube video http://t.co/bl52DCSj jason smith jan 16
+I added a video to a @YouTube playlist http://t.co/LcXg3KZq January 16 Bleh
+[ 16/01/2013 ] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+
+== SumBasic ==
+I liked a @YouTube video http://t.co/bl52DCSj jason smith jan 16
+The To Be Determined Show: January 16th 2013: http://t.co/AdrXT6eI via @YouTube
+I liked a @YouTube video from @justdemgaming http://t.co/N8wfmAyZ New Series Top 5 Plays Of The Day For Wednesday
+
+== PageRank IE ==
+I liked a @YouTube video from @skyemosk http://t.co/AbhCblsT A Normal Wednesday
+I added a video to a @YouTube playlist http://t.co/LcXg3KZq January 16 Bleh
+[16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+
+== SumBasic Reference of 20 ==
+I liked a @YouTube video http://t.co/bl52DCSj jason smith jan 16
+The To Be Determined Show: January 16th 2013: http://t.co/AdrXT6eI via @YouTube
+I liked a @YouTube video from @justdemgaming http://t.co/N8wfmAyZ New Series Top 5 Plays Of The Day For Wednesday
+@JulepMaven and @revlon giveaway on my @YouTube channel tomorrow!!
+I added a video to a @YouTube playlist http://t.co/PkruM1qV Today In Music - Jan 16 - Bono Almost Dies
+[16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+I uploaded a @YouTube video http://t.co/0ZeYpkCx Seizing Your Tomorrow - Part 2
+Chow Chow Bath By two coffee with Dr K E Radha Krishna 16 Jan 2013 Suvarna News: http://t.co/EAuesRjO via @YouTube
+Found this on Youtube...Wednesday 13 - The Dixie Dead (ALBUM PREVIEW): http://t.co/vM3Bh9K7 via @youtube
+I favorited a @YouTube video http://t.co/YjM6voqs Florian David Fitz - Will you love me tomorrow?
+Everyone watch @angiekmiller on American idol tomorrow night!! So proud of you girl (: http://t.co/kSAcqlVw via @youtube
+@armywayne1 @YouTube be at club vegas jan 16 wed nite bring that music and a lot of 1\"s, its going down 8pm re-tweet
+Coast to Coast AM - Jan 16 2013 - UFOs, Visitations &amp; Underground Bases C2CAM: http://t.co/qXAjlC3h via @YouTube
+It may be \"white\" today, but NYC is a leading \"green\" city. Keep NYC Green - Take the Train!: http://t.co/BN8WGrYU via @youtube
+THE ARTS REPORTER WEBTV SERIES JAN 16 2013 SEASON 3 EPISODE 2: http://t.co/o5jA80kk via @YouTube
+Cote IDLE NO MORE Roadblock Jan 16th 2013 http://t.co/gLzU466v via @youtube
+I liked a @YouTube video from @syphernation http://t.co/Xx6GBOcV Black Ops 2 Gun Game Quick Update - Milk Challenge Tomorrow!
+Tomorrow comes today... for all we know.   Thirsty Merc - 20 Good Reasons - Piano Acoustic http://t.co/7w5mYt90 via @youtube
+I added a video to a @YouTube playlist http://t.co/DbduMC4l BANKAI922'S WEDNESDAY LIVE STREAMING SUBS ONLY Q&amp;A-EPISODE 4 BLEACH
+Rent - Out Tonight + No day but today: http://t.co/BIWCdlsS via @youtube Have been challenged 2 do Mim's dance moves fri @ the club ACCEPTED
+
+
+#tweets in the cluster:  259
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.525186526387 Predicates:like,video
+0.205776637909 I liked a @YouTube video http://t.co/bl52DCSj jason smith jan 16
+Event #2 - Proportion:0.239669392533 Predicates:add,playlist
+0.112923188769 I added a video to a @YouTube playlist http://t.co/LcXg3KZq January 16 Bleh
+Event #3 - Proportion:0.182508138654 Arguments:golden disk awards,malaysia Predicates:interview
+0.204507566786 [ 16/01/2013 ] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+(Additional) Event #4 - Proportion:0.0526359424256 Predicates:favorited
+0.0308438604423 I favorited a @YouTube video from @skyemosk http://t.co/AbhCblsT A Normal Wednesday
+
+== SumBasic ==
+Word #1 - a 0.0631005765535
+I liked a @YouTube video http://t.co/bl52DCSj jason smith jan 16
+Word #2 - via 0.0361947469571
+The To Be Determined Show: January 16th 2013: http://t.co/AdrXT6eI via @YouTube
+Word #3 - wednesday 0.0297885970532
+I liked a @YouTube video from @justdemgaming http://t.co/N8wfmAyZ New Series Top 5 Plays Of The Day For Wednesday
+
+== PageRank IE ==
+IE #1 - like 5.71255180441
+I liked a @YouTube video from @skyemosk http://t.co/AbhCblsT A Normal Wednesday
+IE #2 - add 2.5362980221
+I added a video to a @YouTube playlist http://t.co/LcXg3KZq January 16 Bleh
+IE #3 - interview 1.20349749032
+[16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+
+== SumBasic Reference of 20 ==
+Word #1 - a 0.0631005765535
+I liked a @YouTube video http://t.co/bl52DCSj jason smith jan 16
+Word #2 - via 0.0361947469571
+The To Be Determined Show: January 16th 2013: http://t.co/AdrXT6eI via @YouTube
+Word #3 - wednesday 0.0297885970532
+I liked a @YouTube video from @justdemgaming http://t.co/N8wfmAyZ New Series Top 5 Plays Of The Day For Wednesday
+Word #4 - tomorrow 0.0166559897502
+@JulepMaven and @revlon giveaway on my @YouTube channel tomorrow!!
+Word #5 - added 0.011531069827
+I added a video to a @YouTube playlist http://t.co/PkruM1qV Today In Music - Jan 16 - Bono Almost Dies
+Word #6 - at 0.00512491992313
+[16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+Word #7 - 2 0.00480461242793
+I uploaded a @YouTube video http://t.co/0ZeYpkCx Seizing Your Tomorrow - Part 2
+Word #8 - with 0.00480461242793
+Chow Chow Bath By two coffee with Dr K E Radha Krishna 16 Jan 2013 Suvarna News: http://t.co/EAuesRjO via @YouTube
+Word #9 - this 0.00416399743754
+Found this on Youtube...Wednesday 13 - The Dixie Dead (ALBUM PREVIEW): http://t.co/vM3Bh9K7 via @youtube
+Word #10 - favorited 0.00384368994234
+I favorited a @YouTube video http://t.co/YjM6voqs Florian David Fitz - Will you love me tomorrow?
+Word #11 - night 0.00320307495195
+Everyone watch @angiekmiller on American idol tomorrow night!! So proud of you girl (: http://t.co/kSAcqlVw via @youtube
+Word #12 - 1 0.00288276745676
+@armywayne1 @YouTube be at club vegas jan 16 wed nite bring that music and a lot of 1\"s, its going down 8pm re-tweet
+Word #13 - coast 0.00288276745676
+Coast to Coast AM - Jan 16 2013 - UFOs, Visitations &amp; Underground Bases C2CAM: http://t.co/qXAjlC3h via @YouTube
+Word #14 - it 0.00256245996156
+It may be \"white\" today, but NYC is a leading \"green\" city. Keep NYC Green - Take the Train!: http://t.co/BN8WGrYU via @youtube
+Word #15 - season 0.00256245996156
+THE ARTS REPORTER WEBTV SERIES JAN 16 2013 SEASON 3 EPISODE 2: http://t.co/o5jA80kk via @YouTube
+Word #16 - more 0.00224215246637
+Cote IDLE NO MORE Roadblock Jan 16th 2013 http://t.co/gLzU466v via @youtube
+Word #17 - black 0.00224215246637
+I liked a @YouTube video from @syphernation http://t.co/Xx6GBOcV Black Ops 2 Gun Game Quick Update - Milk Challenge Tomorrow!
+Word #18 - all 0.00192184497117
+Tomorrow comes today... for all we know.   Thirsty Merc - 20 Good Reasons - Piano Acoustic http://t.co/7w5mYt90 via @youtube
+Word #19 - q 0.00192184497117
+I added a video to a @YouTube playlist http://t.co/DbduMC4l BANKAI922'S WEDNESDAY LIVE STREAMING SUBS ONLY Q&amp;A-EPISODE 4 BLEACH
+Word #20 - out 0.00192184497117
+Rent - Out Tonight + No day but today: http://t.co/BIWCdlsS via @youtube Have been challenged 2 do Mim's dance moves fri @ the club ACCEPTED
+
+

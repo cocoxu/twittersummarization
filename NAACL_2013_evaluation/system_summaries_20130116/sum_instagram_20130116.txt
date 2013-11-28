@@ -1,0 +1,119 @@
+#tweets in the cluster:  977
+
+== PageRank SubEvent Flex ==
+So Instagram can sell your pictures to advertisers without u knowing starting January 16th I'm bout to delete my instagram !
+Instagram debuts new privacy policy , set to share user data with Facebook beginning January 16
+
+== PageRank SubEvent Fixed ==
+So Instagram can sell your pictures to advertisers without u knowing starting January 16th I'm bout to delete my instagram !
+Instagram debuts new privacy policy , set to share user data with Facebook beginning January 16
+Unless users delete their Instagram accounts by a deadline of 16 January , they cannot opt out
+
+== SumBasic ==
+Instagram will have the rights to sell your photos to Advertisers as of jan 16
+Over for Instagram on January 16th
+Instagram says it now has the right to sell your photos unless you delete your account by January 16th http://t.co/tsjic6yA
+
+== PageRank IE ==
+Starting Jan 16, Instagram can sell your photos without your permission.
+Deleting my Instagram before january 16th
+Instagram debuts new privacy policy, set to share user data with Facebook beginning January 16
+
+== SumBasic Reference of 20 ==
+Instagram will have the rights to sell your photos to Advertisers as of jan 16
+Over for Instagram on January 16th
+Instagram says it now has the right to sell your photos unless you delete your account by January 16th http://t.co/tsjic6yA
+Your photos on Instagram can be sold without your permission or profit if you don't remove them before Jan 16
+@urbancurandera no because Instagram is changing their privacy laws starting Jan 16 and they are awful!
+Instagram debuts new privacy policy, set to share user data with Facebook beginning January 16
+Guess I am deleting my Instagram before Jan 16!! Sucks that it had to do this.
+I wonder how many people will use Instagram after jan 16
+Unless users delete their Instagram accounts by a deadline of 16 January, they cannot opt out
+So Instagram from Jan 16 has the right to use our pictures for their ads. WOW. Be prepared to have ur face on instagram and facebook ads!
+If you use Instagram...starting Jan 16th they are going to start selling the pics you post. You will not get any payment or any notification
+Heads Up: What Instagram's New Terms of Service Mean for You http://t.co/Sp7HQjxA Effective January 16th 2013
+okay starting January 16th is when all those rules come in effect on Instagram. so we have until then to have all our fun then bow deleted!
+Oh ok just found article via cnnmoney .com... Instagram can sell pics w/o permission or compensation even if u r a minor starting Jan 16.
+@CapriCavanni  You may want to close your Instagram account.  As of Jan 16, they say they will own all images posted.  http://t.co/Nul2L6Jf
+RT @salon: If you don't delete your Instagram account by Jan 16, you could end up in an ad for just about anything (unpaid)...
+Instagram will be able to sell your photos without compensating you as of January 16. Though I'm not sure who would pay for pics of food.
+Well looks like I'll be deleting my Instagram before January 16th..
+@Mohunky You do but from Jan 16th, Instagram (Facebook) change their terms and can now sell your photos without notifying you or paying you.
+To all Instagram users, read the new policy that will take effect January 16.. After that date they can sell ur images without ur consent ;(
+
+
+#tweets in the cluster:  977
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.551060724109 Predicates:sell,delete,start,payment
+0.451150189706 So Instagram can sell your pictures to advertisers without u knowing starting January 16th I'm bout to delete my instagram !
+Event #2 - Proportion:0.196556484364 Arguments:facebook Predicates:share user data,privacy policy,debut
+0.477083377185 Instagram debuts new privacy policy , set to share user data with Facebook beginning January 16
+(Additional) Event #3 - Proportion:0.0591725612102 Predicates:opt out,deadline
+0.101191924143 Unless users delete their Instagram accounts by a deadline of 16 January , they cannot opt out
+(Additional) Event #4 - Proportion:0.0511226862256 Predicates:jan,own
+0.137299263713 Instagram is committing suicide Jan 16
+(Additional) Event #5 - Proportion:0.0499623243456 Predicates:account
+0.0517070541306 Looks like I'll be deleting my Instagram account before January 16th 2013
+(Additional) Event #6 - Proportion:0.0324634737738 Predicates:permission
+0.0331535309323 Wow so after Jan 16th ... Instagram can take our photos &amp; not have to ask for permission ... who deleting it ?
+
+== SumBasic ==
+Word #1 - to 0.0486946861692
+Instagram will have the rights to sell your photos to Advertisers as of jan 16
+Word #2 - january 0.031043633895
+Over for Instagram on January 16th
+Word #3 - you 0.020551749676
+Instagram says it now has the right to sell your photos unless you delete your account by January 16th http://t.co/tsjic6yA
+
+== PageRank IE ==
+IE #1 - sell 22.7690561033
+Starting Jan 16, Instagram can sell your photos without your permission.
+IE #2 - delete 13.50053943
+Deleting my Instagram before january 16th
+IE #3 - facebook 5.75544834728
+Instagram debuts new privacy policy, set to share user data with Facebook beginning January 16
+
+== SumBasic Reference of 20 ==
+Word #1 - to 0.0486946861692
+Instagram will have the rights to sell your photos to Advertisers as of jan 16
+Word #2 - january 0.031043633895
+Over for Instagram on January 16th
+Word #3 - you 0.020551749676
+Instagram says it now has the right to sell your photos unless you delete your account by January 16th http://t.co/tsjic6yA
+Word #4 - without 0.0127136949948
+Your photos on Instagram can be sold without your permission or profit if you don't remove them before Jan 16
+Word #5 - and 0.0116027896069
+@urbancurandera no because Instagram is changing their privacy laws starting Jan 16 and they are awful!
+Word #6 - new 0.0091958279331
+Instagram debuts new privacy policy, set to share user data with Facebook beginning January 16
+Word #7 - my 0.00827007344319
+Guess I am deleting my Instagram before Jan 16!! Sucks that it had to do this.
+Word #8 - after 0.00722088502129
+I wonder how many people will use Instagram after jan 16
+Word #9 - out 0.00641856446337
+Unless users delete their Instagram accounts by a deadline of 16 January, they cannot opt out
+Word #10 - from 0.00623341356539
+So Instagram from Jan 16 has the right to use our pictures for their ads. WOW. Be prepared to have ur face on instagram and facebook ads!
+Word #11 - pics 0.00456705548355
+If you use Instagram...starting Jan 16th they are going to start selling the pics you post. You will not get any payment or any notification
+Word #12 - 2013 0.00382645189163
+Heads Up: What Instagram's New Terms of Service Mean for You http://t.co/Sp7HQjxA Effective January 16th 2013
+Word #13 - all 0.00370301795964
+okay starting January 16th is when all those rules come in effect on Instagram. so we have until then to have all our fun then bow deleted!
+Word #14 - via 0.00290069740172
+Oh ok just found article via cnnmoney .com... Instagram can sell pics w/o permission or compensation even if u r a minor starting Jan 16.
+Word #15 - own 0.00265382953774
+@CapriCavanni  You may want to close your Instagram account.  As of Jan 16, they say they will own all images posted.  http://t.co/Nul2L6Jf
+Word #16 - about 0.00222181077578
+RT @salon: If you don't delete your Instagram account by Jan 16, you could end up in an ad for just about anything (unpaid)...
+Word #17 - able 0.00209837684379
+Instagram will be able to sell your photos without compensating you as of January 16. Though I'm not sure who would pay for pics of food.
+Word #18 - like 0.00197494291181
+Well looks like I'll be deleting my Instagram before January 16th..
+Word #19 - change 0.00178979201382
+@Mohunky You do but from Jan 16th, Instagram (Facebook) change their terms and can now sell your photos without notifying you or paying you.
+Word #20 - consent 0.00166635808184
+To all Instagram users, read the new policy that will take effect January 16.. After that date they can sell ur images without ur consent ;(
+
+

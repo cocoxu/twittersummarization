@@ -1,0 +1,128 @@
+#tweets in the cluster:  200
+
+== PageRank SubEvent Flex ==
+Miami also gonna have that motivation after tomorrow 's game .
+
+== PageRank SubEvent Fixed ==
+Miami also gonna have that motivation after tomorrow 's game .
+Happy birthday @scrappy ! I can't wait to see you next wednesday in birmingham and in MIAMI !
+Duke will lose their #1 spot Wednesday in Miami . #nohate just real . You saw it here first .
+
+== SumBasic ==
+going back to Miami tomorrow
+We should be in miami on a wednesday night NOT the cinema #newexperience #different
+I need to get to bed for my long ass day tomorrow but I'm addicted to CSI:Miami.
+
+== PageRank IE ==
+Heck of a game today @kobebryant kill Miami tomorrow!!!!
+It was so nice to celebrate our son's 6th birthday yesterday with a Miami win and story...http://t.co/V0fHDNqi
+I can definitely see Miami losing tomorrow night at BC, it would be so #goacc of the #Canes
+
+== SumBasic Reference of 20 ==
+going back to Miami tomorrow
+We should be in miami on a wednesday night NOT the cinema #newexperience #different
+I need to get to bed for my long ass day tomorrow but I'm addicted to CSI:Miami.
+@hollijayne2 ok well I will see anyway if not tomorrow it is! Jel of you and Miami at spring break #usnextyear
+my big party jan 16 wed nite club vegas.. with first team,shorty rich, street life, cubana lust  from miami..i need that support re-tweet
+End of 3rd HEAT 80 Warriors 50. This has been A STATEMENT GAME FOR MIAMI!!! All the Haters are silent tonight!!
+@bennahh 15 from miami! trimmer will be here january 16th; so we can take over then.
+miami on tuesday is getting me through today.
+Jan 16th im out to miami
+RT @warriors: Dubs have won their last 2 games against Miami, both in dramatic fashion. What's in store for tomorrow? Game Preview: http ...
+@DjShowtime12 let's meet up next week sometime... I just got back from  Miami to play a show tomorrow, then I'm back in Miami
+Stream online Miami (FL) vs Boston College  January 16, 2 http://t.co/wXaV7Juj
+HOLY WOW. (2nd time tonight I've used that). Miami headed home with a 4-0 record in ACC. #STORM still rolls! #CANES
+@_TweetsByRay How about them Lakers now?! See y'all tomorrow night down in Miami for the preview of the finals, boy..
+It was so nice to celebrate our son's 6th birthday yesterday with a Miami win and story...http://t.co/V0fHDNqi
+Curry held out of full practice Tuesday after ankle tweak Sunday. Did some shooting, got treatment, will play Wednesday night against Miami.
+Hey Miami, I am doing a quick drop in set at Lester's tonight at 8. Mustache Ride Comedy Show 2519 nw 2nd ave. Come by &amp; say hi.
+@justinbieber Hope you will be soon better! #BelieveTour D-15 :) Can't wait to see you January 16th! Miami!!! :p
+its thursday today is the day #bgc11 back to miami starts filming
+Off to Daytona once again. Tomorrow Miami
+
+
+#tweets in the cluster:  200
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.296300396416 Predicates:game,win
+0.0898867447849 Miami also gonna have that motivation after tomorrow 's game .
+(Additional) Event #2 - Proportion:0.0945832081626 Predicates:birthday
+0.0442835890313 Happy birthday @scrappy ! I can't wait to see you next wednesday in birmingham and in MIAMI !
+(Additional) Event #3 - Proportion:0.0837361356297 Predicates:saw
+0.0242487770856 Duke will lose their #1 spot Wednesday in Miami . #nohate just real . You saw it here first .
+(Additional) Event #4 - Proportion:0.0802758168373 Arguments:boston college
+0.0519111321856 Miami ( FL ) v Boston College Live Stream January 16 , 2 http://t.co/cdeUIpL9
+(Additional) Event #5 - Proportion:0.0772420242334 Predicates:lose
+0.0403299626152 Miami is gonna lose by 15 tomorrow .. Their spirited effort tonight just confirms it for me
+(Additional) Event #6 - Proportion:0.0681826728278 Predicates:celebrate
+0.0276694765833 Tonight meet me at GRAND CENTRAL (@grandcentralmia ) downtown miami as we celebrate the 11th anniversary of @ http://t.co/qIbObDoD
+(Additional) Event #7 - Proportion:0.0680768873229 Predicates:shop
+0.026303395407 Can't wait for shopping in Miami tomorrow !!! :) :) :) :) first ... Immigration checks
+(Additional) Event #8 - Proportion:0.0677944974849 Predicates:show
+0.0281675039089 Lets do this thing Dougal .... Wedding wedding wedding that 's all I bloody want to look at today ... Tomorrow show me Miami
+(Additional) Event #9 - Proportion:0.0575811599813 Predicates:ride
+0.0242072168875 @jnutty87 lets ride jan 16 wed nite for @DJBLACK_313 party with cubana lust from miami with shorty rich , street life , first team club vegas
+(Additional) Event #10 - Proportion:0.053507415722 Predicates:be
+0.0840638944308 I'll be be back in Miami tomorrow ..
+(Additional) Event #11 - Proportion:0.0527197853818 Arguments:florida
+0.0213244473474 All my #SOUTHFLORIDA Followers if your going down to miami tomorrow for Ellie goulding hit me up .
+
+== SumBasic ==
+Word #1 - tomorrow 0.037153873116
+going back to Miami tomorrow
+Word #2 - in 0.0350508236944
+We should be in miami on a wednesday night NOT the cinema #newexperience #different
+Word #3 - for 0.0178759200841
+I need to get to bed for my long ass day tomorrow but I'm addicted to CSI:Miami.
+
+== PageRank IE ==
+IE #1 - game 3.08473153372
+Heck of a game today @kobebryant kill Miami tomorrow!!!!
+IE #2 - win 2.59846493266
+It was so nice to celebrate our son's 6th birthday yesterday with a Miami win and story...http://t.co/V0fHDNqi
+IE #3 - saw 1.60610284655
+I can definitely see Miami losing tomorrow night at BC, it would be so #goacc of the #Canes
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.037153873116
+going back to Miami tomorrow
+Word #2 - in 0.0350508236944
+We should be in miami on a wednesday night NOT the cinema #newexperience #different
+Word #3 - for 0.0178759200841
+I need to get to bed for my long ass day tomorrow but I'm addicted to CSI:Miami.
+Word #4 - and 0.0154223624255
+@hollijayne2 ok well I will see anyway if not tomorrow it is! Jel of you and Miami at spring break #usnextyear
+Word #5 - with 0.00911321416053
+my big party jan 16 wed nite club vegas.. with first team,shorty rich, street life, cubana lust  from miami..i need that support re-tweet
+Word #6 - tonight 0.00876270592359
+End of 3rd HEAT 80 Warriors 50. This has been A STATEMENT GAME FOR MIAMI!!! All the Haters are silent tonight!!
+Word #7 - january 0.00771118121276
+@bennahh 15 from miami! trimmer will be here january 16th; so we can take over then.
+Word #8 - me 0.00595864002804
+miami on tuesday is getting me through today.
+Word #9 - out 0.00525762355415
+Jan 16th im out to miami
+Word #10 - last 0.00525762355415
+RT @warriors: Dubs have won their last 2 games against Miami, both in dramatic fashion. What's in store for tomorrow? Game Preview: http ...
+Word #11 - up 0.00455660708027
+@DjShowtime12 let's meet up next week sometime... I just got back from  Miami to play a show tomorrow, then I'm back in Miami
+Word #12 - vs 0.00420609884332
+Stream online Miami (FL) vs Boston College  January 16, 2 http://t.co/wXaV7Juj
+Word #13 - time 0.00350508236944
+HOLY WOW. (2nd time tonight I've used that). Miami headed home with a 4-0 record in ACC. #STORM still rolls! #CANES
+Word #14 - lakers 0.00315457413249
+@_TweetsByRay How about them Lakers now?! See y'all tomorrow night down in Miami for the preview of the finals, boy..
+Word #15 - win 0.00315457413249
+It was so nice to celebrate our son's 6th birthday yesterday with a Miami win and story...http://t.co/V0fHDNqi
+Word #16 - curry 0.0024535576586
+Curry held out of full practice Tuesday after ankle tweak Sunday. Did some shooting, got treatment, will play Wednesday night against Miami.
+Word #17 - by 0.0024535576586
+Hey Miami, I am doing a quick drop in set at Lester's tonight at 8. Mustache Ride Comedy Show 2519 nw 2nd ave. Come by &amp; say hi.
+Word #18 - wait 0.00210304942166
+@justinbieber Hope you will be soon better! #BelieveTour D-15 :) Can't wait to see you January 16th! Miami!!! :p
+Word #19 - thursday 0.00210304942166
+its thursday today is the day #bgc11 back to miami starts filming
+Word #20 - off 0.00210304942166
+Off to Daytona once again. Tomorrow Miami
+
+

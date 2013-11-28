@@ -1,0 +1,135 @@
+#tweets in the cluster:  225
+
+== PageRank SubEvent Flex ==
+Shall resume studying MS tomorrow morning at school . Night books .
+Ms . Blevins class tomorrow &lt;
+
+== PageRank SubEvent Fixed ==
+Shall resume studying MS tomorrow morning at school . Night books .
+Ms . Blevins class tomorrow &lt;
+Ms . Powell bluffin on these practices man ain't nobody ready for the meet tomorrow smh
+
+== SumBasic ==
+AT LEAST I GET TO SEE MS. SANDMIRE TOMORROW
+Oh nooo. Tomorrow is the last day I'll have in Ms. Ware's class. P.E. here I come...
+Did my hw for Ms.Turk ass and I start my second job tomorrow. GOD is Good to me
+
+== PageRank IE ==
+@WTVAmatt Nelson Institute of Higher Learning in Thaxton,MS is out of school tomorrow because of weather.
+Ms. Blevins class tomorrow &lt;
+If you didn't come to the male pommie meeting go see Ms. Layman tomorrow to sign up!!!
+
+== SumBasic Reference of 20 ==
+AT LEAST I GET TO SEE MS. SANDMIRE TOMORROW
+Oh nooo. Tomorrow is the last day I'll have in Ms. Ware's class. P.E. here I come...
+Did my hw for Ms.Turk ass and I start my second job tomorrow. GOD is Good to me
+@enyjah_x3 Ms.Leach Bms . Ima Have A Talk With Her Tomorrow . Lol And You Better Bring It Up
+Ms.Hegemans test should not be tomorrow...
+I will riot in the streets of this quite MS town if I have to go to school tomorrow ok not really but whatever it's the thought that counts
+Watch out for Ms. Marietta Tan, ASP Lagro Chapter President, on January 16 Wednesday at TV5 Good Morning Club.
+I hope we don't do a DBQ in Ms noell class tomorrow -.-
+Grad Meeting January 16th 3:30pm in Ms. Ram's room.  All grads must attend.
+I can't wait to rub all the shit I done today in Ms. Richardson's face tomorrow.
+@GraciesmumMS So sorry, MS was just jealous that u didn't want to include them in your plans. Hopefully u can have a good night tomorrow :)
+Ms. moore is gonna be gone tomorrow :(
+@murphasaur_ could you tell everyone from OM that yearbook photos are tomorrow? Love, Ms. Roman
+I'm pretty sure Ms. Jackson just said something about no school tomorrow til 10.
+RT @fxckchloe: Ms donleavy is going to eat me first period tomorrow like literally eat me
+Overcast and 30 F at Olive Branch Airport, MS The humidity is 100%.  Last Updated on Jan 16 2013, 3:15 am CST. http://t.co/XkjWUPSN
+Mr. Annandale packets are due TOMORROW! You can bring them to Ms. Harmony or to any leadership student.
+Some parts of MS &amp; AL may see some snow tonight heading into early Thursday. http://t.co/ew9MnbBU
+Ms. Halloran can kiss my ass when I sleep in her class tomorrow. I'm only up so late because of her damn work.
+I love how Ms. Sim actually gave us no guidance for this exam tomorrow
+
+
+#tweets in the cluster:  225
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.154910358894 Predicates:school
+0.0831176651633 Shall resume studying MS tomorrow morning at school . Night books .
+Event #2 - Proportion:0.111533535356 Predicates:class
+0.142785833953 Ms . Blevins class tomorrow &lt;
+(Additional) Event #3 - Proportion:0.0997066161983 Predicates:meet
+0.0488571646664 Ms . Powell bluffin on these practices man ain't nobody ready for the meet tomorrow smh
+(Additional) Event #4 - Proportion:0.0809693450831 Predicates:saw
+0.00396491922893 I have to get a good grade on Ms . Kelly midterm tomorrow !!
+(Additional) Event #5 - Proportion:0.0714249056393 Predicates:bring
+0.0390183835732 Ms . Grullon said not to bring in our textbooks tomorrow . For some reason I think it 's a trap .
+(Additional) Event #6 - Proportion:0.0599152050753 Predicates:party
+0.0359068236646 In another news , Ms . Universe 2012 1st Runner Up Janine Tugonon is now in tonight 's party :)
+(Additional) Event #7 - Proportion:0.0553830893641 Predicates:need
+0.0551633702147 I get to see Ms . Lulu tomorrow i need my favorite teacher time
+(Additional) Event #8 - Proportion:0.0542238530159 Predicates:learn
+0.015051698069 @UNCNUPES Pageant Interest Meeting this Sunday , January 16 in the Rams Village 1 Multipurpose Room !! Come learn about Ms . Krimson and Kreme !
+(Additional) Event #9 - Proportion:0.0542238509121 Predicates:weather
+0.0240699361074 Also , this rain/snow ordeal can kiss it . I may be driving like Ms . Daisy later on today .. I don't do this weather unless I'm home .
+(Additional) Event #10 - Proportion:0.0534315507975 Predicates:update
+0.0174001345147 Overcast and 32 F at Olive Branch Airport , MS The humidity is 100% . Last Updated on Jan 16 2013 , 9:15 pm CST . http://t.co/XkjWUPSN
+(Additional) Event #11 - Proportion:0.0517612908624 Predicates:give
+0.0280869659794 @ericabrowningxo Hmm , I'm not sure ! Will you see Ms . Beck tomorrow ? You can just give them to her , if that 's okay . :)
+(Additional) Event #12 - Proportion:0.0508388019733 Predicates:star
+0.0257296772521 Did my hw for Ms . Turk ass and I start my second job tomorrow . GOD is Good to me
+(Additional) Event #13 - Proportion:0.0508387988594 Arguments:club vegas
+0.00402162775796 JANUARY 16th I need y'all at Club Vegas it 's one of my LAST PARTIES . Starring myself Big Booty Blaze , Ms . Ca http://t.co/RzCutOcw
+(Additional) Event #14 - Proportion:0.0508387979693 Arguments:booty blaze
+0.00402162775796 JANUARY 16th I need y'all at Club Vegas it 's one of my LAST PARTIES . Starring myself Big Booty Blaze , Ms . Ca http://t.co/RzCutOcw
+
+== SumBasic ==
+Word #1 - tomorrow 0.0548327137546
+AT LEAST I GET TO SEE MS. SANDMIRE TOMORROW
+Word #2 - the 0.0216852540273
+Oh nooo. Tomorrow is the last day I'll have in Ms. Ware's class. P.E. here I come...
+Word #3 - for 0.0167286245353
+Did my hw for Ms.Turk ass and I start my second job tomorrow. GOD is Good to me
+
+== PageRank IE ==
+IE #1 - school 3.063639757
+@WTVAmatt Nelson Institute of Higher Learning in Thaxton,MS is out of school tomorrow because of weather.
+IE #2 - class 2.20578259321
+Ms. Blevins class tomorrow &lt;
+IE #3 - meet 1.97188332402
+If you didn't come to the male pommie meeting go see Ms. Layman tomorrow to sign up!!!
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0548327137546
+AT LEAST I GET TO SEE MS. SANDMIRE TOMORROW
+Word #2 - the 0.0216852540273
+Oh nooo. Tomorrow is the last day I'll have in Ms. Ware's class. P.E. here I come...
+Word #3 - for 0.0167286245353
+Did my hw for Ms.Turk ass and I start my second job tomorrow. GOD is Good to me
+Word #4 - a 0.0117719950434
+@enyjah_x3 Ms.Leach Bms . Ima Have A Talk With Her Tomorrow . Lol And You Better Bring It Up
+Word #5 - be 0.00960346964064
+Ms.Hegemans test should not be tomorrow...
+Word #6 - of 0.0092936802974
+I will riot in the streets of this quite MS town if I have to go to school tomorrow ok not really but whatever it's the thought that counts
+Word #7 - on 0.0086741016109
+Watch out for Ms. Marietta Tan, ASP Lagro Chapter President, on January 16 Wednesday at TV5 Good Morning Club.
+Word #8 - we 0.00557620817844
+I hope we don't do a DBQ in Ms noell class tomorrow -.-
+Word #9 - all 0.00495662949195
+Grad Meeting January 16th 3:30pm in Ms. Ram's room.  All grads must attend.
+Word #10 - today 0.0046468401487
+I can't wait to rub all the shit I done today in Ms. Richardson's face tomorrow.
+Word #11 - so 0.00402726146221
+@GraciesmumMS So sorry, MS was just jealous that u didn't want to include them in your plans. Hopefully u can have a good night tomorrow :)
+Word #12 - gonna 0.00371747211896
+Ms. moore is gonna be gone tomorrow :(
+Word #13 - tell 0.00371747211896
+@murphasaur_ could you tell everyone from OM that yearbook photos are tomorrow? Love, Ms. Roman
+Word #14 - about 0.00340768277571
+I'm pretty sure Ms. Jackson just said something about no school tomorrow til 10.
+Word #15 - going 0.00309789343247
+RT @fxckchloe: Ms donleavy is going to eat me first period tomorrow like literally eat me
+Word #16 - jan 0.00278810408922
+Overcast and 30 F at Olive Branch Airport, MS The humidity is 100%.  Last Updated on Jan 16 2013, 3:15 am CST. http://t.co/XkjWUPSN
+Word #17 - due 0.00278810408922
+Mr. Annandale packets are due TOMORROW! You can bring them to Ms. Harmony or to any leadership student.
+Word #18 - some 0.00278810408922
+Some parts of MS &amp; AL may see some snow tonight heading into early Thursday. http://t.co/ew9MnbBU
+Word #19 - because 0.00247831474597
+Ms. Halloran can kiss my ass when I sleep in her class tomorrow. I'm only up so late because of her damn work.
+Word #20 - us 0.00247831474597
+I love how Ms. Sim actually gave us no guidance for this exam tomorrow
+
+

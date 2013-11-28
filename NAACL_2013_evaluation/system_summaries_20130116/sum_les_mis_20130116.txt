@@ -1,0 +1,120 @@
+#tweets in the cluster:  263
+
+== PageRank SubEvent Flex ==
+Cracked open the 10th Anniversary Les Mis DVD . Just need to compare Black and Red with what I saw last night .
+May go watch Les Mis on my billy today ... Peak
+LES MIS SHOWS ON JAN 16TH I NEED IT NOW WHAT THE
+
+== PageRank SubEvent Fixed ==
+Cracked open the 10th Anniversary Les Mis DVD . Just need to compare Black and Red with what I saw last night .
+May go watch Les Mis on my billy today ... Peak
+LES MIS SHOWS ON JAN 16TH I NEED IT NOW WHAT THE
+
+== SumBasic ==
+I have to see Les Mis on January 16th.
+Excited to see dec and watch Les Mis tomorrow
+Les Mis will be shown here in the PH on j Jan 16!
+
+== PageRank IE ==
+RT @Liydys: Excited to see James and watch Les Mis tomorrow
+LES MIS SHOWS ON JAN 16TH I NEED IT NOW WHAT THE
+i love Anne Hathaway i'm so excited to see Les Mis tomorrow
+
+== SumBasic Reference of 20 ==
+I have to see Les Mis on January 16th.
+Excited to see dec and watch Les Mis tomorrow
+Les Mis will be shown here in the PH on j Jan 16!
+Thinking of going to see Les Mis on Wednesday, anyone else wanna come see it? :)
+so... i'm seeing Les Mis AGAIN tomorrow with the besties... is that sad?
+May go watch Les Mis on my billy today... Peak
+Mom and I have a date sa Jan 16 ;D SO EXCITED FOR LES MIS!
+@mikoyun What was national holiday for? Im good thanks off to see Les Mis tomorrow night for the 1st time! Have you had your op? xx
+Downloaded a very clear copy of Les Mis. Should I watch it now or wait until tomorrow then watch it at the cinema?
+Watching Les Mis tomorrow!!! Just One Day More :)) #seewhatIdidthere
+Can't wait to see Les Mis again tomorrow! Not really the best film to celebrate an end of exams but still!
+This is the first day since Wednesday that I've not watched Les Mis help me
+@Niamh_yes I want to see Les Mis again...can we go tomorrow? then go on the wine and cry about it
+we are watching Les Mis for school tomorrow!!! HOORAY
+My night has consisted of Phantom 25th and now Les Mis 25th. All my favourite people have been on my screen tonight, it's fab!
+Didn't get to watch Les Mis here :( I'll see if I could head out early tomorrow.
+I'd really like to see Les Mis. But I have things to do this Wednesday. Maybe next Wednesday... #orangewednesdays
+Think I may treat myself to a showing of Les Mis tomorrow...
+\"When the beating of your hearts echo the beating of the drums, / there is a life about to start when tomorrow comes.\" -- Les Mis
+@HeyItsChloooe oh good, well i have some bad head cold! but still not missing Les Mis tomorrow no no no !
+
+
+#tweets in the cluster:  263
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.360005856233 Predicates:saw
+0.0894624128578 Cracked open the 10th Anniversary Les Mis DVD . Just need to compare Black and Red with what I saw last night .
+Event #2 - Proportion:0.332693326786 Predicates:watch
+0.214162857776 May go watch Les Mis on my billy today ... Peak
+Event #3 - Proportion:0.109355239524 Predicates:show
+0.0483506963839 LES MIS SHOWS ON JAN 16TH I NEED IT NOW WHAT THE
+(Additional) Event #4 - Proportion:0.0871843494872 Predicates:excite
+0.0425758949783 Les Mis opens in theaters on Jan 16 :) excited na
+(Additional) Event #5 - Proportion:0.0592569147132 Predicates:wait
+0.052308853035 Going to see Les Mis again tomorrow !!! Cant wait ! : D
+(Additional) Event #6 - Proportion:0.0515043132561 Predicates:see
+0.102035811599 I have to see Les Mis on January 16th .
+
+== SumBasic ==
+Word #1 - les 0.0591409939285
+I have to see Les Mis on January 16th.
+Word #2 - tomorrow 0.0357544411963
+Excited to see dec and watch Les Mis tomorrow
+Word #3 - the 0.0272093546211
+Les Mis will be shown here in the PH on j Jan 16!
+
+== PageRank IE ==
+IE #1 - saw 7.72369210856
+RT @Liydys: Excited to see James and watch Les Mis tomorrow
+IE #2 - show 2.3461457249
+LES MIS SHOWS ON JAN 16TH I NEED IT NOW WHAT THE
+IE #3 - excite 1.87048366149
+i love Anne Hathaway i'm so excited to see Les Mis tomorrow
+
+== SumBasic Reference of 20 ==
+Word #1 - les 0.0591409939285
+I have to see Les Mis on January 16th.
+Word #2 - tomorrow 0.0357544411963
+Excited to see dec and watch Les Mis tomorrow
+Word #3 - the 0.0272093546211
+Les Mis will be shown here in the PH on j Jan 16!
+Word #4 - it 0.0134922419609
+Thinking of going to see Les Mis on Wednesday, anyone else wanna come see it? :)
+Word #5 - with 0.0112435349674
+so... i'm seeing Les Mis AGAIN tomorrow with the besties... is that sad?
+Word #6 - my 0.0101191814707
+May go watch Les Mis on my billy today... Peak
+Word #7 - a 0.0101191814707
+Mom and I have a date sa Jan 16 ;D SO EXCITED FOR LES MIS!
+Word #8 - you 0.00607150888239
+@mikoyun What was national holiday for? Im good thanks off to see Les Mis tomorrow night for the 1st time! Have you had your op? xx
+Word #9 - wait 0.0056217674837
+Downloaded a very clear copy of Les Mis. Should I watch it now or wait until tomorrow then watch it at the cinema?
+Word #10 - just 0.00472228468631
+Watching Les Mis tomorrow!!! Just One Day More :)) #seewhatIdidthere
+Word #11 - but 0.00472228468631
+Can't wait to see Les Mis again tomorrow! Not really the best film to celebrate an end of exams but still!
+Word #12 - me 0.00427254328761
+This is the first day since Wednesday that I've not watched Les Mis help me
+Word #13 - want 0.00382280188891
+@Niamh_yes I want to see Les Mis again...can we go tomorrow? then go on the wine and cry about it
+Word #14 - are 0.00382280188891
+we are watching Les Mis for school tomorrow!!! HOORAY
+Word #15 - all 0.00359793118957
+My night has consisted of Phantom 25th and now Les Mis 25th. All my favourite people have been on my screen tonight, it's fab!
+Word #16 - out 0.00314818979087
+Didn't get to watch Les Mis here :( I'll see if I could head out early tomorrow.
+Word #17 - next 0.00292331909152
+I'd really like to see Les Mis. But I have things to do this Wednesday. Maybe next Wednesday... #orangewednesdays
+Word #18 - showing 0.00269844839217
+Think I may treat myself to a showing of Les Mis tomorrow...
+Word #19 - when 0.00224870699348
+\"When the beating of your hearts echo the beating of the drums, / there is a life about to start when tomorrow comes.\" -- Les Mis
+Word #20 - no 0.00224870699348
+@HeyItsChloooe oh good, well i have some bad head cold! but still not missing Les Mis tomorrow no no no !
+
+

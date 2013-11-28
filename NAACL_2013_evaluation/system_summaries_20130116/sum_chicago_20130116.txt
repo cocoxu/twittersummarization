@@ -1,0 +1,150 @@
+#tweets in the cluster:  276
+
+== PageRank SubEvent Flex ==
+EDC Chicago announcement tomorrow !
+
+== PageRank SubEvent Fixed ==
+EDC Chicago announcement tomorrow !
+The Special Event Show in Chicago tomorrow !!
+@sammynorasingh I was at my apartment . I'm going home now bec I leave for Chicago tomorrow
+
+== SumBasic ==
+The fact that it's back to Chicago tomorrow.
+Should be in chicago 2ma or Wednesday
+RT @paul__kelly: For those of you in the US - Paul will be on Chicago's WGN TV tomorrow at 12.45pm (CST) to perform a song and... http:/ ...
+
+== PageRank IE ==
+The Special Event Show in Chicago tomorrow!!
+Leaving for Chicago on Wednesday and I'm legitimately scared that my face will freeze off when i step off the plane.
+Nicole and Casey are officially coming to Chicago tomorrow!!
+
+== SumBasic Reference of 20 ==
+The fact that it's back to Chicago tomorrow.
+Should be in chicago 2ma or Wednesday
+RT @paul__kelly: For those of you in the US - Paul will be on Chicago's WGN TV tomorrow at 12.45pm (CST) to perform a song and... http:/ ...
+@IAmSteveHarvey my momitted bday is Jan 16 and she will be 50 I think she come to Chicago to celebrate!
+Chicago from the 14th to the 16th of january anyone around !!
+@DanielMorin88 He was here Tuesday with Texas Stars, but back on AHL road in Chicago today.
+might have to make a trip up to chicago tomorrow
+@Xiluvanyane @jenmorrisonlive Ha Good Night going 2bed now it 1;00am in Chicago I have school in the morning.Hope we can talk again tomorrow
+Fuck yes edc Chicago lineup comes out tomorrow here we go boys
+Are you looking for the best deal in Chicago? Stop by today! Free Light Bites every Monday, Wednesday, and Friday!
+The Special Event Show in Chicago starts on January 16th.  ATMOSPHERE has a new booth #429   We would love to show you what our...
+@johnhbrewer hey Mr. Dukie! Contrary to what you told me, Chicago is no fun! What time do you get back tomorrow?
+@vicky1992 i actually just went there omg but i'm gonna watch chicago fire eventually and thats wednesday so!!!
+Tonight Chicago then tomorrow NYC with ASAP ROCKY #KetchupNoMustard
+CHICAGO TITLE PRESENTS: CLE SEMINAR JANUARY 16, 2013 \"Everything You Need to Know about Home Inspections\" by: Jeff Kaplan
+Full EDC Chicago details will be released this Wednesday at noon. http://t.co/DsLKLSOW
+\"Hi Rahm..Hi I'm doing a presser tomorrow and was wondering if I could borrow some kids  from Chicago that haven't been shot\"
+Can't wait till January 16th #EDC announces when they are coming to Chicago #pumped
+First day working tomorrow in Chicago.
+Play Off 12s RT \"@Polanco_Chopz: Rockin my Chicago 10s tomorrow c:\"
+
+
+#tweets in the cluster:  276
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.104035264577 Predicates:come,announce
+0.0588235294118 EDC Chicago announcement tomorrow !
+(Additional) Event #2 - Proportion:0.0755928589947 Predicates:show
+0.102497929398 The Special Event Show in Chicago tomorrow !!
+(Additional) Event #3 - Proportion:0.0564786122945 Predicates:leave
+0.0430002576531 @sammynorasingh I was at my apartment . I'm going home now bec I leave for Chicago tomorrow
+(Additional) Event #4 - Proportion:0.0532770193106 Predicates:start
+0.0495735593672 @BellsBrewery hopslam bttls should start hitting Chicago stores tomorrow .
+(Additional) Event #5 - Proportion:0.0509703954307 Arguments:jan
+0.0423920635867 Jan 16 and hasn't snowed in Chicago . Wonder if palm trees will sprout in the spring .
+(Additional) Event #6 - Proportion:0.0509703951052 Arguments:toronto
+0.0268815136427 RT @TTMB_ : @ceeceewalcott lmao I think I'm goin to Chicago and Toronto on jan 16
+(Additional) Event #7 - Proportion:0.0500439159389 Predicates:watch
+0.0425697359179 Apparently i was on the Chicago auditions this past wednesday .. awk didnt watch it lol
+(Additional) Event #8 - Proportion:0.0463140132104 Predicates:game
+0.0421117505384 How is it that tomorrow 's UIC-Loyola game isn't bring broadcast on TV or radio in Chicago ?
+(Additional) Event #9 - Proportion:0.0389078470558 Predicates:look
+0.02315434426 Bears hire Marc Trestman : A look at Chicago 's new head coach : Early Wednesday morning , the Chicago Bears made it ... http://t.co/GHF9KfzA
+(Additional) Event #10 - Proportion:0.0370683592975 Predicates:persist
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #11 - Proportion:0.0370683589946 Arguments:reuters
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #12 - Proportion:0.0370683587463 Predicates:win
+0.0148148148148 We love @HighHighs MT @windishagency : Tomorrow marks the kick-off of Chicago festival , @TNKfest . See what Windish artists you can find .
+(Additional) Event #13 - Proportion:0.037068358675 Predicates:region
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #14 - Proportion:0.0370683584129 Predicates:improve
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #15 - Proportion:0.0370683583377 Arguments:u.s.
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #16 - Proportion:0.0370683576963 Arguments:eastern conference
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #17 - Proportion:0.0370683568881 Predicates:include
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #18 - Proportion:0.0360388995415 Arguments:new york
+0.0290889400437 Go4less flights are up . Can't wait to book them tomorrow !!! Chicago , Florida , New York . Gonna be amazing . #j1
+(Additional) Event #19 - Proportion:0.0360388992437 Predicates:film
+0.0566195438409 On my way to Chicago with my Dad to film until Wednesday
+(Additional) Event #20 - Proportion:0.0353625408821 Predicates:bite
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+(Additional) Event #21 - Proportion:0.0353625399219 Predicates:deal
+0.0112233669619 Are you looking for the best deal in Chicago ? Stop by today ! Free Light Bites every Monday , Wednesday , and Friday !
+(Additional) Event #22 - Proportion:0.0340599314445 Predicates:shoot
+0.00518390573389 Nicole and Casey are officially coming to Chicago tomorrow !!
+
+== SumBasic ==
+Word #1 - to 0.0374183827223
+The fact that it's back to Chicago tomorrow.
+Word #2 - in 0.0296333500753
+Should be in chicago 2ma or Wednesday
+Word #3 - for 0.0173279758915
+RT @paul__kelly: For those of you in the US - Paul will be on Chicago's WGN TV tomorrow at 12.45pm (CST) to perform a song and... http:/ ...
+
+== PageRank IE ==
+IE #1 - show 2.23233891275
+The Special Event Show in Chicago tomorrow!!
+IE #2 - leave 1.6678745273
+Leaving for Chicago on Wednesday and I'm legitimately scared that my face will freeze off when i step off the plane.
+IE #3 - come 1.58605267025
+Nicole and Casey are officially coming to Chicago tomorrow!!
+
+== SumBasic Reference of 20 ==
+Word #1 - to 0.0374183827223
+The fact that it's back to Chicago tomorrow.
+Word #2 - in 0.0296333500753
+Should be in chicago 2ma or Wednesday
+Word #3 - for 0.0173279758915
+RT @paul__kelly: For those of you in the US - Paul will be on Chicago's WGN TV tomorrow at 12.45pm (CST) to perform a song and... http:/ ...
+Word #4 - i 0.0150678051231
+@IAmSteveHarvey my momitted bday is Jan 16 and she will be 50 I think she come to Chicago to celebrate!
+Word #5 - january 0.0080361627323
+Chicago from the 14th to the 16th of january anyone around !!
+Word #6 - with 0.00678051230537
+@DanielMorin88 He was here Tuesday with Texas Stars, but back on AHL road in Chicago today.
+Word #7 - up 0.00527373179307
+might have to make a trip up to chicago tomorrow
+Word #8 - going 0.00426921145153
+@Xiluvanyane @jenmorrisonlive Ha Good Night going 2bed now it 1;00am in Chicago I have school in the morning.Hope we can talk again tomorrow
+Word #9 - out 0.00401808136615
+Fuck yes edc Chicago lineup comes out tomorrow here we go boys
+Word #10 - are 0.00401808136615
+Are you looking for the best deal in Chicago? Stop by today! Free Light Bites every Monday, Wednesday, and Friday!
+Word #11 - new 0.00376695128076
+The Special Event Show in Chicago starts on January 16th.  ATMOSPHERE has a new booth #429   We would love to show you what our...
+Word #12 - get 0.00326469110999
+@johnhbrewer hey Mr. Dukie! Contrary to what you told me, Chicago is no fun! What time do you get back tomorrow?
+Word #13 - so 0.00326469110999
+@vicky1992 i actually just went there omg but i'm gonna watch chicago fire eventually and thats wednesday so!!!
+Word #14 - tonight 0.00326469110999
+Tonight Chicago then tomorrow NYC with ASAP ROCKY #KetchupNoMustard
+Word #15 - 2013 0.00326469110999
+CHICAGO TITLE PRESENTS: CLE SEMINAR JANUARY 16, 2013 \"Everything You Need to Know about Home Inspections\" by: Jeff Kaplan
+Word #16 - details 0.00301356102461
+Full EDC Chicago details will be released this Wednesday at noon. http://t.co/DsLKLSOW
+Word #17 - kids 0.00276243093923
+\"Hi Rahm..Hi I'm doing a presser tomorrow and was wondering if I could borrow some kids  from Chicago that haven't been shot\"
+Word #18 - coming 0.00276243093923
+Can't wait till January 16th #EDC announces when they are coming to Chicago #pumped
+Word #19 - day 0.00276243093923
+First day working tomorrow in Chicago.
+Word #20 - off 0.00251130085384
+Play Off 12s RT \"@Polanco_Chopz: Rockin my Chicago 10s tomorrow c:\"
+
+

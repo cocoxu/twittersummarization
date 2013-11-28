@@ -1,0 +1,136 @@
+#tweets in the cluster:  918
+
+== PageRank SubEvent Flex ==
+English exam tomorrow .... FFS
+
+== PageRank SubEvent Fixed ==
+English exam tomorrow .... FFS
+Wait I don't have English tomorrow , so I won't read .
+And I barely studied for English . We better get off tomorrow .
+
+== SumBasic ==
+Tomorrow I have Latin and English
+To study for my English exam tomorrow or to not...
+This English final will be the death of me tomorrow
+
+== PageRank IE ==
+English exam tomorrow .... FFS
+Time to read an entire book so I don't fail the test in English tomorrow!
+Study hall and English exams tomorrow.... Easy
+
+== SumBasic Reference of 20 ==
+Tomorrow I have Latin and English
+To study for my English exam tomorrow or to not...
+This English final will be the death of me tomorrow
+Got an A in English! I should just draw on my exam tomorrow!
+It's going to feel so amazing when English is over tomorrow
+If you are in my English class, you know that the most appropriate thing to do for tomorrow's exam is to not show up
+So today in English we wrote porn about a sweet, how was your Wednesday?
+I could really use tomorrow off to do all these notes for English.
+But I am going to fail history and English tomorrow
+Midterm exams tomorrow.... Ugh. AP Government and English.... At least I get those out of the way.
+Done with my math. Gonna do my English in study hall tomorrow.
+@MoyaOh I hope you ain't doing English tomorrow. My lord read what you just said.
+English exam tomorrow, Well then fuck
+Time to write a 3 page rough draft that's due tomorrow for English
+I actually don't want to go to English tomorrow or even school for all that matters
+How does she expect me to take this Spanish exam tomorrow when I can barley speak English???
+I have an 81 in English i need a good grade on that test tomorrow
+Oh right, part one of my English finals tomorrow. I SHOULD PROBABLY START STUDYING NOW.
+is there any point in sending my English teacher this essay because I doubt she's going to mark it before tomorrow?
+I have a full day of English tomorrow, how shit
+
+
+#tweets in the cluster:  918
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.48049958471 Predicates:exam
+0.938127179876 English exam tomorrow .... FFS
+(Additional) Event #2 - Proportion:0.0703441209349 Predicates:read
+0.112065368663 Wait I don't have English tomorrow , so I won't read .
+(Additional) Event #3 - Proportion:0.0647155531106 Predicates:studied
+0.090928515697 And I barely studied for English . We better get off tomorrow .
+(Additional) Event #4 - Proportion:0.0418273448132 Predicates:revise
+0.0864830646477 Exam tomorrow , still don't know how to revise English
+(Additional) Event #5 - Proportion:0.0389704125224 Predicates:write
+0.0735779750063 I have to write some poetry for English tomorrow #blahhh
+(Additional) Event #6 - Proportion:0.0370641286825 Predicates:class
+0.075244659259 I really hope my English class tomorrow gets cancelled
+(Additional) Event #7 - Proportion:0.0369949289702 Predicates:fuck
+0.145725884179 English Final tomorrow . Fuck
+(Additional) Event #8 - Proportion:0.0367977481746 Predicates:fail
+0.0889367264077 Can't wait to fail my English final tomorrow !
+(Additional) Event #9 - Proportion:0.0331955418181 Predicates:start
+0.0724736235538 English exam starts tomorrow :( #screwed
+(Additional) Event #10 - Proportion:0.0323036466997 Predicates:school
+0.0557436051153 I can't miss English and media tomorrow but school is so shit atm
+(Additional) Event #11 - Proportion:0.0296164443008 Predicates:look forward
+0.0303927605771 English exam tomorrow .... FFS
+(Additional) Event #12 - Proportion:0.0269479563033 Predicates:watch
+0.0684650518069 plus i gotta watch this movie for English tomorrow .
+(Additional) Event #13 - Proportion:0.0264706800705 Predicates:test
+0.0661588558114 Goodnight all , English test tomorrow , #100HereICome !
+(Additional) Event #14 - Proportion:0.0228367205748 Predicates:come up
+0.0546102700995 RT @james_ellisss : Really hoping the easy poems come up in the English exam tomorrow
+(Additional) Event #15 - Proportion:0.0214151883149 Predicates:pass
+0.0974486331012 :/ English exam tomorrow AHHH I hope I pass !!
+
+== SumBasic ==
+Word #1 - tomorrow 0.0825730776392
+Tomorrow I have Latin and English
+Word #2 - to 0.0319307391547
+To study for my English exam tomorrow or to not...
+Word #3 - the 0.0197356172035
+This English final will be the death of me tomorrow
+
+== PageRank IE ==
+IE #1 - exam 23.7671049057
+English exam tomorrow .... FFS
+IE #2 - read 3.47945379135
+Time to read an entire book so I don't fail the test in English tomorrow!
+IE #3 - studied 3.20104613772
+Study hall and English exams tomorrow.... Easy
+
+== SumBasic Reference of 20 ==
+Word #1 - tomorrow 0.0825730776392
+Tomorrow I have Latin and English
+Word #2 - to 0.0319307391547
+To study for my English exam tomorrow or to not...
+Word #3 - the 0.0197356172035
+This English final will be the death of me tomorrow
+Word #4 - in 0.0184323217278
+Got an A in English! I should just draw on my exam tomorrow!
+Word #5 - it 0.00986780860175
+It's going to feel so amazing when English is over tomorrow
+Word #6 - that 0.00800595792217
+If you are in my English class, you know that the most appropriate thing to do for tomorrow's exam is to not show up
+Word #7 - we 0.00586482964066
+So today in English we wrote porn about a sweet, how was your Wednesday?
+Word #8 - really 0.00530627443679
+I could really use tomorrow off to do all these notes for English.
+Word #9 - but 0.00456153416496
+But I am going to fail history and English tomorrow
+Word #10 - get 0.00363060882517
+Midterm exams tomorrow.... Ugh. AP Government and English.... At least I get those out of the way.
+Word #11 - with 0.00363060882517
+Done with my math. Gonna do my English in study hall tomorrow.
+Word #12 - what 0.00325823868926
+@MoyaOh I hope you ain't doing English tomorrow. My lord read what you just said.
+Word #13 - then 0.00316514615528
+English exam tomorrow, Well then fuck
+Word #14 - due 0.00316514615528
+Time to write a 3 page rough draft that's due tomorrow for English
+Word #15 - even 0.0030720536213
+I actually don't want to go to English tomorrow or even school for all that matters
+Word #16 - spanish 0.00279277601936
+How does she expect me to take this Spanish exam tomorrow when I can barley speak English???
+Word #17 - good 0.00269968348538
+I have an 81 in English i need a good grade on that test tomorrow
+Word #18 - oh 0.00260659095141
+Oh right, part one of my English finals tomorrow. I SHOULD PROBABLY START STUDYING NOW.
+Word #19 - essay 0.00232731334947
+is there any point in sending my English teacher this essay because I doubt she's going to mark it before tomorrow?
+Word #20 - shit 0.00223422081549
+I have a full day of English tomorrow, how shit
+
+

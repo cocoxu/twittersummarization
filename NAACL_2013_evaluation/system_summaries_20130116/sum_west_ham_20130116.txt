@@ -1,0 +1,116 @@
+#tweets in the cluster:  233
+
+== PageRank SubEvent Flex ==
+RT @Bassa_Mufc : Wayne Rooney and Nani will feature in the FA Cup replay with West Ham on Wednesday - Sir Alex Ferguson
+
+== PageRank SubEvent Fixed ==
+RT @Bassa_Mufc : Wayne Rooney and Nani will feature in the FA Cup replay with West Ham on Wednesday - Sir Alex Ferguson
+Good game tonight , looking forward to West Ham tomorrow .
+Hoping Nani might get a start tomorrow against West Ham . #mufc
+
+== SumBasic ==
+Tomorrow night come on West Ham lol
+Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup replay at Old Trafford.  #BPL
+Nani's fit abd WILL play tomorrow against West Ham! Sir Alex confirmed :)
+
+== PageRank IE ==
+Sir Alex Said MUTV: ''Wayne Rooney and Nani will feature in the FA Cup replay with West Ham on Wednesday
+Rooney is set to return to the Manchester United starting line-up for tomorrow's FA Cup third-round replay with West Ham at Old Trafford.
+Good game tonight, looking forward to West Ham tomorrow.
+
+== SumBasic Reference of 20 ==
+Tomorrow night come on West Ham lol
+Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup replay at Old Trafford.  #BPL
+Nani's fit abd WILL play tomorrow against West Ham! Sir Alex confirmed :)
+A replay of the FA Cup Round 3 match between Manchester United and West Ham will take place at Old Trafford on Wednesday 16 January
+Tukar topik. Man Utd win this morning with West Ham for 3rd FA Cup. *play FIFA13 for rehearsal*
+@ashmarshy shit isnt it. Man U v West Ham is on itv i think tomorrow. Who wants to see another prem game on tv????
+SAF has confirmed that Wayne Rooney will make his return tomorrow against West Ham. While Young and Vidic are set to miss the game to injury
+50: Wednesday's game against West Ham will be #ManUtd's 50th FACup game at home under Sir Alex Ferguson.
+Well done Man U beating West Ham last night in their 3rd round FA cup replay. Yes Man U you can get past the third round when U try :-)
+No Joe Cole for West Ham tonight. He got both assists for their goals at Upton Park in the 1st meeting. #facup
+Fulham at home if we beat West Ham tomorrow then?
+West Ham might have put in 46 crosses, but none were as good as Harry Gerard to Tom Derry on Wednesday, was a pure class goal! #cafcyouth
+Nani and Rooney both set to feature in clash between West Ham at Old Trafford tomorrow night. Fergie also clams Vidic's knee is fine.
+Got the bug now, thinking about going to Arsenal vs West Ham on Wednesday
+Rooney in line for cup return: Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup third roun... http://t.co/766Zm1M7
+Wayne Rooney's penalty miss vs West Ham last night was his 10th penalty miss since he's been at Manchester United
+There are two FA Cup replays tomorrow, including Manchester United vs West Ham LIVE at 3 PM ET! #FACUPonFOX
+I really hope we put out a strong side tomorrow and beat West Ham. #mufc
+United's FA Cup replay at home to West Ham on Wednesday 16 January will kick-off at 20:05 GMT, rather than 20:00.
+[Independent] Rio Ferdinand wishes Joe Cole well at West Ham - but not tomorrow: Manchester United defender Rio ... http://t.co/HXMqC1oo
+
+
+#tweets in the cluster:  233
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.878763881642 Arguments:fa cup,wayne rooney,manchester united,nani,alex ferguson,old trafford Predicates:replay,feature
+0.901626403496 RT @Bassa_Mufc : Wayne Rooney and Nani will feature in the FA Cup replay with West Ham on Wednesday - Sir Alex Ferguson
+(Additional) Event #2 - Proportion:0.0399945694714 Predicates:game
+0.0714546392011 Good game tonight , looking forward to West Ham tomorrow .
+(Additional) Event #3 - Proportion:0.0293481207647 Predicates:start
+0.0334633194081 Hoping Nani might get a start tomorrow against West Ham . #mufc
+(Additional) Event #4 - Proportion:0.0271897527196 Arguments:arsenal
+0.0622124943623 Never mind Arsenal you've got West Ham on Wednesday
+(Additional) Event #5 - Proportion:0.0247036754018 Predicates:say
+0.0318953655833 @_HannahSaysHey_ :( ( , going to West Ham match tomorrow ;) waheyy !
+
+== SumBasic ==
+Word #1 - west 0.0553201506591
+Tomorrow night come on West Ham lol
+Word #2 - cup 0.0270715630885
+Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup replay at Old Trafford.  #BPL
+Word #3 - will 0.0214218455744
+Nani's fit abd WILL play tomorrow against West Ham! Sir Alex confirmed :)
+
+== PageRank IE ==
+IE #1 - fa cup 8.39579536035
+Sir Alex Said MUTV: ''Wayne Rooney and Nani will feature in the FA Cup replay with West Ham on Wednesday
+IE #2 - manchester united 4.90067080322
+Rooney is set to return to the Manchester United starting line-up for tomorrow's FA Cup third-round replay with West Ham at Old Trafford.
+IE #3 - game 1.72517638747
+Good game tonight, looking forward to West Ham tomorrow.
+
+== SumBasic Reference of 20 ==
+Word #1 - west 0.0553201506591
+Tomorrow night come on West Ham lol
+Word #2 - cup 0.0270715630885
+Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup replay at Old Trafford.  #BPL
+Word #3 - will 0.0214218455744
+Nani's fit abd WILL play tomorrow against West Ham! Sir Alex confirmed :)
+Word #4 - the 0.0190677966102
+A replay of the FA Cup Round 3 match between Manchester United and West Ham will take place at Old Trafford on Wednesday 16 January
+Word #5 - for 0.0176553672316
+Tukar topik. Man Utd win this morning with West Ham for 3rd FA Cup. *play FIFA13 for rehearsal*
+Word #6 - game 0.00918079096045
+@ashmarshy shit isnt it. Man U v West Ham is on itv i think tomorrow. Who wants to see another prem game on tv????
+Word #7 - that 0.00659133709981
+SAF has confirmed that Wayne Rooney will make his return tomorrow against West Ham. While Young and Vidic are set to miss the game to injury
+Word #8 - ferguson 0.0054143126177
+50: Wednesday's game against West Ham will be #ManUtd's 50th FACup game at home under Sir Alex Ferguson.
+Word #9 - third 0.00494350282486
+Well done Man U beating West Ham last night in their 3rd round FA cup replay. Yes Man U you can get past the third round when U try :-)
+Word #10 - both 0.00447269303202
+No Joe Cole for West Ham tonight. He got both assists for their goals at Upton Park in the 1st meeting. #facup
+Word #11 - beat 0.00423728813559
+Fulham at home if we beat West Ham tomorrow then?
+Word #12 - but 0.00400188323917
+West Ham might have put in 46 crosses, but none were as good as Harry Gerard to Tom Derry on Wednesday, was a pure class goal! #cafcyouth
+Word #13 - feature 0.00353107344633
+Nani and Rooney both set to feature in clash between West Ham at Old Trafford tomorrow night. Fergie also clams Vidic's knee is fine.
+Word #14 - arsenal 0.00329566854991
+Got the bug now, thinking about going to Arsenal vs West Ham on Wednesday
+Word #15 - line 0.00306026365348
+Rooney in line for cup return: Wayne Rooney could be back to face West Ham in next Wednesday's FA Cup third roun... http://t.co/766Zm1M7
+Word #16 - penalty 0.00282485875706
+Wayne Rooney's penalty miss vs West Ham last night was his 10th penalty miss since he's been at Manchester United
+Word #17 - live 0.00282485875706
+There are two FA Cup replays tomorrow, including Manchester United vs West Ham LIVE at 3 PM ET! #FACUPonFOX
+Word #18 - hope 0.0021186440678
+I really hope we put out a strong side tomorrow and beat West Ham. #mufc
+Word #19 - gmt 0.0021186440678
+United's FA Cup replay at home to West Ham on Wednesday 16 January will kick-off at 20:05 GMT, rather than 20:00.
+Word #20 - rio 0.00188323917137
+[Independent] Rio Ferdinand wishes Joe Cole well at West Ham - but not tomorrow: Manchester United defender Rio ... http://t.co/HXMqC1oo
+
+

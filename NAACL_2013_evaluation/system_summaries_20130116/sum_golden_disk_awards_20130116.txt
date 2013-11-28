@@ -1,0 +1,121 @@
+#tweets in the cluster:  212
+
+== PageRank SubEvent Flex ==
+[ 16/01/2013 ] G-Dragon at 27th Golden Disk Awards in Malaysia -- Media Interview : http://t.co/wceAoiLW
+Super Junior will be featured on Philippine TV " 24 Oras " tonight for winning the Grand Prize at the " 27th Golden Disk Awards ".
+[ Flight Info ] f(x ) to arrive at Kuala Lumpur on Tuesday ( Jan 15 ) to attend Golden Disk Awards on Wednesday ( Jan 16 ) cr ; TheStar
+[ INFO ] GDragon to make an appearance at the Samsung Galaxy 27th Golden Disk Awards in KL on 15 &amp; 16 Jan 2013 .
+
+== PageRank SubEvent Fixed ==
+[ 16/01/2013 ] G-Dragon at 27th Golden Disk Awards in Malaysia -- Media Interview : http://t.co/wceAoiLW
+Super Junior will be featured on Philippine TV " 24 Oras " tonight for winning the Grand Prize at the " 27th Golden Disk Awards ".
+[ Flight Info ] f(x ) to arrive at Kuala Lumpur on Tuesday ( Jan 15 ) to attend Golden Disk Awards on Wednesday ( Jan 16 ) cr ; TheStar
+
+== SumBasic ==
+Golden Disk Awards will be held on 15&amp;16 Jan at the Sepang.
+The 27th Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013.
+[INFO] EXO is nominated for 3 categories in Golden Disk Awards that going to be held in Malaysia on 15 &amp; 16 Jan 2013
+
+== PageRank IE ==
+Today we attending The 27th Golden Disk Awards at malaysia ~
+Golden Disk Awards ceremony will be held tomorrow and the day after tomorrow!   I hope EXO will win awards!
+[16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+
+== SumBasic Reference of 20 ==
+Golden Disk Awards will be held on 15&amp;16 Jan at the Sepang.
+The 27th Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013.
+[INFO] EXO is nominated for 3 categories in Golden Disk Awards that going to be held in Malaysia on 15 &amp; 16 Jan 2013
+[INFO] SJ will be featured on Philippine TV \"24 Oras\" tonight for winning the Grand Prize at the \"27th Golden Disk Awards\" (cr.SMTownEngsub)
+[NOTICE] EXO will be attending The 27th Golden Disk Awards in Kuala Lumpur on 15th &amp; 16th of January 2013
+This time yesterday, we were all ready to get super pumped up for Day 2 of The 27th Golden Disk Awards and now,... http://t.co/okEXEHZg
+[fancam 2013-01-16] The 27th Golden Disk Awards - Song of the Year - Gan...: http://t.co/12KOGKB6 via @youtube
+Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013. (Cr hallyuM)\"
+The 27th Golden Disk Awards is tonight and tomorrow! Who are you excited to see? Tell us!
+[INFO] GDragon to make an appearance at the Samsung Galaxy 27th Golden Disk Awards in KL on 15 &amp; 16 Jan 2013.
+The 27th Golden Disk Awards ended last night at the Sepang International Circuit #GDA
+[Flight Info] f(x) to arrive at Kuala Lumpur on Tuesday (Jan 15) to attend Golden Disk Awards on Wednesday (Jan 16) cr; TheStar
+I liked a @YouTube video http://t.co/R6Ojcg1i [16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview
+[fancam 2013-01-16] The 27th Golden Disk Awards - G.Dragon ft. Tablo - Light It Up.MOV http://t.co/uvK8RvKA
+HQ Pictures for the Golden Disk Awards ( EXO , SHINee &amp; Super Junior ) will uploded Tomorrow stay tuned   and... http://t.co/zlNMznbw
+Today's the 2nd day of Golden Disk Awards! Can you spot your fave girl groups? #sunsilkgoodtimes http://t.co/7UEQjNoz
+\"27th Golden Disk Awards\" will be divided into 2 parts: Disk / Physical Awards (January 15) and Digital Awards (January 16)
+The 27th Golden Disk Awards will have 2 days concert. Day ONE (Jan 15) for Album Awards &amp; Day TWO (Jan 16) for Songs Awards.
+Kpop Digital Award Winners Announced from the Golden Disk Awards in Malaysia Day 2: On January 16th, many of Kor... http://t.co/j1zyYUsu
+@ShuhaimizaAzira Golden Disk Awards, maybe ada 27 groups of idol will attend on 15 &amp; 16 January, The ticket price is .. RM 689 &amp; RM 999 -,-
+
+
+#tweets in the cluster:  212
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.395812847768 Predicates:malaysia,hold,interview,nominate
+0.162948114616 [ 16/01/2013 ] G-Dragon at 27th Golden Disk Awards in Malaysia -- Media Interview : http://t.co/wceAoiLW
+Event #2 - Proportion:0.217345790773 Arguments:grand prize,super junior Predicates:win,feature
+0.271138591811 Super Junior will be featured on Philippine TV " 24 Oras " tonight for winning the Grand Prize at the " 27th Golden Disk Awards ".
+Event #3 - Proportion:0.142026201959 Arguments:kuala lumpur Predicates:attend
+0.0969853119824 [ Flight Info ] f(x ) to arrive at Kuala Lumpur on Tuesday ( Jan 15 ) to attend Golden Disk Awards on Wednesday ( Jan 16 ) cr ; TheStar
+Event #4 - Proportion:0.122472066483 Arguments:kl,samsung galaxy Predicates:appearance
+0.191711936185 [ INFO ] GDragon to make an appearance at the Samsung Galaxy 27th Golden Disk Awards in KL on 15 &amp; 16 Jan 2013 .
+(Additional) Event #5 - Proportion:0.0770032442107 Arguments:bap,@youtube
+0.0840435251567 [ 16/01/2013 ] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+(Additional) Event #6 - Proportion:0.0453398488057 Arguments:sepang international circuit
+0.0394850514721 The 27th Golden Disk Awards ended last night at the Sepang International Circuit #GDA
+
+== SumBasic ==
+Word #1 - awards 0.0623214749416
+Golden Disk Awards will be held on 15&amp;16 Jan at the Sepang.
+Word #2 - 27th 0.0355751752791
+The 27th Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013.
+Word #3 - info 0.0215528434173
+[INFO] EXO is nominated for 3 categories in Golden Disk Awards that going to be held in Malaysia on 15 &amp; 16 Jan 2013
+
+== PageRank IE ==
+IE #1 - malaysia 5.85139875825
+Today we attending The 27th Golden Disk Awards at malaysia ~
+IE #2 - hold 2.16262663122
+Golden Disk Awards ceremony will be held tomorrow and the day after tomorrow!   I hope EXO will win awards!
+IE #3 - interview 1.699342659
+[16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview http://t.co/q1wypVrW via @youtube
+
+== SumBasic Reference of 20 ==
+Word #1 - awards 0.0623214749416
+Golden Disk Awards will be held on 15&amp;16 Jan at the Sepang.
+Word #2 - 27th 0.0355751752791
+The 27th Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013.
+Word #3 - info 0.0215528434173
+[INFO] EXO is nominated for 3 categories in Golden Disk Awards that going to be held in Malaysia on 15 &amp; 16 Jan 2013
+Word #4 - cr 0.0119449493638
+[INFO] SJ will be featured on Philippine TV \"24 Oras\" tonight for winning the Grand Prize at the \"27th Golden Disk Awards\" (cr.SMTownEngsub)
+Word #5 - of 0.0109062581148
+[NOTICE] EXO will be attending The 27th Golden Disk Awards in Kuala Lumpur on 15th &amp; 16th of January 2013
+Word #6 - day 0.00649182030641
+This time yesterday, we were all ready to get super pumped up for Day 2 of The 27th Golden Disk Awards and now,... http://t.co/okEXEHZg
+Word #7 - via 0.00545312905739
+[fancam 2013-01-16] The 27th Golden Disk Awards - Song of the Year - Gan...: http://t.co/12KOGKB6 via @youtube
+Word #8 - hallyum 0.00493378343287
+Golden Disk Awards take place in Malaysia on the 15 and 16 January 2013. (Cr hallyuM)\"
+Word #9 - tomorrow 0.00467411062062
+The 27th Golden Disk Awards is tonight and tomorrow! Who are you excited to see? Tell us!
+Word #10 - kl 0.00441443780836
+[INFO] GDragon to make an appearance at the Samsung Galaxy 27th Golden Disk Awards in KL on 15 &amp; 16 Jan 2013.
+Word #11 - circuit 0.0041547649961
+The 27th Golden Disk Awards ended last night at the Sepang International Circuit #GDA
+Word #12 - attend 0.0041547649961
+[Flight Info] f(x) to arrive at Kuala Lumpur on Tuesday (Jan 15) to attend Golden Disk Awards on Wednesday (Jan 16) cr; TheStar
+Word #13 - media 0.00337574655934
+I liked a @YouTube video http://t.co/R6Ojcg1i [16/01/2013] BAP at 27th Golden Disk Awards in Malaysia -- Media Interview
+Word #14 - mov 0.00311607374708
+[fancam 2013-01-16] The 27th Golden Disk Awards - G.Dragon ft. Tablo - Light It Up.MOV http://t.co/uvK8RvKA
+Word #15 - junior 0.00259672812257
+HQ Pictures for the Golden Disk Awards ( EXO , SHINee &amp; Super Junior ) will uploded Tomorrow stay tuned   and... http://t.co/zlNMznbw
+Word #16 - today 0.00233705531031
+Today's the 2nd day of Golden Disk Awards! Can you spot your fave girl groups? #sunsilkgoodtimes http://t.co/7UEQjNoz
+Word #17 - digital 0.00207738249805
+\"27th Golden Disk Awards\" will be divided into 2 parts: Disk / Physical Awards (January 15) and Digital Awards (January 16)
+Word #18 - album 0.0018177096858
+The 27th Golden Disk Awards will have 2 days concert. Day ONE (Jan 15) for Album Awards &amp; Day TWO (Jan 16) for Songs Awards.
+Word #19 - from 0.00155803687354
+Kpop Digital Award Winners Announced from the Golden Disk Awards in Malaysia Day 2: On January 16th, many of Kor... http://t.co/j1zyYUsu
+Word #20 - rm 0.00155803687354
+@ShuhaimizaAzira Golden Disk Awards, maybe ada 27 groups of idol will attend on 15 &amp; 16 January, The ticket price is .. RM 689 &amp; RM 999 -,-
+
+

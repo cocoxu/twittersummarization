@@ -1,0 +1,129 @@
+#tweets in the cluster:  229
+
+== PageRank SubEvent Flex ==
+Finally get my iPhone tomorrow .. lol
+Hope I come home tomorrow being able to use my iphone
+
+== PageRank SubEvent Fixed ==
+Finally get my iPhone tomorrow .. lol
+Hope I come home tomorrow being able to use my iphone
+iPhone And iPad Price Drops : January 17 , 2013 : Every discount you need to know about today . http://t.co/YqnnFR4l
+
+== SumBasic ==
+fixing my iphone tomorrow on god..
+All I have to say is I will get a iPhone tomorrow.
+I might be an official owner of the iPhone tomorrow c:
+
+== PageRank IE ==
+not getting my iphone until wednesday :'(
+New iPhone is coming tomorrow yay
+Oh Joy! RT @iPhoneTeam: Temple run 2 is coming tomorrow for iPhone and iPad. Who's ready?
+
+== SumBasic Reference of 20 ==
+fixing my iphone tomorrow on god..
+All I have to say is I will get a iPhone tomorrow.
+I might be an official owner of the iPhone tomorrow c:
+my iphone is coming tomorrow so that cheered me up for about 5 seconds but now I'm back to being ill and feeling like I'm going to die yay
+Got my iphone, it will b here Wednesday!!
+getting this free iphone tomorrow lol.
+@heartfeltHanna lol yes you right girl u txt bakk and tweet fast..ready 2 get my iphone jan 16 than we can face time while im at skoo
+Word Fedex said my iPhone should be in by Wednesday.
+Fuck my iPhone. New one tomorrow hopefully.
+So thought I was getting the iPhone today, but its coming in tomorrow can't wait!
+If I buy an iPhone tomorrow I'm gonna be broke for like a 2 weeks, omg its not worth it
+I JUST GOT A TEXT FROM BELL SAYING MY ACCOUNT IS BEING CANCELLED ON JANUARY 16TH. GUESS WHAT BITCH IS GETTING AN IPHONE. THIS BITCH IS!!!!!
+New phone. Lost all contacts until tomorrow when I restore my iPhone
+Finally getting an iPhone tomorrow. No more droid.
+@Rae_DJames thank you Rae! :) i realllllyyyy need team iphone! i am going to check tomorrow
+Gone get my iPhone screen fixed tomorrow (:
+Wednesday night, with little fanfare, Facebook gave all U.S. users of Facebook's Messenger app for iPhone the... http://t.co/Qt5E5tTT
+iPhone battery on 12%. Car locked up til tomorrow. Won't b home or next to a charger til after midnight. My life so hard bruh
+My mom Said i have to go to Bed cause i have School tomorrow...  Mom i have a iPhone do you really think i sleep now?
+only thing getting me through the exam tomorrow is the iPhone 5 im getting delivered on thursday morning
+
+
+#tweets in the cluster:  229
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.165165679241 Predicates:get
+0.128830657314 Finally get my iPhone tomorrow .. lol
+Event #2 - Proportion:0.164351545411 Predicates:come
+0.0883276599678 Hope I come home tomorrow being able to use my iphone
+(Additional) Event #3 - Proportion:0.0858282123227 Arguments:ipad
+0.0305078867136 iPhone And iPad Price Drops : January 17 , 2013 : Every discount you need to know about today . http://t.co/YqnnFR4l
+(Additional) Event #4 - Proportion:0.0793180761371 Predicates:run
+0.0132378747339 Oh Joy ! RT @iPhoneTeam : Temple run 2 is coming tomorrow for iPhone and iPad . Who 's ready ?
+(Additional) Event #5 - Proportion:0.079318074502 Arguments:temple
+0.0155743930292 Oh Joy ! RT @iPhoneTeam : Temple run 2 is coming tomorrow for iPhone and iPad . Who 's ready ?
+(Additional) Event #6 - Proportion:0.0788031385612 Predicates:accord
+0.0201107159019 @Andyr412 supposedly the start of next week , but according to my iPhone it 's going to be sleet on Wednesday .
+(Additional) Event #7 - Proportion:0.0742976246484 Predicates:buy
+0.0756665233085 I'm buying a iPhone tomorrow
+(Additional) Event #8 - Proportion:0.0721757432087 Predicates:weather
+0.0276555913212 RT @Dani_Witt : Snow ? Tomorrow ? At 43 degrees ? In Georgia ? Nice try , iPhone weather . But we all know that 's a myth .
+(Additional) Event #9 - Proportion:0.0674173764646 Predicates:change
+0.0219736089609 if Instagram doesn't change its new terms of service between now and January 16th , I'll eat my iPhone
+(Additional) Event #10 - Proportion:0.0674173710552 Arguments:instagram
+0.0324940228962 Goodbye cruel world . Hello iPhone ! Oh and hello Instagram ... until Jan 16 ... http://t.co/v5ABnsSO
+(Additional) Event #11 - Proportion:0.0659071584478 Predicates:happen
+0.0115703068186 According to the gospel that is my iPhone weather app , snow will happen on Tuesday and Wednesday . Sledges at the ready !!
+
+== SumBasic ==
+Word #1 - my 0.0537905001573
+fixing my iphone tomorrow on god..
+Word #2 - i 0.0396351053791
+All I have to say is I will get a iPhone tomorrow.
+Word #3 - the 0.0267379679144
+I might be an official owner of the iPhone tomorrow c:
+
+== PageRank IE ==
+IE #1 - get 2.6379036633
+not getting my iphone until wednesday :'(
+IE #2 - come 2.62490092191
+New iPhone is coming tomorrow yay
+IE #3 - ipad 1.37078451613
+Oh Joy! RT @iPhoneTeam: Temple run 2 is coming tomorrow for iPhone and iPad. Who's ready?
+
+== SumBasic Reference of 20 ==
+Word #1 - my 0.0537905001573
+fixing my iphone tomorrow on god..
+Word #2 - i 0.0396351053791
+All I have to say is I will get a iPhone tomorrow.
+Word #3 - the 0.0267379679144
+I might be an official owner of the iPhone tomorrow c:
+Word #4 - and 0.0138408304498
+my iphone is coming tomorrow so that cheered me up for about 5 seconds but now I'm back to being ill and feeling like I'm going to die yay
+Word #5 - it 0.0138408304498
+Got my iphone, it will b here Wednesday!!
+Word #6 - getting 0.0113243158226
+getting this free iphone tomorrow lol.
+Word #7 - you 0.00975149418056
+@heartfeltHanna lol yes you right girl u txt bakk and tweet fast..ready 2 get my iphone jan 16 than we can face time while im at skoo
+Word #8 - in 0.00786410821013
+Word Fedex said my iPhone should be in by Wednesday.
+Word #9 - new 0.00723497955332
+Fuck my iPhone. New one tomorrow hopefully.
+Word #10 - today 0.00566215791129
+So thought I was getting the iPhone today, but its coming in tomorrow can't wait!
+Word #11 - if 0.00534759358289
+If I buy an iPhone tomorrow I'm gonna be broke for like a 2 weeks, omg its not worth it
+Word #12 - from 0.00440390059767
+I JUST GOT A TEXT FROM BELL SAYING MY ACCOUNT IS BEING CANCELLED ON JANUARY 16TH. GUESS WHAT BITCH IS GETTING AN IPHONE. THIS BITCH IS!!!!!
+Word #13 - until 0.00408933626927
+New phone. Lost all contacts until tomorrow when I restore my iPhone
+Word #14 - finally 0.00314564328405
+Finally getting an iPhone tomorrow. No more droid.
+Word #15 - need 0.00314564328405
+@Rae_DJames thank you Rae! :) i realllllyyyy need team iphone! i am going to check tomorrow
+Word #16 - screen 0.00314564328405
+Gone get my iPhone screen fixed tomorrow (:
+Word #17 - app 0.00283107895565
+Wednesday night, with little fanfare, Facebook gave all U.S. users of Facebook's Messenger app for iPhone the... http://t.co/Qt5E5tTT
+Word #18 - charger 0.00283107895565
+iPhone battery on 12%. Car locked up til tomorrow. Won't b home or next to a charger til after midnight. My life so hard bruh
+Word #19 - go 0.00251651462724
+My mom Said i have to go to Bed cause i have School tomorrow...  Mom i have a iPhone do you really think i sleep now?
+Word #20 - through 0.00251651462724
+only thing getting me through the exam tomorrow is the iPhone 5 im getting delivered on thursday morning
+
+

@@ -1,0 +1,131 @@
+#tweets in the cluster:  242
+
+== PageRank SubEvent Flex ==
+Japan 's transport ministry to check all Boeing 787s after ANA emergency landing : TOKYO , Jan 16 ( Reuters ) - Japan ... http://t.co/0tQEVibL
+The boys are flying to Japan tomorrow I'm done .
+
+== PageRank SubEvent Fixed ==
+Japan 's transport ministry to check all Boeing 787s after ANA emergency landing : TOKYO , Jan 16 ( Reuters ) - Japan ... http://t.co/0tQEVibL
+The boys are flying to Japan tomorrow I'm done .
+A Boeing Dreamliner operated by All Nippon Airways made an emergency landing in the west of Japan on Wednesday
+
+== SumBasic ==
+The boys are going to Japan on Wednesday why how what
+I may be in Japan but I still know tomorrow is pay day!
+WE MIGHT GO TO JAPAN ON JANUARY 16 OHMYGOD
+
+== PageRank IE ==
+Japan's transport ministry to check all Boeing 787s after ANA emergency landing: TOKYO, Jan 16 (Reuters) - Japan... http://t.co/0tQEVibL
+The boys are flying to Japan tomorrow I'm done.
+Tokyo stocks down 1.52% by break: Japan's Nikkei share average fell on Wednesday and looked set to snap a four-d... http://t.co/tb67cGp9
+
+== SumBasic Reference of 20 ==
+The boys are going to Japan on Wednesday why how what
+I may be in Japan but I still know tomorrow is pay day!
+WE MIGHT GO TO JAPAN ON JANUARY 16 OHMYGOD
+[INFO] at Sakihage Awards he performed \"What Can I Do\" Japan Version and This recording will be aired on 6th and 16th of January 2013
+New blow for Dreamliner with emergency landing in Japan: &lt;strong&gt;TOKYO (Jan 16, 2013)&lt;/strong&gt;: A Dreamliner passenger plane made an ...
+Japan's two biggest airlines grounded all their Boeing 787 Dreamliners for safety checks Wednesday after one was... http://t.co/mKE7BSHa
+RT @AJiven: It's goodbye nuclear, hello renewables! Japan to build world's largest offshore wind farm 16 Jan 2013 - New Scientist http:/ ...
+The band are flying to Japan today. Not sure about the boys. They may go later.
+They should be in Japan on Thursday (17th), so I bet they're flying tonight or tomorrow morning.
+Japan researchers grow kidney tissue from stem cells: Researchers in Japan said Wednesday they have succeeded in growing human kidney...
+Tokyo stocks down 1.52% by break: Japan's Nikkei share average fell on Wednesday and looked set to snap a four-day winning streak as ...
+@NiallOfficial Hi Niall Will You Please Follow Me its my 16th birthday today!! I adore you!! :) Have a great time in Japan c u in the US
+World News Japanese airlines ground Dreamliners Jan 16 - Japan's two leading airlines ground their fleets of Boeing 78 http://t.co/adVpYixH
+The fans that have been chose to attended the 1D party in Japan should have received their postcards today as they were sent on the 13th
+Japan's ANA GROUNDS all 17 Boeing 787s: ANA said instruments on a domestic flight early Wednesday indicated a ba... http://t.co/x8lQTEIx
+RT @DrHCaldicott: Good news at last. Japan to build world's largest offshore wind farm - environment - 16 January 2013 - New Scientist h ...
+OMG One Direction heading to Japan today and going back on Saturday.
+Japan Transport Ministry says ANA Dreamliner incident serious: TOKYO, Jan 16 (Reuters) - Japan's Transport Minis... http://t.co/MvHrpXM4
+I'm goin to pass the fuck out in ag tomorrow due to Japan being stupid and 14 hours ahead
+The boys need to be in Japan by tomorrow. The flight is around 12 hours. They will be flying there sometime today (via @1d_worldupdates)
+
+
+#tweets in the cluster:  242
+
+== PageRank SubEvent ==
+Event #1 - Proportion:0.459376324154 Arguments:tokyo,jan,reuters,nikkei,ana Predicates:land,arrive
+0.446841388023 Japan 's transport ministry to check all Boeing 787s after ANA emergency landing : TOKYO , Jan 16 ( Reuters ) - Japan ... http://t.co/0tQEVibL
+Event #2 - Proportion:0.147892621661 Arguments:the boys Predicates:fly,leave
+0.235212654216 The boys are flying to Japan tomorrow I'm done .
+(Additional) Event #3 - Proportion:0.0739118908342 Predicates:emergency,dreamliner
+0.0918118820082 A Boeing Dreamliner operated by All Nippon Airways made an emergency landing in the west of Japan on Wednesday
+(Additional) Event #4 - Proportion:0.0688476806587 Predicates:ground,lead
+0.0480299060328 Japan grounds 787s after emergency landing : Japan 's two leading airlines grounded their fleet of Boeing 787s on Wednesday after one o ...
+(Additional) Event #5 - Proportion:0.0373936582713 Predicates:break
+0.00133460933384 The fans that have been chose to attended the 1D party in Japan should have received their postcards today as they were sent on the 13th
+(Additional) Event #6 - Proportion:0.0359355356641 Predicates:stock down
+0.00133460933384 The fans that have been chose to attended the 1D party in Japan should have received their postcards today as they were sent on the 13th
+(Additional) Event #7 - Proportion:0.0359355340481 Predicates:fall
+0.00133460933384 The fans that have been chose to attended the 1D party in Japan should have received their postcards today as they were sent on the 13th
+(Additional) Event #8 - Proportion:0.0296655229008 Predicates:look set
+0.00133460933384 The fans that have been chose to attended the 1D party in Japan should have received their postcards today as they were sent on the 13th
+(Additional) Event #9 - Proportion:0.0296655214957 Predicates:snap
+0.00133460933384 The fans that have been chose to attended the 1D party in Japan should have received their postcards today as they were sent on the 13th
+(Additional) Event #10 - Proportion:0.0272880441838 Arguments:new scientist
+0.0178246339908 Japan to build world 's largest offshore wind farm - environment - 16 January 2013 - New Scientist http://t.co/XXKDXhtj
+(Additional) Event #11 - Proportion:0.0271146916574 Predicates:check
+0.0156891453072 RT @MrsIrishBoss : THE BOYS ARE ARRIVING AT JAPAN TOMORROW . DON'T THEY KNOW HOW CLOSE JAPAN IS TO THE PHILIPPINES DO THEY EVEN CHECK MAPS
+(Additional) Event #12 - Proportion:0.0269729744719 Arguments:asia
+0.0236139209743 Yen gains in Asia after BoJ policy moves The yen strengthened in Asian trade Wednesday after the Bank of Japan ... http://t.co/0hG48CuK
+
+== SumBasic ==
+Word #1 - the 0.034093889326
+The boys are going to Japan on Wednesday why how what
+Word #2 - in 0.0288486755835
+I may be in Japan but I still know tomorrow is pay day!
+Word #3 - 16 0.0188827694729
+WE MIGHT GO TO JAPAN ON JANUARY 16 OHMYGOD
+
+== PageRank IE ==
+IE #1 - tokyo 5.04980523526
+Japan's transport ministry to check all Boeing 787s after ANA emergency landing: TOKYO, Jan 16 (Reuters) - Japan... http://t.co/0tQEVibL
+IE #2 - the boys 2.60638412775
+The boys are flying to Japan tomorrow I'm done.
+IE #3 - nikkei 1.71546334406
+Tokyo stocks down 1.52% by break: Japan's Nikkei share average fell on Wednesday and looked set to snap a four-d... http://t.co/tb67cGp9
+
+== SumBasic Reference of 20 ==
+Word #1 - the 0.034093889326
+The boys are going to Japan on Wednesday why how what
+Word #2 - in 0.0288486755835
+I may be in Japan but I still know tomorrow is pay day!
+Word #3 - 16 0.0188827694729
+WE MIGHT GO TO JAPAN ON JANUARY 16 OHMYGOD
+Word #4 - and 0.0123262522948
+[INFO] at Sakihage Awards he performed \"What Can I Do\" Japan Version and This recording will be aired on 6th and 16th of January 2013
+Word #5 - jan 0.010752688172
+New blow for Dreamliner with emergency landing in Japan: &lt;strong&gt;TOKYO (Jan 16, 2013)&lt;/strong&gt;: A Dreamliner passenger plane made an ...
+Word #6 - boeing 0.00944138473643
+Japan's two biggest airlines grounded all their Boeing 787 Dreamliners for safety checks Wednesday after one was... http://t.co/mKE7BSHa
+Word #7 - it 0.00917912404931
+RT @AJiven: It's goodbye nuclear, hello renewables! Japan to build world's largest offshore wind farm 16 Jan 2013 - New Scientist http:/ ...
+Word #8 - today 0.00839234198794
+The band are flying to Japan today. Not sure about the boys. They may go later.
+Word #9 - so 0.00550747442958
+They should be in Japan on Thursday (17th), so I bet they're flying tonight or tomorrow morning.
+Word #10 - from 0.00445843168109
+Japan researchers grow kidney tissue from stem cells: Researchers in Japan said Wednesday they have succeeded in growing human kidney...
+Word #11 - by 0.00419617099397
+Tokyo stocks down 1.52% by break: Japan's Nikkei share average fell on Wednesday and looked set to snap a four-day winning streak as ...
+Word #12 - you 0.00419617099397
+@NiallOfficial Hi Niall Will You Please Follow Me its my 16th birthday today!! I adore you!! :) Have a great time in Japan c u in the US
+Word #13 - japanese 0.00367164961972
+World News Japanese airlines ground Dreamliners Jan 16 - Japan's two leading airlines ground their fleets of Boeing 78 http://t.co/adVpYixH
+Word #14 - that 0.0034093889326
+The fans that have been chose to attended the 1D party in Japan should have received their postcards today as they were sent on the 13th
+Word #15 - early 0.0034093889326
+Japan's ANA GROUNDS all 17 Boeing 787s: ANA said instruments on a domestic flight early Wednesday indicated a ba... http://t.co/x8lQTEIx
+Word #16 - environment 0.00314712824548
+RT @DrHCaldicott: Good news at last. Japan to build world's largest offshore wind farm - environment - 16 January 2013 - New Scientist h ...
+Word #17 - back 0.00314712824548
+OMG One Direction heading to Japan today and going back on Saturday.
+Word #18 - reuters 0.00288486755835
+Japan Transport Ministry says ANA Dreamliner incident serious: TOKYO, Jan 16 (Reuters) - Japan's Transport Minis... http://t.co/MvHrpXM4
+Word #19 - out 0.00262260687123
+I'm goin to pass the fuck out in ag tomorrow due to Japan being stupid and 14 hours ahead
+Word #20 - there 0.00262260687123
+The boys need to be in Japan by tomorrow. The flight is around 12 hours. They will be flying there sometime today (via @1d_worldupdates)
+
+
